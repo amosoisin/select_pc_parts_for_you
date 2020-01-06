@@ -12,7 +12,7 @@ sns.set()
 
 class SearchMaxScore:
     def __init__(self, budget):
-        self.ROOT_DIR = "/home/szbhitoshikiizaya/lab/flask_project/suggest_parts/"
+        self.ROOT_DIR = "suggest_parts/"
         self.init_dataset()
         self.init_model()
         self.budget = budget

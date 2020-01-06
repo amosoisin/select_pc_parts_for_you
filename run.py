@@ -20,7 +20,6 @@ def send():
         try:
             sms = SearchMaxScore(budget)
             sms.search()
-            sms.plot_graph()
             suggest_parts = sms.print_max_combi(return_values=True)
             values.update(suggest_parts)
             values["budget"] = budget
