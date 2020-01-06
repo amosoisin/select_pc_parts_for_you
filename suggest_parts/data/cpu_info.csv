@@ -1,0 +1,1706 @@
+name,clock,max_clock,core,thread,L2,L3,smart_cache
+VIA Esther processor 1000MHz,,,,,,,
+AMD Phenom(tm) II X6 1055T Processor,,,,,,,
+Pentium III (Katmai) ,,,,,,,
+Intel(R) Pentium(R) CPU G3450 @ 3.40GHz,3.4,,2,2,,,3000.0
+Intel(R) XEON(TM) CPU 2.40GHz,2.4,,1,2,512.0,,
+AMD Opteron(tm) Processor 852,,,,,,,
+Quad-Core AMD Opteron(tm) Processor 1352,,,,,,,
+AMD Athlon(tm) 64 X2 Dual Core Processor 5200+,,,,,,,
+Intel E5-2699A v4 ES x 2 ,2.4,3.6,22,44,,55000.0,
+Mobile Intel(R) Pentium(R) 4 - M CPU 2.50GHz,2.0,,1,1,512.0,,
+Intel(R) Pentium(R) CPU G2020 @ 2.90GHz,2.9,,2,2,,,3000.0
+Mobile Intel(R) Celeron(R) CPU 2.20GHz,2.2,,1,1,1000.0,,
+Mobile Intel(R) Pentium(R) 4 CPU 2.30GHz,2.0,,1,1,512.0,,
+AMD Duron(tm),,,,,,,
+AMD Opteron(tm) Processor 142,,,,,,,
+Genuine Intel(R) CPU 3.06GHz,1.06,,2,2,2000.0,,
+Dual Core AMD Opteron(tm) Processor 280,,,,,,,
+Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz,3.4,3.8,4,8,,,8000.0
+Genuine Intel(R) CPU 1400 @ 1.66GHz,1.66,,2,2,1000.0,,
+AMD Opteron(tm) Processor 850,,,,,,,
+Intel(R) Celeron(R) CPU E3500 @ 2.70GHz,2.7,,2,2,,,1000.0
+Intel(R) Celeron(R) CPU 847 @ 1.10GHz,1.1,,2,2,,2000.0,
+Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz,2.5,3.1,2,4,,,4000.0
+AMD Athlon(tm) 64 Processor 2600+,,,,,,,
+Intel(R) Xeon(R) CPU X5570 @ 2.93GHz,2.93,3.33,4,8,,,8000.0
+Intel(R) Core(TM) i5-8500B CPU @ 3.00GHz,3.0,4.1,6,6,,,9000.0
+VIA C7 Processor 1000MHz,,,,,,,
+AMD-K6(tm)-III Processor,,,,,,,
+Intel(R) Xeon(R) W-2133 CPU @ 3.60GHz,3.6,3.9,6,12,,8250.0,
+Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz,2.9,3.6,4,4,,,6000.0
+Intel Celeron 766MHz (Coppermine-128K) ,0.8,,1,1,128.0,,
+Intel(R) Pentium(R) 4 CPU 2.80GHz,2.8,,1,1,512.0,,
+Genuine Intel(R) CPU 2.80GHz,1.8,,2,2,1000.0,,
+Athlon XP-M,,,,,,,
+Intel(R) Atom(TM) CPU Z2760 @ 1.80GHz,1.8,,2,4,1000.0,,
+Intel(R) Pentium(R) 4 CPU 2.50GHz,2.8,,1,1,512.0,,
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz,2.8,3.8,4,8,,6000.0,
+Intel(R) Pentium(R) Dual CPU E2220 @ 2.40GHz,2.4,,2,2,1000.0,,
+AMD Phenom(tm) 9550 Quad-Core Processor,,,,,,,
+VIA C7-D Processor 2000MHz,,,,,,,
+Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz,3.4,3.8,4,4,,,6000.0
+Intel(R) Core(TM) i5-3550 CPU @ 3.30GHz,3.3,3.7,4,4,,,6000.0
+Intel(R) Xeon(R) CPU X5470 @ 3.33GHz,3.33,,4,4,12000.0,,
+AMD Athlon MP,,,,,,,
+AMD Phenom(tm) II X6 1045T Processor,,,,,,,
+AMD Athlon(TM) XP,,,,,,,
+Intel(R) Pentium(R) III Mobile CPU 1200MHz,1.2,,1,1,512.0,,
+mobile AMD Athlon(tm) XP 2800+,,,,,,,
+AMD Opteron(tm) Processor 154,,,,,,,
+"AMD A10-7850K Radeon R7, 12 Compute Cores 4C+8G",,,,,,,
+Intel(R) Celeron(R) CPU 530 @ 1.73GHz,1.73,,1,1,1000.0,,
+AMD Sempron(TM) 2400+,,,,,,,
+Intel(R) Celeron(R) CPU P4500 @ 1.87GHz,1.86,,2,2,,,2000.0
+AMD Sempron(tm) 2800+,,,,,,,
+Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz,3.6,4.0,6,12,,15000.0,
+Dual-Core AMD Opteron(tm) Processor 2212 HE,,,,,,,
+Genuine Intel(R) processor 1500MHz,2.16,,1,1,1000.0,,
+Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz,3.0,3.2,4,4,,,6000.0
+AMD Phenom(tm) II X4 980 Processor,,,,,,,
+AMD K7 processo,,,,,,,
+Mobile AMD Sempron(tm) Processor 3000+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T5800 @ 2.00GHz,2.0,,2,2,2000.0,,
+AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-85,,,,,,,
+Mobile Intel(R) Celeron(R) processor 800MHz,0.8,,1,1,128.0,,
+Intel(R) Core(TM)2 CPU P8700 @ 2.53GHz,2.53,,2,2,3000.0,,
+Intel(R) Core(TM) i5 CPU 650 @ 3.20GHz,3.2,3.46,2,4,,,4000.0
+AMD A4-5000 APU with Radeon(TM) HD Graphics,,,,,,,
+Intel(R) Xeon(R) CPU E5630 @ 2.53GHz,2.53,2.8,4,8,,,12000.0
+Intel(R) Pentium(R) III CPU 1200MHz,0.8,,1,1,256.0,,
+AMD Athlon(tm) 64 Processor 3000+,,,,,,,
+Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz,1.8,4.0,4,8,,,8000.0
+Intel(R) Xeon(R) CPU E5430 @ 2.66GHz,2.66,,4,4,12000.0,,
+Intel(R) Atom(TM) CPU D2550 @ 1.86GHz,1.86,,2,4,1000.0,,
+AMD Phenom(tm) II X4 920 Processor,2.8,,4,,2000.0,6000.0,0
+Intel(R) Xeon(R) CPU E5310 @ 1.60GHz,1.6,,4,4,8000.0,,
+AMD Athlon(tm) II X2 B22 Processor,3.0,,2,,,,0
+Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz,2.5,3.1,2,4,,,3000.0
+Intel(R) Atom(TM) CPU 230 @ 1.60GHz,1.6,,1,2,512.0,,
+"AMD A8-7100 Radeon R5, 8 Compute Cores 4C+4G ",,,,,,,
+Intel(R) Pentium(R) 4 CPU 1600MHz,3.0,,1,2,1000.0,,
+AMD FX(tm)-8120 Eight-Core Processor ,3.4,4.3,8.0,8.0,8000.0,,0
+AMD Sempron(tm) Processor LE-1200,,,,,,,
+Intel(R) Core(TM) i3-2367M CPU @ 1.40GHz,1.4,,2,4,,,3000.0
+Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz,2.4,3.4,4,8,,,6000.0
+Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz,2.5,3.3,4,4,,,6000.0
+Intel(R) Pentium(R) 4 Mobile CPU 1.90GHz,1.9,,2,2,,,2000.0
+Pentium (P54C) ,,,,,,,
+Dual Core AMD Opteron(tm) Processor 265,,,,,,,
+Intel(R) Core(TM) i3-4000M CPU @ 2.40GHz,2.4,,2,4,,,3000.0
+Intel(R) Pentium(R) Dual CPU T3400 @ 2.16GHz,2.16,,2,2,1000.0,,
+Intel(R) Core(TM) m3-6Y30 CPU @ 0.90GHz,0.9,2.2,2,4,,,4000.0
+AMD Athlon(tm) X2 250e Processor,,,,,,,
+AMD Phenom(tm) 9600B Quad-Core Processor,,,,,,,
+Genuine Intel(R) CPU 3.20GHz,3.2,,1,2,1000.0,,
+Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz,3.4,3.8,4,4,,,6000.0
+Genuine Intel(R) CPU 3.40GHz,3.4,3.9,4,8,,,8000.0
+Genuine Intel(R) CPU 585 @ 2.16GHz,2.16,,1,1,1000.0,,
+Intel(R) Atom(TM) CPU Z3735F @ 1.33GHz,1.33,,4,4,2000.0,,
+AMD Turion(tm) 64 Mobile Technology ML-32,,,,,,,
+Intel(R) Xeon(TM) CPU 3.20GHz,3.2,,1,2,1000.0,,
+Intel(R) Celeron(R) CPU E3300 @ 2.50GHz,2.5,,2,2,1000.0,,
+"AMD A10-7890K Radeon R7, 12 Compute Cores 4C+8G",,,,,,,
+Intel(R) Core(TM)2 Quad CPU Q9400 @ 2.66GHz,2.66,,4,4,6000.0,,
+mobile AMD Sempron(tm),,,,,,,
+Intel(R) Atom(TM) CPU Z3775D @ 1.49GHz,1.49,,4,4,2000.0,,
+Intel(R) Core(TM)2 Duo CPU E4400 @ 2.00GHz,2.0,,2,2,2000.0,,
+Intel(R) Celeron(R) CPU 540 @ 1.86GHz,1.86,,1,1,1000.0,,
+Mobile Intel(R) Pentium(R) III CPU - M 1066MHz,1.2,,1,1,512.0,,
+Intel(R) Core(TM) i7-2600S CPU @ 2.80GHz,2.8,3.8,4,8,,,8000.0
+Intel(R) Core(TM) i7 CPU L 620 @ 2.00GHz,2.0,2.8,2,4,,,4000.0
+Intel(R) Core(TM)2 Duo CPU E7600 @ 3.06GHz,3.06,,2,2,3000.0,,
+Intel(R) Xeon(R) CPU E5420 @ 2.50GHz,2.5,,4,4,12000.0,,
+Intel(R) Xeon(R) CPU 3070 @ 2.66GHz,2.66,,2,2,4000.0,,
+Intel(R) Pentium(R) III Mobile CPU 866MHz,0.866,,1,1,256.0,,
+Duron (Spitfire),,,1,,,,0
+AMD Turion(tm)X2 Ultra DualCore Mobile ZM-80,,,,,,,
+Intel(R) Celeron(R) CPU 1000M @ 1.80GHz,1.8,,2,2,,,2000.0
+Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz,2.5,3.1,2,4,,,3000.0
+Intel(R) Xeon(R) CPU W3565 @ 3.20GHz,3.2,3.46,4,8,,,8000.0
+AMD FX(tm)-8300 Eight-Core Processor ,,,,,,,
+AMD FX(tm)-8100 Eight-Core Processor,4.7,5.0,8.0,8.0,8000.0,8000.0,0
+Intel(R) Core(TM) i7 CPU X 990 @ 3.47GHz,3.46,3.73,6,12,,,12000.0
+AMD Turion(tm) X2 Dual-Core Mobile RM-70,,,,,,,
+AMD Sempron(tm) SI-42,,,,,,,
+Intel(R) Xeon(R) CPU E5620 @ 2.40GHz,2.4,2.66,4,8,,,12000.0
+Intel(R) Xeon(R) CPU X5690 @ 3.47GHz,3.46,3.73,6,12,,,12000.0
+Intel(R) Celeron(R) CPU 2.00GHz,2.0,,2,2,,,2000.0
+Genuine Intel(R) processor 600MHz,0.6,,1,1,512.0,,
+Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz,2.4,,2,2,2000.0,,
+Intel(R) Celeron(R) CPU G1610 @ 2.60GHz,2.6,,2,2,,,2000.0
+Intel(R) Core(TM)2 CPU E7600 @ 3.06GHz,3.06,,2,2,3000.0,,
+Vortex86DX3 ,,,,,,,
+AMD Athlon(tm) X2 240e Processor,,,,,,,
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz,2.5,3.5,4,8,,,6000.0
+Mobile AMD Athlon(tm) XP xx00+ Processor,,,,,,,
+Intel(R) Xeon(R) CPU X5355 @ 2.66GHz,2.66,,4,4,8000.0,,
+AMD Athlon(TM) XP 1900+,,,,,,,
+Intel(R) Core(TM) i5 CPU M 480 @ 2.67GHz,2.66,2.93,2,4,,,3000.0
+Intel(R) Core(TM) Duo CPU T2400 @ 1.83GHz,1.83,,2,2,2000.0,,
+AMD Athlon(TM) XP 2400+,,,1,,,,0
+AMD Turion(tm) 64 X2 Mobile Technology TL-68,1.6,,2.0,2.0,2000.0,,0
+"Coppermine, CuMine, A80526 ",,,,,,,
+Intel(R) Pentium(R) CPU J4205 @ 1.50GHz,1.5,,4,4,,2000.0,
+AMD Opteron(tm) Processor 248,,,,,,,
+Intel(R) Pentium(R) 4 CPU 3.00GHz,3.0,,1,2,1000.0,,
+Intel(R) Core(TM) Solo CPU U1300 @ 1.06GHz,1.06,,1,1,2000.0,,
+Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz,3.6,3.86,2,4,,,4000.0
+Intel(R) Core(TM) i7-3920XM CPU @ 2.90GHz,2.9,3.6,2,4,,,4000.0
+Intel(R) Core(TM)2 Duo CPU T8100 @ 2.10GHz,2.1,,2,2,3000.0,,
+Intel(R) Xeon(R) CPU E31290 @ 3.60GHz,3.6,3.8,4,8,,,10000.0
+"AMD A10-7870K Radeon R7, 12 Compute Cores 4C+8G",,,,,,,
+Intel(R) Celeron(R) CPU 900 @ 2.20GHz,2.2,,1,1,1000.0,,
+AMD Athlon(tm) 1800+,3.6,4.0,8.0,16.0,4000.0,16000.0,0
+Intel(R) Core(TM)2 Duo CPU L9300 @ 1.60GHz,1.6,,2,2,6000.0,,
+Intel(R) Core(TM)2 CPU U7500 @ 1.06GHz,1.06,,2,2,2000.0,,
+Celeron(R) Dual-Core CPU T3100 @ 1.90GHz,1.9,,2,2,1000.0,,
+Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz,3.4,3.8,4,4,,,6000.0
+Intel(R) Atom(TM) CPU Z3795 @ 1.60GHz,1.59,,4,4,2000.0,,
+Intel(R) Core(TM)2 CPU T5600 @ 1.83GHz,1.83,,2,2,2000.0,,
+Intel(R) Core(TM) i7 CPU 870 @ 2.93GHz,2.93,3.6,4,8,,,8000.0
+Genuine Intel(R) CPU @ 2.80GHz,1.8,,2,2,1000.0,,
+Intel(R) Core(TM) i7-2640M CPU @ 2.80GHz,2.8,3.5,2,4,,,4000.0
+mobile AMD Athlon(tm) XP 2200+,,,,,,,
+Intel(R) Celeron(R) CPU 215 @ 1.33GHz,1.33,,4,4,2000.0,,
+Intel(R) Core(TM) i7-3960X CPU @ 3.30GHz,3.3,3.9,6,12,,,15000.0
+mobile AMD Athlon(tm) XP-M (LV) 1600+,,,,,,,
+AMD Athlon(tm) X2 Dual Core Processor BE-2400,,,,,,,
+Mobile AMD Duron (tm),,,,,,,
+AMD Athlon(tm) 64 FX-55 Processor,,,,,,,
+Intel(R) Core(TM)2 CPU U7600 @ 1.20GHz,1.2,,2,2,2000.0,,
+Quad-Core AMD Opteron(tm) Processor 2356,,,,,,,
+Mobile Intel(R) Pentium(R) 4 CPU 2.80GHz,2.8,,1,1,512.0,,
+Intel(R) Pentium(R) Dual CPU T3200 @ 2.00GHz,2.0,,2,2,1000.0,,
+Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz,2.2,,2,4,,3000.0,
+Intel(R) Xeon(R) CPU W5580 @ 3.20GHz,3.2,3.46,4,8,,,8000.0
+Intel(R) Celeron(R) CPU 440 @ 2.00GHz,2.0,,1,1,512.0,,
+AMD Opteron(tm) Processor 6174,,,,,,,
+AMD Opteron(tm) Processor 144,,,,,,,
+Intel(R) Core(TM)2 CPU 6700 @ 2.66GHz,2.66,,2,2,4000.0,,
+Intel(R) Celeron(R) M CPU 440 @ 1.86GHz,1.86,,1,1,1000.0,,
+AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-84,,,,,,,
+Intel(R) Core(TM) i7-3540M CPU @ 3.00GHz,3.0,3.7,2,4,,,4000.0
+AMD Athlon(tm) II X4 605e Processor,2.5,,4,,2000.0,,0
+Genuine Intel(R) CPU T2050 @ 1.60GHz,1.6,,2,2,2000.0,,
+Intel(R) Pentium(R) Dual CPU E2140 @ 1.60GHz,1.6,,2,2,1000.0,,
+AMD Duron(TM)Processor,,,,,,,
+AMD Opteron(tm) Processor 140,,,,,,,
+Intel(R) Core(TM) CPU 230 @ 1.60GHz,1.6,,1,2,512.0,,
+Pentium(R) Dual-Core CPU E6600 @ 3.06GHz,3.06,,2,2,,,2000.0
+Intel(R) Core(TM)2 Quad CPU @ 2.40GHz,2.4,,4,4,8000.0,,
+Intel(R) Core(TM)2 Extreme CPU Q9300 @ 2.53GHz,2.53,,4,4,12000.0,,
+AMD Athlon(TM) MP 2800+,,,,,,,
+Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz,2.5,3.2,2,4,,,3000.0
+Intel(R) Core(TM) i7 CPU @ 9200 @ 2.67GHz,2.66,2.93,4,8,,,8000.0
+AMD A10-5750M APU with Radeon(tm) HD Graphics ,,,,,,,
+Intel(R) Core(TM) i7-4770S CPU @ 3.10GHz,3.1,3.9,4,8,,,8000.0
+AMD FX(tm)-8150 Eight-Core Processor ,3.4,4.3,8.0,8.0,8000.0,,0
+AMD Ryzen 9 3900X 12-Core Processor ,3.8,4.6,12.0,24.0,6000.0,64000.0,0
+AMD Turion(tm)64 Mobile Technology MT-30,,,,,,,
+Intel(R) Core(TM) CPU N270 @ 1.60GHz,1.6,,1,2,512.0,,
+Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz,3.5,,2,4,,,3000.0
+AMD Athlon(tm) 64 FX-62 Dual Core Processor,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E7200 @ 2.53GHz,2.53,,2,2,3000.0,,
+AMD Geode(tm) NX 2100+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T7100 @ 1.80GHz,1.8,,2,2,2000.0,,
+AMD Athlon(TM) XP 1600+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU P7550 @ 2.26GHz,2.26,,2,2,3000.0,,
+AMD Athlon(tm) Prosussor,,,,,,,
+AMD Ryzen 5 2600X Six-Core Processor ,3.4,3.9,6.0,12.0,3000.0,16000.0,0
+AMD Phenom(tm) II X3 720 Processor,,,,,,,
+Intel(R) Pentium(R) M processor 1.86GHz,1.86,,1,1,2000.0,,
+Intel(R) Pentium(R) D CPU 2.80GHz,2.8,,2,2,2000.0,,
+AMD Phenom(tm) II X4 955 Processor,3.2,,4,,2000.0,6000.0,0
+Intel(R) Core(TM)2 Duo CPU L7500 @ 1.60GHz,1.6,,2,2,4000.0,,
+AMD Turion(tm) 64 Mobile Technology MT-40,,,,,,,
+AMD Athlon(tm) XP 1500+,,,,,,,
+AMD Ryzen 7 2700X Eight-Core Processor ,3.7,4.3,8.0,16.0,4000.0,16000.0,0
+AMD Opteron(tm) Processor 148,,,,,,,
+AMD Ryzen 5 2600 Six-Core Processor ,3.4,3.9,6.0,12.0,3000.0,16000.0,0
+Intel(R) Core(TM)2 Duo CPU E8200 @ 2.66GHz,2.66,,2,2,6000.0,,
+Intel(R) Pentium(R) CPU U5400 @ 1.20GHz,1.2,,2,2,,,3000.0
+mobile AMD Athlon(tm) XP-M 2500+,,,,,,,
+Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz,3.2,4.6,6,12,,,12000.0
+Intel(R) Atom(TM) x7-Z8750 CPU @ 1.60GHz,1.6,,4,4,,2000.0,
+AMD Athlon(TM) XP1900+,,,,,,,
+AMD Ryzen 7 1700 Eight-Core Processor ,3.0,3.7,8.0,16.0,4000.0,16000.0,0
+Intel(R) Pentium(R) 4 Family CPU 2.40GHz,2.4,,2,2,,2000.0,
+AMD Athlon(tm) 64 X2 Dual Core Processor BE-2300,,,,,,,
+AMD Turion(tm) 64 X2 Mobile Technology TL-64,,,,,,,
+AMD Athlon(tm) 64 FX-70 Processor,,,,,,,
+AMD Sempron(tm) 2100+,,,,,,,
+Mobile AMD Athlon(tm) XP 2600+,,,,,,,
+Intel(R) Core(TM) i5-3470T CPU @ 2.90GHz,2.9,3.6,2,4,,,3000.0
+Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz,3.5,3.9,4,8,,,8000.0
+Intel(R) Pentium(R) CPU 3825U @ 1.90GHz,1.9,,2,4,,2000.0,
+Intel(R) Core(TM)2 Quad CPU Q9550 @ 2.83GHz,2.83,,4,4,12000.0,,
+AMD Athlon(tm) 64 X2 Dual Core Processor BE-235,,,,,,,
+AMD FX(tm)-6100 Six-Core Processor ,,,,,,,
+Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz,2.6,3.5,2,4,,,3000.0
+AMD Athlon(tm) II X3 445 Processor,,,,,,,
+Intel(R) Xeon(R) CPU X3370 @ 3.00GHz,3.0,,4,4,12000.0,,
+AMD Athlon(tm) 64 X2 Processor 4400+,,,,,,,
+Intel(R) Core(TM) i7 CPU S 870 @ 2.67GHz,2.93,3.6,4,8,,,8000.0
+Intel(R) Pentium(R) 4 CPU 3.06GHz,3.06,,1,2,512.0,,
+Celeron(R) Dual-Core CPU T3500 @ 2.10GHz,2.1,,2,2,,1000.0,
+VIA C7-M Processor 1600MHz,,,,,,,
+Intel(R) Xeon(R) CPU 3050 @ 2.13GHz,2.13,,2,2,2000.0,,
+Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,3.7,,2,4,,,3000.0
+Intel(R) Xeon(R) CPU X3350 @ 2.66GHz,2.66,,4,4,12000.0,,
+Intel(R) Core(TM) i7 CPU 960 @ 3.20GHz,3.2,3.46,4,8,,,8000.0
+Mobile Intel(R) Celeron(TM) CPU 1200MHz,1.73,,1,1,1000.0,,
+Intel(R) Celeron(TM) CPU 1200MHz,1.2,,1,1,256.0,,
+Intel(R) Celeron(R) CPU G1820 @ 2.70GHz,2.7,,2,2,,,2000.0
+AMD A10-5700 APU with Radeon(tm) HD Graphics,,,,,,,
+Dual-Core AMD Opteron(tm) Processor 1214,,,,,,,
+Intel(R) Pentium(R) CPU P6200 @ 2.13GHz,2.13,,2,2,,,3000.0
+AMD Athlon(tm) II X3 450 Processor,,,,,,,
+Intel(R) Core(TM) i7-5775C CPU @ 3.30GHz,3.3,,2,4,,,3000.0
+AMD Athlon(tm) MP 2400+,,,,,,,
+Genuine Intel(R) CPU T2500 @ 2.00GHz,2.0,,2,2,2000.0,,
+mobile AMD Athlon(tm) XP-M (LV) 1700+,,,,,,,
+Mobile AMD Duron(tm) Processor,,,,,,,
+Intel(R) Core(TM) i3-4370 CPU @ 3.80GHz,3.8,,2,4,,,4000.0
+Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz,2.0,3.0,14,28,,,35000.0
+Intel(R) Celeron(R) CPU 925 @ 2.30GHz,2.3,,1,1,1000.0,,
+Intel(R) Pentium(R) D CPU 2.66GHz,2.66,,1,1,512.0,,
+Intel(R) Pentium(R) 4 Family CPU 2.53GHz,2.8,,1,1,512.0,,
+Intel(R) Xeon(R) CPU E5-2687W v2 @ 3.40GHz,3.4,4.0,8,16,,,25000.0
+AMD Athlon(tm) 64 X2 Processor 4600+,,,,,,,
+Mobile Intel(R) Pentium(R) III CPU - M 933MHz,0.933,,1,1,512.0,,
+AMD Athlon(TM) XP2200+,,,,,,,
+mobile AMD Athlon(tm) XP-M (LV) 1900+,,,,,,,
+Intel(R) Core(TM) i7 CPU X 920 @ 2.00GHz,2.0,3.2,4,8,,,8000.0
+AMD Athlon(tm) XP Processor 3000+,,,,,,,
+Intel(R) Atom(TM) CPU 330 @ 1.60GHz,1.6,,2,4,1000.0,,
+Intel(R) Celeron(R) M processor 1.60GHz,1.6,,1,1,1000.0,,
+AMD Phenom(tm) X4 Quad-Core Processor GP-9730,,,,,,,
+Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz,1.8,,2,4,,,3000.0
+AMD Athlon(TM) XP 2600+,,,,,,,
+Intel(R) Xeon(R) CPU W3680 @ 3.33GHz,3.33,3.6,6,12,,,12000.0
+Genuine Intel(R) CPU 6.00GHz,2.0,,1,1,1000.0,,
+AMD Turion(tm) 64 Mobile ML-40,,,,,,,
+AMD Sempron(tm) 3000+,1.8,,1,,128.0,,0
+Intel(R) Xeon(R) CPU E3-1225 v3 @ 3.20GHz,3.2,3.6,4,4,,,8000.0
+Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz,2.5,3.5,4,8,,,6000.0
+Mobile AMD Sempron(tm) Processor 3300+,,,,,,,
+AMD Athlon(TM) XP 3200+,,,,,,,
+Intel(R) Xeon(R) CPU L3110 @ 3.00GHz,3.0,,2,2,6000.0,,
+AMD Phenom(tm) II X4 945 Processor,,,,,,,
+AMD Turion(tm) 64 mobile Technology ML-37,,,,,,,
+Intel(R) Pentium(R) III CPU family 1133MHz,1.13,,1,1,256.0,,
+Intel(R) Pentium(R) 4 Mobile CPU 2.00GHz,2.0,,1,1,512.0,,
+AMD Athlon(tm) XP 2900+,,,,,,,
+Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz,2.3,2.9,2,4,,,3000.0
+Mobile AMD Athlon(tm) XP-M Processor 2800+,,,,,,,
+Intel(R) Core(TM)2 Quad CPU @ 2.66GHz,2.66,,4,4,6000.0,,
+AMD Ryzen 7 1800X Eight-Core Processor ,3.6,4.0,8.0,16.0,4000.0,16000.0,0
+Pentium MMX (P55C) ,,,,,,,
+Genuine Intel(R) CPU @ 2.60GHz,1.6,,2,2,1000.0,,
+Intel(R) Core(TM) i7 CPU 970 @ 3.20GHz,3.2,3.46,6,12,,,12000.0
+Intel(R) Core(TM)2 CPU E7500 @ 2.93GHz,2.93,,2,2,3000.0,,
+Intel(R) Core(TM) i7-2960XM CPU @ 2.70GHz,2.7,3.7,4,8,,,8000.0
+AMD Phenom(tm) II X4 B60 Processor,,,,,,,
+Intel(R) Celeron(R) CPU B800 @ 1.50GHz,1.5,,2,2,,2000.0,
+AMD Athlon(tm) 7850 Dual-Core Processor,,,,,,,
+AMD Athlon(tm) 2400+,,,1,,,,0
+mobile AMD Athlon(tm) XP-M 2000+,,,,,,,
+Intel(R) Celeron(R) CPU N2807 @ 1.58GHz,1.58,,2,2,,1000.0,
+Intel(R) Pentium(R) III Mobile CPU 800MHz,0.8,,1,1,256.0,,
+Genuine Intel(R) CPU T1300 @ 1.66GHz,1.66,,1,1,2000.0,,
+AMD Athlon(tm) 64 Processor 2800+,,,,,,,
+AMD Phenom(tm) II X4 970 Processor,3.5,,4,,2000.0,6000.0,0
+Intel(R) Pentium(R) 4 Mobile CPU 1.70GHz,1.7,,1,1,256.0,,
+Intel(R) Core(TM) i3 CPU U 380 @ 1.33GHz,1.33,,2,4,,,3000.0
+Intel(R) Celeron(R) CPU 2.60GHz,2.6,,2,2,,,2000.0
+AMD Athlon(tm) X2 240 Processor,,,,,,,
+Intel(R) Core(TM) i7-2920XM CPU @ 2.50GHz,2.5,3.5,4,8,,,8000.0
+AMD A6-3420M APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Athlon(tm) 64 Processor 3100+,,,,,,,
+Core 2 Quad (Yorkfield) ,2.83,,4,4,12000.0,,
+Pentium II (Deschutes) ,,,,,,,
+AMD Athlon(tm)X2 DualCore QL-60,,,,,,,
+Core 2 Duo (Wolfdale) ,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T9900 @ 3.06GHz,3.06,,2,2,6000.0,,
+AMD Athlon(tm) 2800+,,,1,,,,0
+AMD Turion(tm) 64 Mobile ML-28,,,,,,,
+Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz,2.2,3.2,4,8,,,6000.0
+Intel(R) Core(TM) i5 CPU K 655 @ 3.20GHz,3.2,3.46,2,4,,,4000.0
+Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz,2.4,3.0,2,4,,,3000.0
+AMD A8-5600K APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Sempron(TM) 2800+,,,,,,,
+AMD Athlon(tm) 64 Processor FX-55,,,,,,,
+Intel(R) Core(TM)2 Extreme CPU Q6800 @ 2.93GHz,2.93,,4,4,8000.0,,
+AMD A6-7310 APU with AMD Radeon R4 Graphics ,,,,,,,
+Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz,2.3,3.0,10,20,,,25000.0
+Intel(R) Core(TM)2 Duo CPU T7800 @ 2.60GHz,2.6,,2,2,4000.0,,
+Intel(R) Pentium(R) 3558U @ 1.70GHz,1.7,,2,2,,,2000.0
+AMD Opteron(tm) Processor 240,,,,,,,
+VIA Ezra,,,,,,,
+Intel(R) Core(TM)2 CPU 6300 @ 1.86GHz,1.86,,2,2,2000.0,,
+AMD Phenom(tm) 8400 Triple-Core Processor,,,,,,,
+Mobile AMD Sempron(tm) 3100+,,,,,,,
+Intel(R) Core(TM) Duo CPU L2400 @ 1.66GHz,1.66,,2,2,2000.0,,
+AMD Athlon(tm) 64 X2 Dual Core 4600+,2.4,,2,,1000.0,,0
+AMD Processor model unknown,,,,,,,
+AMD Athlon XP_M,,,,,,,
+Intel(R) Pentium(R) 4 CPU 1300MHz,2.8,,1,1,512.0,,
+AMD Athlon(tm) 64 Processor 3700+,,,,,,,
+AMD Opteron(tm) Processor 152,,,,,,,
+Intel(R) Pentium(R) 4 CPU 1.40GHz,2.4,,1,1,512.0,,
+mobile AMD Athlon(tm) XP 1500+,,,,,,,
+Celeron(R) Dual-Core CPU T3000 @ 1.80GHz,1.8,,2,2,1000.0,,
+AMD Athlon(tm) MP,,,,,,,
+Intel(R) Pentium(R) M processor 1300MHz,1.6,,1,1,1000.0,,
+Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz,3.4,3.8,4,8,,,8000.0
+Intel(R) Core(TM)2 CPU E8500 @ 3.16GHz,3.16,,2,2,6000.0,,
+Intel(R) Pentium(R) 4 CPU 3.46GHz,3.0,,1,2,1000.0,,
+Intel(R) Pentium(R) M CPU 2?0 @ 1.50GHz,1.5,,1,1,1000.0,,
+AMD A6-3500 APU with Radeon(tm) HD Graphics,,,,,,,
+AMD A6 Micro-6500T APU + AMD Radeon R4 Graphics,,,,,,,
+Intel(R) Xeon(R) CPU W5590 @ 3.33GHz,3.33,3.6,4,8,,,8000.0
+Pentium(R) Dual-Core CPU E5400 @ 2.70GHz,2.7,,2,2,2000.0,,
+AMD Turion(tm) 64 Mobile Technology MT-32,,,,,,,
+Intel(R) Pentium(R) 4 CPU 2.20GHz,2.2,,1,1,512.0,,
+Intel(R) Pentium(R) III CPU 1333MHz,1.4,,1,1,512.0,,
+Intel(R) Pentium(R) III Mobile CPU 1000MHz,1.0,,1,1,256.0,,
+Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz,3.5,4.0,6,12,,8250.0,
+Mobile Celeron (Dixon-128K) ,0.3,,1,1,128.0,,
+AMD Turion(tm) 64 X2,,,,,,,
+AMD-K7(tm) Processor,3.4,3.8,8.0,16.0,4000.0,16000.0,0
+Intel(R) Xeon(R) CPU X3450 @ 2.67GHz,2.66,3.2,4,8,,,8000.0
+AMD Sempron(TM) 3000+,1.8,,1,,128.0,,0
+Intel(R) Core(TM) Duo CPU T2300 @ 1.66GHz,1.66,,2,2,2000.0,,
+mobile AMD Athlon(tm) 64 Processor 3000+,,,,,,,
+Intel(R) Atom(TM) CPU Z3770 @ 1.46GHz,1.46,,4,4,2000.0,,
+Celeron (Northwood-128K) ,2.0,,1,1,128.0,,
+AMD A8-3820 APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Turion(tm) 64 Mobile Technology MK-38,,,,,,,
+AMD Athlon(tm) Processor LE-1660,,,,,,,
+AMD Athlon(tm) MP 2200+,,,,,,,
+Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz,3.1,,2,4,,,3000.0
+AMD Athlon(tm) pros}ssor,,,,,,,
+Intel(R) Core(TM) i5 CPU 680 @ 3.60GHz,3.6,3.86,2,4,,,4000.0
+Mobile AMD Athlon(tm) 64 Processor 2800+,,,,,,,
+AMD Mobile Athlon XP-M2600+ (Tbred),,,,,,,
+AMD Sempron(tm),,,,,,,
+AMD Athlon(tm) X2 Dual-Core QL-62,,,,,,,
+Enter here. Up to 48 characters.,,,,,,,
+AMD Sempron(tm) Processor 2500+,,,,,,,
+Unknown CPU Typ,,,,,,,
+Intel(R) Core(TM) i5 CPU M 450 @ 2.40GHz,2.4,2.66,2,4,,,3000.0
+Genuine Intel(R) CPU @ 2.00GHz,2.0,,1,1,1000.0,,
+Intel(R) Core(TM) i5 CPU M 560 @ 2.67GHz,2.66,3.2,2,4,,,3000.0
+AMD Phenom(tm) 9150e Quad-Core Processor,,,,,,,
+mobile AMD Athlon(tm) XP2400+,,,,,,,
+Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz,2.8,3.8,4,8,,,6000.0
+Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz,2.5,3.1,4,4,,,6000.0
+AMD Athlon(tm) 2600+,3.4,3.9,6.0,12.0,3000.0,16000.0,0
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55,,,,,,,
+Intel(R) Celeron(R) M processor 800MHz,0.8,,1,1,512.0,,
+AMD Athlon(tm) II X2 220 Processor,3.0,,2,,,,0
+Intel(R) Pentium(R) CPU G6950 @ 2.80GHz,2.8,,2,2,,,3000.0
+Intel(R) Xeon(R) CPU X5650 @ 2.67GHz,2.66,3.06,6,12,,,12000.0
+AMD Athlon(tm) II X2 265 Processor,3.3,,2,,2000.0,,0
+Genuine Intel(R) CPU T2400 @ 1.83GHz,1.83,,2,2,2000.0,,
+Mobile AMD Sempron(tm) Processor 3100+,,,,,,,
+AMD Athlon(tm)64 X2 Dual Core Processor 4800+,,,,,,,
+AMD Ryzen 5 1600X Six-Core Processor ,3.6,4.0,6.0,12.0,3000.0,16000.0,0
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+,,,,,,,
+Mobile Intel(R) Celeron(R) CPU 1.60GHz,1.6,,2,2,,,2000.0
+Intel(R) Pentium(R) 4 CPU 2.40GHz,2.4,,1,1,512.0,,
+Intel(R) Celeron(R) CPU 2.66GHz,2.66,,1,1,256.0,,
+Intel(R) Celeron(R) CPU 220 @ 1.20GHz,1.2,,1,1,512.0,,
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,3.2,3.6,4,4,,,6000.0
+AMD Athlon(tm) 64 Processor 3400+,,,,,,,
+Core 2 Quad Q9505(Yorkfield) ,2.83,,4,4,6000.0,,
+Intel(R) Xeon(TM) CPU 3.06GHz,3.06,,1,2,512.0,,
+Intel(R) Pentium(R) M processor 2.13GHz,2.13,,2,2,,,3000.0
+Mobile Intel(R) Pentium(R) 4 - M CPU 2.40GHz,2.0,,1,1,512.0,,
+Intel(R) Core(TM)2 Quad CPU Q9300 @ 2.50GHz,2.5,,4,4,6000.0,,
+Intel(R) Celeron(R) CPU 2.30GHz,2.3,,1,1,1000.0,,
+AMD Sempron(tm) Processor 3500+,,,,,,,
+Intel(R) Pentium(R) M processor 900MHz,1.6,,1,1,1000.0,,
+Genuine Intel(R) CPU 230 @ 1.60GHz,1.6,,1,2,512.0,,
+Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz,3.0,3.5,12,24,,,30000.0
+AMD E-450 APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Athlon(tm) II X2 250 Processor,3.0,,2,,,,0
+Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz,2.2,2.7,2,4,,3000.0,
+Intel(R) Celeron(R) CPU G3900 @ 2.80GHz,2.8,,2,2,,,2000.0
+Intel(R) Pentium(R) CPU T4200 @ 2.00GHz,2.0,,2,2,1000.0,,
+AMD Athlon(tm)64 X2 Dual Core Processor 3800+,,,,,,,
+Intel(R) Core(TM) i7 CPU 920 @ 2.67GHz,2.66,2.93,4,8,,,8000.0
+Intel(R) Celeron(R) CPU 450 @ 2.20GHz,2.2,,1,1,512.0,,
+Intel(R) Core(TM) i5 CPU 760 @ 2.80GHz,2.8,3.33,4,4,,,8000.0
+Intel(R) Core(TM)2 Duo CPU E7300 @ 2.66GHz,2.66,,2,2,3000.0,,
+Intel(R) Xeon(R) CPU E5450 @ 3.00GHz,3.0,,4,4,12000.0,,
+Pentium III (Coppermine) GW ,0.6,,1,1,256.0,,
+AMD Athlon(tm) II P360 Dual-Core Processor,,,,,,,
+Intel(R) Core(TM) i7 CPU X 000 @ 3.47GHz,3.4,3.9,4,8,,,8000.0
+Quad-Core AMD Opteron(tm) Processor 2350,,,,,,,
+AMD Sempron(tm) 3300+,,,,,,,
+Mobile Intel(R) Celeron(TM) CPU 1066MHz,2.13,,1,1,1000.0,,
+AMD Athlon(tm) prosussor,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E6850 @ 3.00GHz,3.0,,2,2,4000.0,,
+Intel(R) Celeron(R) CPU G1620 @ 2.70GHz,2.7,,2,2,,,2000.0
+Intel(R) Core(TM)2 Duo CPU E7500 @ 2.93GHz,2.93,,2,2,3000.0,,
+AMD Turion(tm) 64 Mobile Technology ML-30,,,,,,,
+Intel(R) Core(TM)2 Quad CPU Q9650 @ 3.00GHz,3.0,,4,4,12000.0,,
+Intel(R) Xeon(TM) CPU 1.80GHz,2.8,,1,2,512.0,,
+Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz,2.6,3.4,8,16,,,20000.0
+Intel(R) Celeron(R) CPU J1900 @ 1.99GHz,2.0,,4,4,2000.0,,
+Intel(R) Core(TM) i7-2620M CPU @ 2.70GHz,2.7,3.4,2,4,,,4000.0
+Genuine Intel(R) CPU L2400 @ 1.66GHz,1.66,,2,2,2000.0,,
+Intel(R) Celeron(R) M CPU 420 @ 1.60GHz,1.6,,1,1,1000.0,,
+AMD A8-3530MX APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Xeon(TM) MP CPU 3.33GHz,3.33,,1,1,8000.0,,
+Intel(R) Core(TM) i7 CPU 880 @ 3.07GHz,3.06,3.33,4,8,,,8000.0
+Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz,2.8,,2,4,,,3000.0
+Genuine Intel(R) CPU @ 1.40GHz,,,,,,,
+Intel(R) Pentium(R) M processor 2.00GHz,2.0,,2,2,,2000.0,
+Intel(R) Xeon(R) CPU X5450 @ 3.00GHz,3.0,,4,4,12000.0,,
+Intel(R) Celeron(R) M processor 1400MHz,1.4,,1,1,1000.0,,
+Intel(R) Core(TM)2 Duo CPU E8600 @ 3.33GHz,3.33,,2,2,6000.0,,
+Intel(R) Core(TM)2 Duo CPU L7800 @ 2.00GHz,2.0,,2,2,2000.0,,
+AMD Phenom(tm) II N950 Quad-Core Processor,,,,,,,
+Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz,2.3,3.6,18,36,,,45000.0
+Mobile AMD Sempron(tm) Processor 2600+,,,,,,,
+AMD Athlon(TM) XP 2200+,,,1,,,,0
+Celeron (Coppermine-128K) ,0.633,,1,1,128.0,,
+Intel(R) Atom(TM) CPU Z500 @ 800MHz,0.8,,1,2,512.0,,
+Intel(R) Celeron(R) M CPU 443 @ 1.20GHz,1.2,,1,1,256.0,,
+Intel(R) Core(TM) i5-2557M CPU @ 1.70GHz,1.7,2.7,2,4,,3000.0,
+Intel(R) Pentium(R) D CPU 6.00GHz,2.0,,2,2,,2000.0,
+AMD Athlon(tm) 64 Processor 3600+,,,,,,,
+mobile AMD Sempron(tm) Processor 2600+,,,,,,,
+Intel(R) Core(TM)2 CPU L7400 @ 1.50GHz,1.86,,2,2,2000.0,,
+Intel(R) Xeon(TM) CPU 1.60GHz,1.6,,2,2,4000.0,,
+Intel(R) Pentium(R) Dual CPU T2390 @ 1.86GHz,1.86,,2,2,1000.0,,
+Intel(R) Celeron(R) CPU 420 @ 1.60GHz,1.6,,1,1,512.0,,
+Intel(R) Core(TM)2 Duo CPU E4700 @ 2.60GHz,2.6,,2,2,2000.0,,
+Genuine Intel(R) CPU 3.60GHz,1.6,,2,2,1000.0,,
+Intel(R) Core(TM)2 Duo CPU E8135 @ 2.40GHz,2.4,,2,2,3000.0,,
+VIA Esther processor 1500MHz,,,,,,,
+AMD Turion(tm) II Ultra Dual-Core Mobile M640,,,,,,,
+Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz,2.2,2.8,4,4,,,6000.0
+Intel(R) Xeon(R) CPU E5462 @ 2.80GHz,2.8,,4,4,12000.0,,
+Intel(R) Xeon(TM) CPU 3.00GHz,3.0,,1,1,,2000.0,
+AMD Athlon(TM) MP 2300+,,,,,,,
+mobile AMD Sempron(tm) Processor 3100+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU P7500 @ 1.60GHz,1.6,,2,2,4000.0,,
+Intel(R) Core(TM) i3-7100H CPU @ 3.00GHz,3.0,,2,4,,3000.0,
+Pentium III Xeon (Cascades) ,0.7,,1,1,1000.0,,
+Mobile AMD Athlon 64 Processor 3000+,,,,,,,
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz,2.4,3.4,4,8,,,6000.0
+Genuine Intel(R) CPU 575 @ 2.00GHz,2.0,,1,1,1000.0,,
+Intel(R) Pentium(R) 4 CPU 2.26GHz,2.4,,1,1,512.0,,
+AMD Athlon(tm) 64 Processor 3800+,,,,,,,
+Pentium ,,,,,,,
+AMD Turion(tm) 64 Mobile Technology ML-34,,,,,,,
+AMD Athlon(tm) 64 X2 Dual Core Processor BE-2400,,,,,,,
+Intel(R) Core(TM) i5-6267U CPU @ 2.90GHz,2.9,3.3,2,4,,,4000.0
+mobile AMD Athlon(tm) XP 1800+,,,,,,,
+Intel(R) Core(TM)2 Quad CPU Q9000 @ 2.00GHz,2.0,,4,4,6000.0,,
+Intel(R) Pentium(R) III CPU - S 1133MHz,1.4,,1,1,512.0,,
+Intel(R) Pentium(R) 4 CPU 1.90GHz,1.9,,2,4,,2000.0,
+Intel(R) Xeon(TM) CPU 3.73GHz,3.73,,2,4,4000.0,,
+AMD Phenom(tm) 9850 Quad-Core Processor,,,,,,,
+Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz,2.3,,2,4,,,3000.0
+mobile AMD Athlon(tm) XP-M,,,,,,,
+Dual Core AMD Opteron(tm) Processor 285,,,,,,,
+Intel(R) Celeron(R) M processor 1.40GHz,1.4,,1,1,1000.0,,
+AMD Athlon(tm),3.0,,2,,,,0
+AMD Athlon(tm) II X2 260 Processor,3.2,,2,,2000.0,,0
+Intel(R) Core(TM) i7-3740QM CPU @ 2.70GHz,2.7,3.7,4,8,,,6000.0
+AMD A4-4000 APU with Radeon(tm) HD Graphics ,,,,,,,
+Intel(R) Celeron(R) CPU B815 @ 1.60GHz,1.6,,2,2,,2000.0,
+AMD A4-7300 APU with Radeon HD Graphics ,,,,,,,
+mobile AMD Athlon(tm) XP 2700+,,,,,,,
+AMD Opteron(tm) Processor 252,,,,,,,
+Intel(R) Pentium(R) CPU N3530 @ 2.16GHz,2.16,,4,4,,2000.0,
+AMD Phenom(tm) II X2 555 Processor,,,,,,,
+AMD Athlon(tm) X4 845 Quad Core Processor ,3.7,4.0,4.0,4.0,4000.0,,0
+2 x Pentium (P54C) ,,,,,,,
+Genuine Intel(R) CPU @ 0000 @ 3.07GHz,2.0,,1,1,1000.0,,
+Intel(R) Core(TM)2 Duo CPU P9700 @ 2.80GHz,2.8,,2,2,6000.0,,
+Intel(R) Core(TM) i7-6700T CPU @ 2.80GHz,2.8,3.6,4,8,,,8000.0
+AMD Phenom(tm) 9350e Quad-Core Processor,,,,,,,
+mobile AMD Athlon(tm) XP-M (LV) 1800+,,,,,,,
+Genuine Intel(R) CPU T1200 @ 1.50GHz,1.86,,1,1,2000.0,,
+WinChip C6 ,,,,,,,
+Intel(R) Celeron(R) M processor 1200MHz,0.6,,1,1,512.0,,
+AMD Opteron(tm) Processor 254,,,,,,,
+Genuine Intel(R) CPU T1400 @ 1.83GHz,1.83,,1,1,2000.0,,
+AMD Athlon(tm) X4 620 Processor,,,,,,,
+Mobile AMD Athlon(tm) 64 Processor 4000+,,,,,,,
+Intel(R) Pentium(R) CPU G4600 @ 3.60GHz,3.6,,2,4,,3000.0,
+mobile AMD Duron(tm) Processor,,,,,,,
+Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz,3.3,3.7,4,8,,,8000.0
+Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,3.0,3.7,4,4,,,6000.0
+AMD Athlon(TM) MP 2600+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E8400 @ 3.00GHz,3.0,,2,2,6000.0,,
+Intel(R) Pentium(R) CPU E6500 @ 2.93GHz,2.93,,2,2,2000.0,,
+Intel(R) Core(TM) i5-4300Y CPU @ 1.60GHz,1.6,2.3,2,4,,,3000.0
+Genuine Intel(R) CPU 1600 @ 2.16GHz,2.16,,1,1,1000.0,,
+Genuine Intel(R) CPU 0000 @ 2.10GHz,2.1,,2,2,,2000.0,
+AMD Sempron(TM) 2500+,,,,,,,
+AMD Turion(tm) 64 Mobile Technology MK-36,,,,,,,
+Intel(R) Celeron(R) CPU 1005M @ 1.90GHz,1.9,,2,2,,2000.0,
+AMD Phenom(tm) II X2 550 Processor,,,,,,,
+Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,1.6,,2,2,,,2000.0
+Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz,2.2,3.1,4,8,,,6000.0
+Intel(R) Pentium(R) III Mobile CPU 733MHz,0.733,,1,1,256.0,,
+Intel(R) Xeon(TM) MP CPU 2.80GHz,2.8,,1,2,512.0,,
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,3.6,4.2,4,8,,,8000.0
+Intel(R) Core(TM)2 Quad CPU Q6700 @ 2.66GHz,2.66,,4,4,8000.0,,
+Mobile Intel(R) Celeron(R) CPU 2.40GHz,2.4,,1,1,128.0,,
+AMD Athlon(tm) 3000+,,,,,,,
+Intel(R) Pentium(R) M processor 1700MHz,1.6,,1,1,1000.0,,
+mobile AMD Athlon(tm) XP 1600+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E6550 @ 2.33GHz,2.33,,2,2,4000.0,,
+AMD Athlon(tm) 64 FX-74 Processor,,,,,,,
+Intel(R) Celeron(R) CPU P4600 @ 2.00GHz,2.0,,2,2,,,2000.0
+AMD Athlon(tm) XP-M (LV) 1700+,,,,,,,
+Intel(R) Core(TM)2 Quad CPU Q6600 @ 2.40GHz,2.4,,4,4,8000.0,,
+Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz,3.5,4.1,4,4,,,6000.0
+AMD Phenom(tm) II X4 B45 Processor,,,,,,,
+AMD Athlon(TM) XP 2500+,,,,,,,
+Intel(R) Xeon(TM) CPU 2.20GHz,2.2,,1,2,512.0,,
+Intel(R) Core(TM)2 CPU T7600 @ 2.33GHz,2.33,,2,2,4000.0,,
+Mobile AMD Athlon(tm) 64 Processor 3400+,,,,,,,
+Intel(R) Core(TM) i7-2820QM CPU @ 2.30GHz,2.3,3.4,4,8,,,8000.0
+Intel(R) Core(TM) i7 CPU 930 @ 2.80GHz,2.8,3.06,4,8,,,8000.0
+AMD Athlon(tm) Dual Core Processor 4450e,,,,,,,
+Intel(R) Core(TM) i5-2467M CPU @ 1.60GHz,1.6,2.3,2,4,,3000.0,
+Mobile Intel(R) Celeron(R) CPU 1.70GHz,1.7,,1,1,256.0,,
+Mobile AMD Sempron(tm) Processor 2800+,,,,,,,
+Intel(R) Core(TM) i7-5930K CPU @ 3.50GHz,3.5,3.7,6,12,,,15000.0
+AMD Athlon(tm) II X2 245 Processor,3.0,,2,,,,0
+AMD Athlon(tm) X2 Dual-Core QL-65,,,,,,,
+Intel(R) Atom(TM) x5-Z8500 CPU @ 1.44GHz,1.44,,4,4,,2000.0,
+Intel(R) Core(TM)2 Duo CPU L9400 @ 1.86GHz,1.86,,2,2,6000.0,,
+Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz,3.5,3.9,4,8,,,8000.0
+AMD Athlon(tm) II Dual-Core M320,,,,,,,
+Intel(R) Core(TM)2 Duo CPU L9600 @ 2.13GHz,2.13,,2,2,6000.0,,
+AMD Phenom(tm) 9100e Quad-Core Processor,,,,,,,
+Dual Core AMD Opteron(tm) Processor 270,,,,,,,
+Genuine Intel(R) CPU U2500 @ 1.20GHz,1.2,,2,2,2000.0,,
+AMD Athlon(tm) XP processor 1600+,,,,,,,
+Intel(R) Core(TM)2 Quad CPU Q8300 @ 2.50GHz,2.5,,4,4,4000.0,,
+Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz,2.2,3.0,8,16,,,20000.0
+Intel(R) Core(TM)2 Quad CPU Q9100 @ 2.26GHz,2.26,,4,4,12000.0,,
+AMD A10-5700 APU with Radeon(tm) HD Graphics ,,,,,,,
+Mobile Intel(R) Pentium(R) 4 - M CPU 1.70GHz,1.7,,1,1,1000.0,,
+Genuine Intel(R) CPU 000 @ 2.27GHz,,,,,,,
+Intel(R) Pentium(R) 4 CPU 3.60GHz,3.0,,1,2,1000.0,,
+Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz,3.5,3.9,4,4,,,6000.0
+AMD Sempron(tm,,,,,,,
+Intel(R) Pentium(R) CPU G840 @ 2.80GHz,2.8,,2,2,,,3000.0
+AMD Turion(tm) 64 mobile Technology MT-37,,,,,,,
+Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz,2.6,3.3,2,4,,,3000.0
+AMD Athlon(tm) Dual Core Processor 4450B,,,,,,,
+VIA Samuel,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T9800 @ 2.93GHz,2.93,,2,2,6000.0,,
+Intel(R) Core(TM) i3-4360 CPU @ 3.70GHz,3.7,,2,4,,,4000.0
+Intel(R) Xeon(TM) CPU 3.16GHz,3.16,,1,2,1000.0,,
+AMD C-70 APU with Radeon(tm) HD Graphics,,,,,,,
+Mobile Pentium III (Coppermine) ,0.75,,1,1,256.0,,
+AMD Athlon(tm) 64 FX-57 Processor,,,,,,,
+Intel(R) Celeron(R) M processor 1500MHz,1.5,,1,1,1000.0,,
+Intel(R) Atom(TM) CPU N280 @ 1.66GHz,1.66,,1,2,512.0,,
+Mobile Intel(R) Celeron(R) CPU 2.50GHz,1.5,,2,2,,2000.0,
+AMD Phenom(tm) II P940 Quad-Core Processor,,,,,,,
+Unknow CPU Type,,,,,,,
+Intel(R) Core(TM) i7-6900K CPU @ 3.20GHz,3.2,3.7,8,16,,20000.0,
+Intel(R) Core(TM) i7-2677M CPU @ 1.80GHz,1.8,2.9,2,4,,4000.0,
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz,4.2,4.5,4,8,,,8000.0
+Genuine Intel(R) CPU N270 @ 1.60GHz,1.6,,1,2,512.0,,
+Mobile AMD Sempron(tm) 3600+,,,,,,,
+Mobile AMD Athlon(tm) XP 2500+,,,,,,,
+Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz,2.8,3.1,4,4,,,6000.0
+Intel(R) Dual Pentium(R) M CPU 000 @ 2.00GHz,2.0,,2,2,,2000.0,
+xeon E5 ,2.0,2.5,6,12,,,15000.0
+Intel(R) Atom(TM) CPU Z540 @ 1.86GHz,1.86,,1,2,512.0,,
+Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz,2.4,3.0,2,4,,4000.0,
+AMD Sempron(tm) Processor 3600+,,,,,,,
+Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz,2.9,3.6,4,4,,,6000.0
+Intel(R) Celeron(R) CPU 560 @ 2.13GHz,2.13,,1,1,1000.0,,
+Transmeta(tm) Crusoe(tm) Processor TM5500,,,,,,,
+AMD Athlon(TM) MP 2700+,,,,,,,
+Intel(R) Core(TM) i7-4650U CPU @ 1.70GHz,1.7,3.3,2,4,,,4000.0
+Intel(R) Xeon(R) CPU 3060 @ 2.40GHz,2.4,,2,2,4000.0,,
+mobile AMD Sempron(tm) Processor 2800+,,,,,,,
+Unknown CPU Type,,,,,,,
+Intel(R) Core(TM) i7-3820QM CPU @ 2.70GHz,2.7,3.7,4,8,,,8000.0
+Intel(R) Core(TM) i5-4690S CPU @ 3.20GHz,3.2,3.9,4,4,,,6000.0
+AMD Athlon(tm) XP 1700+,,,,,,,
+mobile AMD Duron(tm),,,,,,,
+Mobile Intel(R) Pentium(R) 4 - M CPU 2.20GHz,2.2,,1,1,512.0,,
+AMD Phenom(tm) II X4 940 Processor,,,,,,,
+AMD Ryzen Threadripper 1950X 16-Core Processor ,3.4,4.0,16.0,32.0,8000.0,32000.0,0
+Intel(R) Core(TM)2 Duo CPU T9300 @ 2.50GHz,2.5,,2,2,6000.0,,
+Intel(R) Pentium(R) 4 CPU 1.50GHz,1.5,,1,1,256.0,,
+AMD C-60 APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Athlon(TM) MP 1700+,,,,,,,
+Intel(R) Celeron(R) CPU 2.10GHz,2.1,,2,2,,,2000.0
+AMD Turion(tm) 64 Mobile Technology ML-44,,,,,,,
+Mobile AMD Athlon(tm) XP processor,,,,,,,
+Intel(R) Atom(TM) CPU Z510 @ 1.10GHz,1.1,,1,1,512.0,,
+Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz,2.1,,2,4,,,3000.0
+Intel(R) Xeon(TM) MP CPU 2.00GHz,2.0,,2,2,4000.0,,
+AMD Athlon(tm) 64 X2 Dual Core Processor TK-57,,,,,,,
+AMD Turion(tm) 64 Mobile Technology MT-34,,,,,,,
+AMD Ryzen 7 1700X Eight-Core Processor ,3.4,3.8,8.0,16.0,4000.0,16000.0,0
+Genuine Intel(R) CPU T2250 @ 1.73GHz,1.73,,2,2,2000.0,,
+Intel(R) Pentium(R) CPU G4500 @ 3.50GHz,3.5,,2,2,,,3000.0
+Mobile Intel(R) Celeron(TM) CPU 1000MHz,1.8,,2,2,,,2000.0
+Pentium OverDrive (P24T) ,,,,,,,
+Intel(R) Pentium(R) M processor 1000MHz,1.7,,1,1,1000.0,,
+AMD Athlon(tm) X2 Dual-Core QL-60,,,,,,,
+Intel(R) Pentium(R) III CPU 1133MHz,1.13,,1,1,256.0,,
+Intel(R) Core(TM)2 Extreme CPU X9775 @ 3.20GHz,3.2,,4,4,12000.0,,
+Intel(R) Celeron(R) M CPU 520 @ 1.60GHz,1.6,,1,1,1000.0,,
+Intel(R) Core(TM)2 CPU 6400 @ 2.13GHz,2.13,,2,2,2000.0,,
+AMD Phenom(tm) 8450e Triple-Core Processor,,,,,,,
+AMD Turion(tm) 64 X2 Mobile Technology TL-58,,,,,,,
+mobile AMD Athlon(tm) XP-M (LV) 2100+,,,,,,,
+AMD Athlon(tm) 3100+,,,,,,,
+Intel(R) Core(TM) i7 CPU 950 @ 3.07GHz,3.06,3.33,4,8,,,8000.0
+Intel(R) Celeron(R) M CPU 450 @ 2.00GHz,2.0,,1,1,1000.0,,
+Intel(R) Pentium(R) III CPU family 1266MHz,1.4,,1,1,512.0,,
+AMD Athlon(tm) II X2 245e Processor,3.2,,2,,2000.0,,0
+Dual Core AMD Opteron(tm) Processor 165,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T9600 @ 2.80GHz,2.8,,2,2,6000.0,,
+Genuine Intel(R) CPU 1300 @ 1.66GHz,1.66,,1,1,2000.0,,
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz,3.4,3.8,4,4,,,6000.0
+Dual Core AMD Opteron(tm) Processor 275,,,,,,,
+Intel(R) Core(TM)2 CPU 6320 @ 1.86GHz,1.86,,2,2,4000.0,,
+mobile AMD Athlon(tm) XP-M 3200+,,,,,,,
+AMD Phenom(tm) II X4 965 Processor,,,,,,,
+AMD Phenom(tm) II X4 B40 Processor,,,,,,,
+Intel(R) Celeron(R) CPU 3.33GHz,3.33,,1,1,512.0,,
+Intel(R) Pentium(R) 4 Mobile CPU 1.60GHz,1.6,,1,1,512.0,,
+Transmeta(tm) Crusoe(tm) Processor TM5800,,,,,,,
+AMD Athlon(tm) XP 3100+,,,,,,,
+AMD FX(tm)-8350 Eight-Core Processor,,,,,,,
+AMD A10-7850K APU with Radeon(TM) R7 Graphics,,,,,,,
+Geode(TM) Integrated Processor by National Semi,,,,,,,
+Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz,1.6,2.6,2,4,,,3000.0
+Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz,2.6,3.5,4,8,,,6000.0
+Intel(R) Core(TM) i7-4712MQ CPU @ 2.30GHz,2.3,3.3,4,8,,,6000.0
+Intel(R) Pentium(R) 4 CPU 3.80GHz,2.8,,1,1,512.0,,
+Mobile Intel(R) Celeron(TM) CPU 1333MHz,2.16,,2,2,,1000.0,
+"AMD PRO A12-8830B R7, 10 COMPUTE CORES 4C+6G ",,,,,,,
+Mobile AMD Sempron(tm) Processor 3400+,,,,,,,
+Intel(R) Celeron(TM) CPU 1133MHz,2.8,,2,2,,2000.0,
+AMD Athlon(tm) 64 X2 Processor 4200+,,,,,,,
+Mobile AMD Athlon(tm) XP 2400+,,,,,,,
+Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,3.7,,2,4,,3000.0,
+Pentium MMX 200MHz ,0.2,,1,1,512.0,,
+Intel(R) Xeon(R) CPU X3360 @ 2.83GHz,2.83,,4,4,12000.0,,
+Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,3.4,,2,4,,,3000.0
+mobile AMD Athlon(tm) XP2800+,,,,,,,
+Genuine Intel(R) CPU L2300 @ 1.50GHz,1.5,,2,2,2000.0,,
+Intel(R) Core(TM)2 Extreme CPU X9770 @ 3.20GHz,3.2,,4,4,12000.0,,
+Intel(R) Xeon(R) CPU 5110 @ 1.60GHz,1.6,,2,2,4000.0,,
+Intel(R) Core(TM)2 Extreme CPU @ 2.40GHz,3.0,,4,4,12000.0,,
+AMD Athlon(TM) XP 2800+,,,,,,,
+Intel(R) Celeron(R) D CPU 3.60GHz,3.2,,1,1,512.0,,
+Intel(R) Pentium(R) 5 CPU 2.66GHz,2.66,,2,2,3000.0,,
+AMD Sempron(tm) 2200+,,,,,,,
+Intel(R) Xeon(R) CPU X3320 @ 2.50GHz,2.5,,4,4,6000.0,,
+Mobile Intel(R) Pentium(R) 4 - M CPU 2.60GHz,2.0,,1,1,512.0,,
+Dual-Core AMD Opteron(tm) Processor 2220 SE,,,,,,,
+Intel(R) Core(TM) i5-3317U CPU @ 1.70GHz,1.7,2.6,2,4,,,3000.0
+Genuine Intel(R) CPU 3.73GHz,,,,,,,
+Intel(R) Atom(TM) CPU N570 @ 1.66GHz,1.66,,2,4,1000.0,,
+Intel(R) Celeron(R) CPU N3050 @ 1.60GHz,1.6,,2,2,2000.0,,
+Intel(R) Core(TM)2 Duo CPU P9600 @ 2.66GHz,2.66,,2,2,6000.0,,
+Mobile AMD Duron(tm) processor,,,,,,,
+Genuine Intel(R) CPU T2600 @ 2.16GHz,2.16,,2,2,2000.0,,
+Intel(R) Celeron(R) CPU G1101 @ 2.27GHz,2.26,,2,2,,,2000.0
+Mobile AMD Athlon(tm) XP 2000+,,,,,,,
+AMD Athlon(tm) XP 2500+,,,,,,,
+AMD Phenom(tm) 9600 Quad-Core Processor,,,,,,,
+AMD Athlon(tm) II Neo K325 Dual-Core Processor,,,,,,,
+Intel(R) Celeron(TM) CPU 1066MHz,2.26,,2,2,3000.0,,
+Intel(R) Xeon(R) CPU E5506 @ 2.13GHz,2.13,,4,4,,,4000.0
+AMD Athlon(tm) 64 X2 Dual Core Processor 4200+,,,,,,,
+Intel(R) Pentium(R) M processor 1.40GHz,1.4,,1,1,1000.0,,
+Intel(R) Xeon(R) CPU E5520 @ 2.27GHz,2.26,2.53,4,8,,,8000.0
+Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz,3.0,3.3,4,4,,,6000.0
+Intel(R) Pentium(R) Dual CPU T2410 @ 2.00GHz,2.0,,2,2,,2000.0,
+AMD Phenom(tm) II X4 960T Processor,,,,,,,
+AMD Athlon(tm) II X4 620 Processor,,,,,,,
+Intel(R) Core(TM)2 Extreme CPU X9100 @ 3.06GHz,3.06,,2,2,6000.0,,
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz,3.4,3.9,4,8,,,8000.0
+Mobile Intel(R) Celeron(TM) CPU 650MHz,1.9,,2,2,,2000.0,
+AMD Phenom(tm) 8450 Triple-Core Processor,,,,,,,
+AMD Sempron(tm) 2500+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E8300 @ 2.83GHz,2.83,,2,2,6000.0,,
+Intel(R) Celeron(R) M processor 900MHz,0.9,,1,1,512.0,,
+AMD XP Mobile,,,,,,,
+AMD Opteron(tm) Processor 244,,,,,,,
+AMD Turion(tm)X2 Ultra DualCore Mobile ZM-85,,,,,,,
+Intel(R) Pentium(R) CPU E6600 @ 3.06GHz,3.06,,2,2,,,2000.0
+Intel(R) Core(TM)2 Duo CPU U9600 @ 1.60GHz,1.6,,2,2,3000.0,,
+Intel(R) Celeron(R) CPU 1.70GHz,1.7,,2,2,,2000.0,
+AMD Phenom(tm) II X4 925 Processor,,,,,,,
+AMD FX(tm)-8150 Eight-Core Processor,3.4,4.3,8.0,8.0,8000.0,,0
+Intel(R) Core(TM) Duo CPU L2500 @ 1.83GHz,1.83,,2,2,2000.0,,
+Dual-Core AMD Opteron(tm) Processor 1212,,,,,,,
+Intel(R) Xeon(TM) CPU 1500MHz,1.5,,2,2,2000.0,,
+Genuine Intel(R) CPU U2300 @ 1.20GHz,1.2,,2,2,,1000.0,
+AMD Athlon(tm) 64 Processor 4000+,,,,,,,
+Pentium MMX (Tillamook) ,,,,,,,
+AMD Sempron(tm) 2300+,,,,,,,
+AMD Athlon(tm) 2700+,3.2,4.1,8.0,16.0,4000.0,16000.0,0
+Mobile AMD Athlon(tm) XP-M 1600+ Processor,,,,,,,
+Intel(R) Celeron(TM) CPU 650MHz,2.8,,2,2,,2000.0,
+Intel(R) Core(TM)2 Duo CPU T8300 @ 2.40GHz,2.4,,2,2,3000.0,,
+Dual-Core AMD Opteron(tm) Processor 1216,,,,,,,
+AMD Processor Model Unknown,,,,,,,
+AMD Athlon(tm) XP 3200+,,,,,,,
+AMD Turion(tm) Neo X2 Dual Core Processor L625,,,,,,,
+Intel(R) Xeon(R) CPU 5140 @ 2.33GHz,2.33,,2,2,4000.0,,
+Intel(R) Pentium(R) CPU E5200 @ 2.50GHz,2.5,,2,2,2000.0,,
+Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz,3.6,4.2,4,8,,,8000.0
+Intel(R) Core(TM) Duo CPU T2250 @ 1.73GHz,1.73,,2,2,2000.0,,
+Intel(R) Xeon(R) CPU E31230 @ 3.20GHz,3.2,3.6,4,8,,,8000.0
+Itanium 2 (McKinley) ,,,,,,,
+Mobile AMD Athlon(tm) 64 Processor 2700+,,,,,,,
+AMD Athlon(TM) MP 1900+,,,,,,,
+Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz,3.3,4.3,10,20,,13750.0,
+AMD Athlon(tm) 64 Processor 3500+,,,,,,,
+Intel(R) Celeron(R) CPU B820 @ 1.70GHz,1.7,,2,2,,2000.0,
+AMD Ryzen 7 2700 Eight-Core Processor ,3.2,4.1,8.0,16.0,4000.0,16000.0,0
+AMD FX-8320E Eight-Core Processor,3.2,4.0,8.0,8.0,8000.0,8000.0,0
+Intel(R) Celeron(R) CPU G1630 @ 2.80GHz,2.8,,2,2,,,2000.0
+Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz,3.2,4.0,4,8,,,8000.0
+AMD Athlon(tm) 64 X2 Dual Core Processor TK-55,,,,,,,
+Intel Xeon E5-2650 ,2.0,2.8,8,16,,,20000.0
+AMD Athlon(tm) II X2 4400e Processor,,,,,,,
+AMD Athlon(tm) XP 2800+,,,,,,,
+AMD Sempron(tm) 2600+,,,,,,,
+Intel(R) Core(TM) i7 CPU Q 720 @ 1.60GHz,1.6,2.8,4,8,,,6000.0
+Intel(R) Pentium(R) D CPU 3.40GHz,3.4,,2,2,4000.0,,
+AMD Athlon(tm) 64 FX-F9 Processor,,,,,,,
+Intel(R) Atom(TM) x5-Z8300 CPU @ 1.44GHz,1.44,,4,4,,2000.0,
+Genuine Intel(R) CPU U1300 @ 1.06GHz,1.06,,1,1,2000.0,,
+Intel(R) Pentium(R) D CPU 3.00GHz,3.0,,2,2,,,3000.0
+Intel(R) Pentium(R) CPU P6100 @ 2.00GHz,2.0,,2,2,,,3000.0
+mobile AMD Athlon(tm) XP-M 2200+,,,,,,,
+AMD Athlon(tm) II X3 435 Processor,,,,,,,
+Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz,1.3,2.6,2,4,,,3000.0
+Intel(R) Pentium(R) D CPU 3.60GHz,3.6,,1,2,2000.0,,
+Mobile Intel(R) Pentium(R) III CPU - M 1000MHz,1.2,,1,1,512.0,,
+mobile AMD Athlon(tm) XP-M(LV) 1400+,,,,,,,
+Core 2 Quad 9650(Yorkfield) ,3.0,,4,4,12000.0,,
+VIA C7-D Processor 1500MHz,,,,,,,
+Enter here. 48 characters maximum!,,,,,,,
+AMD Athlon(tm) Dual Core Processor 4050e,2.1,,2,,1000.0,,0
+Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz,3.7,3.9,4,8,,,10000.0
+AMD Phenom(tm) 8650 Triple-Core Processor,,,,,,,
+Intel(R) Core(TM) i7-5650U CPU @ 2.20GHz,2.2,3.1,2,4,,4000.0,
+Intel(R) Xeon(R) CPU W3520 @ 2.67GHz,2.66,2.93,4,8,,,8000.0
+Intel(R) Celeron(R) CPU E1200 @ 1.60GHz,1.6,,2,2,512.0,,
+AMD Athlon(tm) 64 X2 Dual Core Processor 5400+,,,,,,,
+Intel(R) Atom(TM) CPU Z3775 @ 1.46GHz,1.46,,4,4,2000.0,,
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz,4.0,4.2,4,8,,,8000.0
+Quad-Core AMD Opteron(tm) Processor 2376,,,,,,,
+Intel(R) Xeon(R) CPU L3426 @ 1.87GHz,1.86,3.2,4,8,,,8000.0
+Intel(R) Atom(TM) CPU N450 @ 1.66GHz,1.66,,1,2,512.0,,
+AMD Athlon(TM) XP 1500+,,,,,,,
+AMD FX(tm)-8350 Eight-Core Processor ,,,,,,,
+Intel(R) Pentium(R) III Mobile CPU 850MHz,0.8,,1,1,256.0,,
+Intel(R) Celeron(R) CPU 2.40GHz,2.4,,1,1,128.0,,
+Intel(R) Xeon(R) CPU E3-1225 V2 @ 3.20GHz,3.2,3.6,4,4,,,8000.0
+AMD Phenom(tm) II P960 Quad-Core Processor,,,,,,,
+Intel(R) Core(TM) i5-2415M CPU @ 2.30GHz,2.3,2.9,2,4,,,3000.0
+AMD Athlon(tm) MP 2000+,,,,,,,
+Intel(R) Core(TM) i7 CPU L 640 @ 2.13GHz,2.13,2.93,2,4,,,4000.0
+Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz,2.8,3.46,4,8,,,8000.0
+Genuine Intel(R) CPU 0 @ 2.50GHz,2.0,,1,1,1000.0,,
+Intel(R) Core(TM) i3 CPU M 350 @ 2.27GHz,2.26,,2,4,,,3000.0
+Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz,2.9,3.8,4,8,,,8000.0
+AMD Athlon(tm) II X4 640 Processor,2.5,,4,,2000.0,,0
+Intel(R) Pentium(R) 4 CPU 1700MHz,3.0,,1,2,1000.0,,
+Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz,3.3,3.7,4,4,,,6000.0
+Intel(R) Xeon(TM) CPU 1700MHz,1.7,,8,8,,,20000.0
+Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz,2.6,4.2,18,36,,24750.0,
+Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz,2.0,3.0,2,4,,,3000.0
+Duron (Morgan),,,1,,,,0
+Intel(R) Core(TM)2 Quad CPU Q9505 @ 2.83GHz,2.83,,4,4,6000.0,,
+Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,3.0,3.5,8,16,,,20000.0
+Mobile Intel(R) Pentium(R) 4 - M CPU 2.00GHz,1.8,,1,1,512.0,,
+Mobile Genuine Intel(R) processor 1400MHz,2.2,,1,1,512.0,,
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,3.3,,2,4,,,3000.0
+Intel(R) Core(TM)2 CPU E8600 @ 3.33GHz,3.33,,2,2,6000.0,,
+Intel(R) Pentium(R) III CPU - S 1400MHz,1.4,,1,1,512.0,,
+Intel(R) Xeon(R) CPU X5482 @ 3.20GHz,3.2,,4,4,12000.0,,
+Intel(R) Pentium(R) III CPU family 1400MHz,1.4,,1,1,512.0,,
+Bad Mother Fucker,,,,,,,
+mobile AMD Athlon(tm) XP2500+,,,,,,,
+Intel(R) Xeon(R) CPU X5492 @ 3.40GHz,3.4,,4,4,12000.0,,
+AMD Athlon(tm)64 X2 Dual Core Processor 4400+,,,,,,,
+Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz,1.8,2.9,2,4,,,4000.0
+Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz,3.1,3.5,4,4,,,6000.0
+Intel(R) Core(TM) Duo CPU T2350 @ 1.86GHz,1.86,,2,2,2000.0,,
+Mobile AMD Sempron(tm) Processor 3600+,,,,,,,
+AMD Ryzen 5 1600 Six-Core Processor ,3.6,4.0,6.0,12.0,3000.0,16000.0,0
+Intel(R) Xeon(TM) CPU 1.70GHz,2.6,,1,2,512.0,,
+AMD Sempron(TM) 2300+,,,,,,,
+AMD Athlon(tm) 64 X2 Dual Core Processor 3600+,,,,,,,
+Intel(R) Xeon(R) CPU E3-1275 v3 @ 3.50GHz,3.5,3.9,4,8,,,8000.0
+Genuine Intel(R) CPU @ 2.93GHz,2.66,2.93,4,8,,,12000.0
+Mobile Pentium !!! 1GHz (Coppermine) ,1.0,,1,1,256.0,,
+Mobile Intel(R) Celeron(TM) CPU 1266MHz,2.2,,1,1,1000.0,,
+Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz,3.6,3.8,6,12,,15000.0,
+Intel(R) XEON(TM) CPU 2.20GHz,2.2,,1,2,512.0,,
+Intel(R) Core(TM)2 Duo CPU U9300 @ 1.20GHz,1.2,,2,2,3000.0,,
+Intel(R) Pentium(R) 4 CPU 1.60GHz,1.6,,1,1,1000.0,,
+AMD A10-6800K APU with Radeon(tm) HD Graphics,4.1,,4,,4000.0,,0
+Intel(R) Celeron(R) 3205U @ 1.50GHz,1.5,,2,2,,2000.0,
+AMD Athlon(tm) XP 2600+,,,,,,,
+Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2.5,3.1,2,4,,,3000.0
+AMD FX(tm)-9370 Eight-Core Processor ,,,,,,,
+Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz,2.2,3.2,4,8,,,6000.0
+Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz,3.4,3.9,4,8,,,8000.0
+Intel(R) Xeon(TM) CPU 2.80GHz,2.8,,1,2,512.0,,
+AMD Turion(tm) 64 mobile Technology ML-40,,,,,,,
+Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz,3.5,3.9,4,4,,,6000.0
+Intel(R) Core(TM) i7-2860QM CPU @ 2.50GHz,2.5,3.6,4,8,,,8000.0
+Intel(R) Pentium(R) 4 CPU 3.73GHz,3.0,,1,2,1000.0,,
+Intel(R) Core(TM)2 Duo CPU P8700 @ 2.53GHz,2.53,,2,2,3000.0,,
+Transmeta(tm) Crusoe(tm) Processor TMTM5600,,,,,,,
+AMD Opteron(tm) Processor 150,,,,,,,
+Intel(R) Xeon(R) CPU E5405 @ 2.00GHz,2.0,,4,4,12000.0,,
+Intel(R) Core(TM) i7-3667U CPU @ 2.00GHz,2.0,3.2,2,4,,,4000.0
+Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz,2.6,3.3,8,16,,,20000.0
+Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz,3.3,3.7,4,8,,,8000.0
+Celeron DC E3200 (Wolfdale) ,2.4,,2,2,1000.0,,
+AMD Phenom(tm) II X2 560 Processor,3.3,,2,,1000.0,6000.0,0
+Genuine Intel(R) CPU T1600 @ 1.66GHz,1.66,,2,2,1000.0,,
+Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz,3.7,4.7,6,12,,,12000.0
+AMD Six-Core Processor,3.5,3.8,6.0,6.0,6000.0,8000.0,0
+Genuine Intel(R) CPU @ 2.90GHz,2.9,,2,2,,,3000.0
+Intel(R) Core(TM)2 CPU 6600 @ 2.40GHz,2.4,,2,2,4000.0,,
+Intel(R) Pentium(R) M processor 1.73GHz,1.73,,1,1,2000.0,,
+Genuine Intel(R) CPU @ 2.33GHz,2.33,,4,4,4000.0,,
+PowerPC G4 ,,,,,,,
+Core 2 Quad (Q9550) ,2.83,,4,4,12000.0,,
+Intel(R) Core(TM)2 CPU E7400 @ 2.80GHz,2.8,,2,2,3000.0,,
+AMD Athlon(TM) XP2000+,,,,,,,
+AMD Athlon(tm) II X2 215 Processor,,,,,,,
+Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz,2.5,3.7,4,8,,6000.0,
+Intel(R) Xeon(R) CPU W3530 @ 2.80GHz,2.8,3.06,4,8,,,8000.0
+Intel(R) Xeon(R) CPU L5430 @ 2.66GHz,2.66,,4,4,12000.0,,
+AMD Athlon(tm) 7750 Dual-Core Processor,,,,,,,
+Intel(R) Xeon(R) CPU E5320 @ 1.86GHz,1.86,,4,4,8000.0,,
+AMD Turion(tm) 64 X2 Mobile Technology TL-50,,,,,,,
+Intel(R) Pentium(R) 4 CPU 1800MHz,3.0,,1,2,1000.0,,
+AMD A10-6700 APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Turion(tm) 64 X2 Mobile Technology TL-66,,,,,,,
+Intel(R) Pentium(R) M processor 1400MHz,1.4,,1,1,1000.0,,
+Intel(R) Xeon(R) CPU E5-2687W 0 @ 3.10GHz,3.1,3.8,8,16,,,20000.0
+Intel(R) Core(TM)2 Duo CPU T6670 @ 2.20GHz,2.2,,2,2,2000.0,,
+Intel(R) Core(TM)2 Quad CPU Q9450 @ 2.66GHz,2.66,,4,4,12000.0,,
+Intel(R) Xeon(R) CPU E5-1660 0 @ 3.30GHz,3.3,3.9,6,12,,,15000.0
+Intel(R) Atom(TM) CPU N270 @ 1.60GHz,1.6,,1,2,512.0,,
+AMD Phenom(tm) II X4 810 Processor,,,,,,,
+Intel(R) Core(TM) i7 CPU Q 840 @ 1.87GHz,1.86,3.2,4,8,,,8000.0
+Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz,2.6,3.6,4,8,,6000.0,
+Quad-Core AMD Opteron(tm) Processor 2380,,,,,,,
+AMD Opteron(tm) Processor 256,,,,,,,
+Intel(R) Celeron(R) CPU 2.93GHz,2.93,,1,1,256.0,,
+AMD C-60 Processor,,,,,,,
+PentiumIIIIKatmai) ,,,,,,,
+"AMD A10-7860K Radeon R7, 12 Compute Cores 4C+8G",,,,,,,
+AMD Athlon(tm) XP 1900+,,,,,,,
+Intel(R) Celeron(R) CPU 550 @ 2.00GHz,2.0,,1,1,1000.0,,
+Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz,2.3,2.9,2,4,,3000.0,
+Intel(R) Core(TM)2 Duo CPU @ 2.66GHz,2.66,,2,2,3000.0,,
+Intel(R) Pentium(R) M processor 1.80GHz,1.6,,1,1,1000.0,,
+Intel(R) Core(TM)2 Extreme CPU X7900 @ 2.80GHz,2.8,,2,2,4000.0,,
+Pentium(R) Dual-Core CPU E6700 @ 3.20GHz,3.2,,2,2,,,2000.0
+AMD Athlon(tm)64 X2 Dual Core Processor 4600+,2.4,,2,,1000.0,,0
+Mobile Intel(R) Pentium(R) III CPU - M 1133MHz,1.13,,1,1,256.0,,
+Intel(R) Xeon(TM) CPU 3.60GHz,3.6,,1,2,1000.0,,
+Intel(R) Core(TM) i7-3520M CPU @ 2.90GHz,2.9,3.6,2,4,,,4000.0
+AMD Athlon(tm) 64 X2 Dual Core Processor 4600+,2.4,,2,,1000.0,,0
+Intel(R) Pentium(R) M CPU 000 @ 2.00GHz,2.0,,2,2,,2000.0,
+AMD Geode(tm) NX 1750+,1.4,,1,,256.0,,0
+AMD Athlon(tm) XP,,,,,,,
+Intel(R) Core(TM) i3-2120T CPU @ 2.60GHz,2.6,,2,4,,,3000.0
+AMD A8-5500 APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Athlon(TM),3.0,,2,,,,0
+mobile AMD Athlon(tm) XP 2500+,,,,,,,
+Intel(R) Core(TM)2 CPU T5500 @ 1.66GHz,1.66,,2,2,2000.0,,
+AMD Athlon(TM) XP1800+,,,,,,,
+Intel(R) Xeon(R) CPU 3065 @ 2.33GHz,2.33,,2,2,4000.0,,
+Intel(R) Core(TM) i3 CPU M 370 @ 2.40GHz,2.4,,2,4,,,3000.0
+Intel(R) Xeon(R) CPU X5675 @ 3.07GHz,3.06,3.46,6,12,,,12000.0
+Intel(R) Core(TM)2 Duo CPU T9500 @ 2.60GHz,2.6,,2,2,6000.0,,
+AMD Athlon(TM) MP 2200+,,,,,,,
+AMD Athlon(tm) II X4 635 Processor,2.9,,4,,2000.0,,0
+AMD FX(tm)-8120 Eight-Core Processor,3.4,4.3,8.0,8.0,8000.0,,0
+AMD Athlon(tm) II X4 630 Processor,,,,,,,
+Mobile Intel(R) Celeron(R) processor 600MHz,0.6,,1,1,512.0,,
+AMD Athlon(TM) XP 2000+,,,,,,,
+mobile AMD Athlon(tm) XP 2600+,,,,,,,
+Intel(R) Celeron(R) CPU 723 @ 1.20GHz,1.2,,1,1,1000.0,,
+Intel(R) Celeron(R) CPU N3060 @ 1.60GHz,1.6,,2,2,2000.0,,
+Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz,2.1,3.3,2,4,,,4000.0
+AMD Ryzen 5 2400G with Radeon Vega Graphics ,,,,,,,
+Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz,3.4,3.8,4,8,,,8000.0
+AMD Turion(tm)X2 Ultra DualCore Mobile ZM-84,,,,,,,
+AMD A6-3650 APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Celeron(R) CPU 2.53GHz,2.53,,1,1,256.0,,
+Intel(R) Celeron(R) M CPU 530 @ 1.73GHz,1.73,,1,1,1000.0,,
+Transmeta(tm) Crusoe(tm) Processor TM5400,,,,,,,
+Intel(R) Core(TM) i7-4610M CPU @ 3.00GHz,3.0,3.7,2,4,,,4000.0
+AMD A10-6700 APU with Radeon(tm) HD Graphics ,,,,,,,
+Intel(R) Pentium(R) III Mobile CPU 933MHz,0.8,,1,1,256.0,,
+Dual Core AMD Opteron(tm) Processor 875,,,,,,,
+Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz,1.7,2.7,2,4,,,3000.0
+AMD Mobile Athlon(TM) XP-M/MP 2600+,,,,,,,
+Pentium(R) Dual-Core CPU E5700 @ 3.00GHz,3.0,,2,2,,,2000.0
+AMD Athlon(tm) X2 Dual Core Processor L310,,,,,,,
+Intel(R) Genuine CPU 1.70GHz,,,,,,,
+Intel(R) Xeon(R) CPU X3430 @ 2.40GHz,2.4,2.8,4,4,,,8000.0
+Intel(R) Core(TM)2 Duo CPU E4500 @ 2.20GHz,2.2,,2,2,2000.0,,
+Intel(R) Celeron(R) CPU E3400 @ 2.60GHz,2.6,,2,2,,,1000.0
+Intel(R) Core(TM)2 Quad CPU @ 2.13GHz,2.13,,2,2,2000.0,,
+Intel(R) Pentium(R) Dual CPU E2200 @ 2.20GHz,2.2,,2,2,1000.0,,
+Intel(R) Core(TM)2 Duo CPU T7250 @ 2.00GHz,2.0,,2,2,2000.0,,
+Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,3.6,,2,4,,,3000.0
+Intel(R) Core(TM)2 Duo CPU P8800 @ 2.66GHz,2.66,,2,2,3000.0,,
+Intel(R) Atom(TM) CPU Z3740 @ 1.33GHz,1.33,,4,4,2000.0,,
+Intel(R) Core(TM)2 Duo CPU U7600 @ 1.20GHz,1.2,,2,2,2000.0,,
+Athlon XP (Barton) ,,,,,,,
+Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,2.8,3.6,10,20,,,25000.0
+Intel(R) Core(TM)2 Duo CPU P7450 @ 2.13GHz,2.13,,2,2,3000.0,,
+mobile AMD Athlon(tm) XP-M 1800+,,,,,,,
+AMD Athlon(tm) 64 FX-53 Processor,,,,,,,
+Intel(R) Pentium(R) 4 Mobile CPU 1.80GHz,1.8,,1,1,512.0,,
+AMD Athlon(TM) XP1500+,,,,,,,
+AMD Athlon(tm) 64 X2 Dual Core Processor 6400+,,,,,,,
+Phenom X4 (Agena) ,,,,,,,
+Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz,3.5,3.9,4,4,,,6000.0
+mobile AMD Athlon(tm) XP-M (LV) 1500+,,,,,,,
+AMD Athlon(tm) Processor 2850e,,,,,,,
+mobile AMD Athlon(tm) XP-M (LV) 2000+,,,,,,,
+Intel(R) Celeron(R) M CPU 410 @ 1.46GHz,1.46,,1,1,1000.0,,
+AMD Athlon(tm) MP 1700+,,,,,,,
+AMD Sempron(tm) M100,,,,,,,
+AMD FX(tm)-9590 Eight-Core Processor,,,,,,,
+Intel(R) Core(TM) i3-2130 CPU @ 3.40GHz,3.4,,2,4,,,3000.0
+Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz,3.4,3.8,4,4,,,6000.0
+Intel(R) Pentium(R) D CPU 000 @ 2.13GHz,2.13,,2,2,,,3000.0
+Intel(R) Pentium(R) CPU B960 @ 2.20GHz,2.2,,2,2,,2000.0,
+Pentium(R) Dual-Core CPU E6300 @ 2.80GHz,2.8,,2,2,2000.0,,
+mobile AMD Athlon(tm) XP-M 2600+,,,,,,,
+AMD Athlon(tm) X2 Dual-Core QL-64,,,,,,,
+Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz,2.5,3.1,2,4,,,3000.0
+Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,2.1,3.0,8,16,,,20000.0
+Intel(R) Core(TM) i5 CPU M 460 @ 2.53GHz,2.53,2.8,2,4,,,3000.0
+AMD A10-5800K APU with Radeon(tm) HD Graphics ,,,,,,,
+Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz,2.6,3.6,4,8,,,6000.0
+"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G",,,,,,,
+AMD FX-8370 Eight-Core Processor,,,,,,,
+Intel(R) Celeron(R) CPU G550 @ 2.60GHz,2.6,,2,2,,,2000.0
+Intel(R) Core(TM) Solo CPU U1500 @ 1.33GHz,1.33,,1,1,2000.0,,
+Intel(R) Xeon(R) CPU E3-1220 V2 @ 3.10GHz,3.1,3.5,4,4,,,8000.0
+mobile AMD Athlon(tm) XP1800+,,,,,,,
+Genuine Intel(R) CPU 0 @ 1.80GHz,1.8,,2,2,1000.0,,
+Genuine Intel(R) CPU 0000 @ 2.20GHz,,,,,,,
+AMD Turion(tm) 64 X2 Mobile Technology TL-60,,,,,,,
+AMD Athlon(tm) II X2 240e Processor,2.8,,2,,,,0
+Intel(R) Pentium(R) 4 CPU 2.93GHz,2.8,,1,1,512.0,,
+Mobile Intel(R) Celeron(TM) CPU 1133MHz,2.2,,1,1,1000.0,,
+Intel(R) Core(TM)2 Duo CPU P8400 @ 2.26GHz,2.26,,2,2,3000.0,,
+AMD Athlon(tm)64 X2 Dual Core Processor 4200+,,,,,,,
+AMD FX-8320E Eight-Core Processor ,3.2,4.0,8.0,8.0,8000.0,8000.0,0
+AMD Athlon(tm) II X2 B24 Processor,3.0,,2,,,,0
+AMD Athlon(tm) 64 X2 Dual Core Processor 4800+,,,,,,,
+AMD Sempron(tm) Processor LE-1150,2.0,,1,,256.0,,0
+AMD Turion(tm) 64 Mobile Technology ML-37,,,,,,,
+Intel(R) Pentium(R) III Mobile CPU 700MHz,0.7,,1,1,1000.0,,
+Intel(R) Core(TM)2 CPU 4300 @ 1.80GHz,1.8,,2,2,2000.0,,
+Intel(R) XEON(TM) CPU 1.80GHz,2.8,,1,2,512.0,,
+Intel(R) Core(TM)2 Solo CPU U3500 @ 1.40GHz,1.4,,1,1,3000.0,,
+Intel(R) Celeron(R) CPU 1017U @ 1.60GHz,1.6,,2,2,,2000.0,
+mobile AMD Athlon(tm) XP-M 1700+,,,,,,,
+Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz,3.3,3.7,4,4,,,6000.0
+AMD Phenom(tm) X4 Quad-Core Processor GP-9500,,,,,,,
+Mobile Intel(R) Celeron(R) CPU 1.80GHz,1.8,,1,1,512.0,,
+Pentium(R) Dual-Core CPU E5200 @ 2.50GHz,2.5,,2,2,2000.0,,
+Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz,2.7,3.6,4,8,,,8000.0
+Genuine Intel(R) CPU T2060 @ 1.60GHz,1.6,,2,2,1000.0,,
+Genuine Intel(R) CPU U2400 @ 1.06GHz,1.06,,2,2,2000.0,,
+AMD A10-4600M APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Turion(tm) 64 mobile Technology ML-34,,,,,,,
+AthlonXP-64 3400+,,,,,,,
+AMD Athlon(tm) processor,3.7,4.0,4.0,4.0,4000.0,,0
+Mobile AMD Athlon(u}90{P-M,,,,,,,
+Intel(R) Xeon(R) CPU L5410 @ 2.33GHz,2.33,,4,4,12000.0,,
+Intel(R) Xeon(R) CPU 5150 @ 2.66GHz,2.66,,2,2,4000.0,,
+AMD A8-3520M APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Phenom(tm) II X2 545 Processor,,,,,,,
+Intel(R) Xeon(R) CPU 5130 @ 2.00GHz,2.0,,2,2,4000.0,,
+Intel(R) Pentium(R) 4 CPU 2.60GHz,1.6,,4,4,2000.0,,
+Intel(R) Pentium(R) 4 CPU 2.00GHz,2.0,,1,1,512.0,,
+Intel(R) Core(TM)2 Duo CPU U7500 @ 1.06GHz,1.06,,2,2,2000.0,,
+Intel(R) Xeon(R) CPU L5639 @ 2.13GHz,2.13,2.4,4,8,,,12000.0
+AMD Athlon XP,,,,,,,
+Intel(R) Core(TM) i5-4300M CPU @ 2.60GHz,2.6,3.3,2,4,,,3000.0
+Intel(R) Xeon(R) CPU E3-1245 V2 @ 3.40GHz,3.4,3.8,4,8,,,8000.0
+AMD Athlon(tm) XP 2400+,,,1,,,,0
+AMD Sempron(tm) 2700+,,,1,,,,0
+AMD Engineering Sample,,,,,,,
+Intel(R) Celeron(R) CPU E1400 @ 2.00GHz,2.0,,2,2,512.0,,
+AMD A4-3300 APU with Radeon(tm) HD Graphics,,,,,,,
+Genuine Intel(R) CPU T2080 @ 1.73GHz,1.73,,2,2,1000.0,,
+Intel(R) Celeron(R) CPU N2815 @ 1.86GHz,1.86,,2,2,,1000.0,
+AMD Turion(tm) 64 X2 Mobile Technology TL-52,1.6,,2.0,2.0,2000.0,,0
+Intel(R) Celeron(TM) CPU 1300MHz,2.8,,2,2,,2000.0,
+Intel(R) Pentium(R) 4 CPU 2.53GHz,2.8,,1,1,512.0,,
+Intel(R) Pentium(R) M processor 1500MHz,1.5,,1,1,1000.0,,
+Intel(R) Core(TM) i7-3610QM CPU @ 2.30GHz,2.3,3.3,4,8,,,6000.0
+Transmeta(tm) Crusoe(tm) Processor TMTM5400,,,,,,,
+Intel(R) Celeron(R) CPU G540 @ 2.50GHz,2.5,,2,2,,,2000.0
+Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz,2.7,3.5,12,24,,,30000.0
+Intel(R) Core(TM) i5-3437U CPU @ 1.90GHz,1.9,2.9,2,4,,,3000.0
+Intel(R) Core(TM) i5 CPU M 520 @ 2.40GHz,2.4,2.93,2,4,,,3000.0
+Intel(R) Core(TM) i5-3450S CPU @ 2.80GHz,2.8,3.5,4,4,,,6000.0
+Intel(R) Core(TM) Solo CPU U1400 @ 1.20GHz,1.2,,1,1,2000.0,,
+AMD Sempron(tm) 2400+,,,,,,,
+Genuine Intel(R) CPU @ 2.13GHz,2.13,2.4,4,8,,,12000.0
+Dual Core AMD Opteron(tm) Processor 185,,,,,,,
+Mobile Celeron (Coppermine-128K) ,0.85,,1,1,128.0,,
+Intel(R) Xeon(R) CPU E5607 @ 2.27GHz,2.26,,4,4,,,8000.0
+Intel(R) Core(TM) i5 CPU 661 @ 3.33GHz,3.33,3.6,2,4,,,4000.0
+Intel(R) Xeon(R) CPU E5410 @ 2.33GHz,2.33,,4,4,12000.0,,
+AMD Duron TM Processor,,,,,,,
+mobile AMD Athlon(tm) XP,,,,,,,
+Intel(R) Core(TM)2 Quad CPU Q8400 @ 2.66GHz,2.66,,4,4,4000.0,,
+Intel(R) Celeron(TM) CPU 1000MHz,1.8,,2,2,,,2000.0
+"AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G",,,,,,,
+Intel(R) Core(TM) i7 CPU Q 740 @ 1.73GHz,1.73,2.93,4,8,,,6000.0
+VIA Nehemiah,,,,,,,
+AMD Athlon(tm) 3200+,,,,,,,
+Intel(R) Core(TM) i7 CPU 940 @ 2.93GHz,2.93,3.2,4,8,,,8000.0
+Intel(R) Celeron(R) D CPU 3.33GHz,3.33,,1,1,512.0,,
+AMD Opteron(tm) Processor 854,,,,,,,
+"AMD A10-7300 Radeon R6, 10 Compute Cores 4C+6G ",,,,,,,
+Intel(R) Core(TM) i3 CPU 560 @ 3.33GHz,3.33,,2,4,,,4000.0
+Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,2.3,2.8,2,4,,,3000.0
+AMD Athlon(tm) XP-M (LV) 1800+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU L7700 @ 1.80GHz,1.8,,2,2,2000.0,,
+Intel(R) Core(TM)2 CPU 6420 @ 2.13GHz,2.13,,2,2,4000.0,,
+Genuine Intel(R) CPU @ 2.20GHz,1.2,,2,2,,1000.0,
+Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz,3.5,3.9,4,8,,,8000.0
+Intel(R) Celeron(R) CPU 3.20GHz,3.2,,1,1,512.0,,
+Intel(R) Celeron(R) M CPU 423 @ 1.06GHz,1.5,,1,1,1000.0,,
+mobile AMD Athlon(tm) XP 1400+,,,,,,,
+Intel(R) Celeron(R) D CPU 3.46GHz,3.46,,1,1,512.0,,
+Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz,2.9,3.2,4,4,,,6000.0
+Intel(R) Pentium(R) CPU G3240 @ 3.10GHz,3.1,,2,2,,,3000.0
+Intel(R) Xeon(R) CPU E5335 @ 2.00GHz,2.0,,4,4,8000.0,,
+Intel(R) Core(TM) i7-3517U CPU @ 1.90GHz,1.9,3.0,2,4,,,4000.0
+AMD Sempron(TM) 2600+,,,,,,,
+Intel(R) Core(TM)2 CPU E8400 @ 3.00GHz,3.0,,2,2,6000.0,,
+Mobile AMD Sempron(tm),,,,,,,
+AMD A10-6790K APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Celeron(R) CPU J1800 @ 2.41GHz,2.41,,2,2,1000.0,,
+Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz,2.7,3.5,2,4,,,4000.0
+AMD Geode(tm) N,,,,,,,
+VIA Nano processor U2250 (1.6GHz Capable),,,,,,,
+"AMD Eng Sample, ZM232863C4451_32/23/16_9900_685",,,,,,,
+Intel(R) Celeron(R) CPU 3.06GHz,3.06,,1,1,512.0,,
+Mobile AMD Sempron(tm) Processor 3200+,,,,,,,
+AMD Athlon(tm) MP Processor,,,,,,,
+Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz,2.8,4.0,6,6,,,9000.0
+AMD Athlon(tm) XP 2200+,,,1,,,,0
+AMD A4-3305M APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Athlon(tm) II X2 235e Processor,,,,,,,
+AMD FX-8370 Eight-Core Processor ,,,,,,,
+Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz,2.7,3.3,4,4,,,6000.0
+AMD Athlon(tm) 64 X2 Dual Core Processor 4400+,,,,,,,
+Pentium(R) Dual-Core CPU E5300 @ 2.60GHz,2.6,,2,2,2000.0,,
+Pentium(R) Dual-Core CPU T4200 @ 2.00GHz,2.0,,2,2,1000.0,,
+VIA Esther processor 1866MHz,,,,,,,
+Genuine Intel(R) CPU 2160 @ 1.80GHz,1.8,,2,2,1000.0,,
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-53,,,,,,,
+AMD Athlon(tm) X2 250 Processor,,,,,,,
+Intel(R) Xeon(R) CPU X5365 @ 3.00GHz,3.0,,4,4,8000.0,,
+AMD Athlon(TM) XP 1800+,,,,,,,
+Genuine Intel(R) CPU @ 1.83GHz,1.83,,2,2,2000.0,,
+Intel(R) Core(TM) i7 CPU M 640 @ 2.80GHz,2.8,3.46,2,4,,,4000.0
+Intel(R) Core(TM)2 Duo CPU T7300 @ 2.00GHz,2.0,,2,2,4000.0,,
+Intel(R) Core(TM)2 Duo CPU E8335 @ 2.66GHz,2.66,,2,2,6000.0,,
+Mobile AMD Athlon(tm) XP 2200+,,,,,,,
+Intel(R) Celeron(R) CPU 3.50GHz,1.5,,2,2,,2000.0,
+AMD Athlon(TM) XP2400+,,,,,,,
+AMD Athlon(TM) XP 3000+,,,,,,,
+Intel(R) Xeon(R) CPU E5540 @ 2.53GHz,2.53,2.8,4,8,,,8000.0
+AMD Phenom(tm) II X4 820 Processor,,,,,,,
+Genuine Intel(R) CPU 1500 @ 2.00GHz,2.0,,1,1,1000.0,,
+Intel(R) Core(TM) i7 CPU 980 @ 3.33GHz,3.33,3.6,6,12,,,12000.0
+Intel(R) Core(TM) CPU Z520 @ 1.33GHz,1.33,,1,2,512.0,,
+AMD Phenom(tm) 9750 Quad-Core Processor,,,,,,,
+Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,3.0,,2,2,,,3000.0
+Intel(R) Core(TM) Duo CPU T2500 @ 2.00GHz,2.0,,2,2,2000.0,,
+AMD A10-5800K APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Phenom(tm) II X6 1065T Processor,2.9,,6,,3000.0,6000.0,0
+Intel(R) Core(TM) i3 CPU 540 @ 3.07GHz,3.06,,2,4,,,4000.0
+Intel(R) Celeron(R) CPU 2.13GHz,2.13,,1,1,1000.0,,
+Mobile Pentium III coppermine 700m ,0.7,,1,1,256.0,,
+AMD FX(tm)-6300 Six-Core Processor,3.4,4.3,8.0,8.0,8000.0,,0
+Intel(R) Core(TM)2 Extreme CPU X7850 @ 2.80GHz,2.8,,2,2,6000.0,,
+AMD A8-3870 APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,1.7,,2,4,,,3000.0
+Intel(R) Pentium(R) 4 CPU 3.20GHz,3.0,,1,2,1000.0,,
+AMD Athlon(tm) MP 1800+,,,,,,,
+AMD A6-5400K APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Celeron(R) CPU G530 @ 2.40GHz,2.4,,2,2,,,2000.0
+Intel(R) Celeron(R) CPU 2950M @ 2.00GHz,2.0,,2,2,,,2000.0
+Intel(R) Pentium(R) 4 CPU 3.86GHz,3.0,,1,2,1000.0,,
+AMD Duron(tm) processor,,,,,,,
+AMD Athlon(tm) or Opteron(tm) CPU-model unknown,,,,,,,
+AMD Unknown Processor,,,,,,,
+Intel(R) Core(TM)2 Duo CPU P9300 @ 2.26GHz,2.26,,2,2,6000.0,,
+AMD A4-3400 APU with Radeon(tm) HD Graphics,,,,,,,
+AMD Athlon(TM) XP 1700+,,,,,,,
+Genuine Intel(R) CPU T1350 @ 1.86GHz,1.86,,1,1,2000.0,,
+mobile AMD Athlon(tm) XP 2100+,,,,,,,
+Intel(R) Core(TM) i5 CPU M 540 @ 2.53GHz,2.53,3.07,2,4,,,3000.0
+AMD Athlon(tm) XP 2700+,,,,,,,
+Dual Core AMD Opteron(tm) Processor 170,,,,,,,
+AMD K7 Processo,,,,,,,
+AMD Athlon(tm) 64 FX-72 Processor,,,,,,,
+Intel(R) Xeon(TM) CPU 000 @ 2.00GHz,2.0,,2,2,4000.0,,
+AMD Athlon(tm) II X2 255 Processor,3.1,,2,,2000.0,,0
+Mobile Intel(R) Pentium(R) III CPU - M 800MHz,1.2,,1,1,512.0,,
+Pentium(R) Dual-Core CPU E5800 @ 3.20GHz,3.2,,2,2,,2000.0,
+Intel(R) Core(TM) i7-3612QM CPU @ 2.10GHz,2.1,3.1,4,8,,,6000.0
+AMD Athlon(tm) II X2 240 Processor,,,,,,,
+Intel(R) Core(TM)2 Duo CPU P7700 @ 1.80GHz,1.8,,2,2,2000.0,,
+AMD Athlon(tm) XP Processor 3400+,,,,,,,
+AMD Athlon(tm) II X4 615e Processor,2.5,,4,,2000.0,,0
+mobile AMD Sempron(tm) Processor 3000+,,,,,,,
+Intel(R) Pentium(R) CPU E5400 @ 2.70GHz,2.7,,2,2,2000.0,,
+AMD Athlon(TM) XP 2300+,,,,,,,
+Intel(R) Celeron(R) CPU 2.70GHz,2.7,,2,2,,,2000.0
+AMD Phenom(tm) 9650 Quad-Core Processor,,,,,,,
+AMD Athlon(tm) Processor 1640B,,,,,,,
+Intel(R) Core(TM) i7 CPU 975 @ 3.33GHz,3.33,3.6,4,8,,,8000.0
+AMD Athlon(tm) Dual Core Processor 4850e,2.5,,2,,1000.0,,0
+Intel(R) Celeron(R) M processor 1.70GHz,1.7,,1,1,128.0,,
+Intel(R) Core(TM) i3 CPU M 330 @ 2.13GHz,2.13,,2,4,,,3000.0
+Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz,1.8,2.7,2,4,,,3000.0
+AMD Athlon(tm) 64 X2 Dual Core Processor 5000+,2.6,,2,,1000.0,,0
+Intel(R) Xeon(R) CPU E3-1240 V2 @ 3.40GHz,3.4,3.8,4,8,,,8000.0
+AMD Athlon(tm) Processor 2650e,,,,,,,
+Genuine Intel(R) CPU @ 1.86GHz,1.86,,2,2,1000.0,,
+AMD A4-5300 APU with Radeon(tm) HD Graphics ,3.4,,2,,1000.0,,0
+Intel(R) Celeron(R) CPU E1600 @ 2.40GHz,2.4,,2,2,512.0,,
+AMD A8-3500M APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,3.4,4.0,4,8,,,8000.0
+Intel(R) Core(TM) i3-2100T CPU @ 2.50GHz,2.5,,2,4,,,3000.0
+AMD Sempron(tm) Processor 2600+,,,,,,,
+AMD Athlon(tm) 5350 APU with Radeon(tm) R3,,,,,,,
+Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz,3.3,3.7,4,4,,,6000.0
+Intel(R) Pentium(R) CPU G620 @ 2.60GHz,2.6,,2,2,,,3000.0
+Intel(R) Xeon(TM) CPU 2.60GHz,2.6,,1,2,512.0,,
+AMD Athlon(tm) 64 FX-25 Processor,,,,,,,
+AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-80,,,,,,,
+Genuine Intel(R) CPU @ 2.16GHz,2.16,,1,1,1000.0,,
+Genuine Intel(R) processor 800MHz,1.2,,2,2,,1000.0,
+AMD Athlon(tm) 2500+,,,,,,,
+AMD Athlon(tm) 64 FX-51 Processor,,,,,,,
+Intel(R) Pentium(R) M processor 1.20GHz,1.2,,1,1,2000.0,,
+AMD Sempron(tm) Processor 3100+,,,,,,,
+Intel(R) Celeron(R) CPU 743 @ 1.30GHz,1.3,,1,1,1000.0,,
+AMD Athlon(tm) XP 2100+,,,,,,,
+Dual-Core AMD Opteron(tm) Processor 2220,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E7400 @ 2.80GHz,2.8,,2,2,3000.0,,
+AMD Turion(tm) 64 Mobile ML-30,,,,,,,
+Intel(R) Core(TM) i7-2760QM CPU @ 2.40GHz,2.4,3.5,4,8,,,6000.0
+AMD FX(tm)-6300 Six-Core Processor ,3.4,4.3,8.0,8.0,8000.0,,0
+Intel(R) Core(TM)2 Duo CPU T7700 @ 2.40GHz,2.4,,2,2,4000.0,,
+Intel(R) Pentium(R) M processor 1.50GHz,1.5,,1,1,1000.0,,
+AMD Athlon(TM) XP 2700+,,,,,,,
+Intel(R) Xeon(R) CPU 5160 @ 3.00GHz,3.0,,2,2,4000.0,,
+Intel(R) Xeon(R) CPU E31240 @ 3.30GHz,3.3,3.7,4,8,,,8000.0
+Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz,3.4,,2,4,,,3000.0
+Intel(R) Core(TM) i3 CPU M 380 @ 2.53GHz,2.53,,2,4,,,3000.0
+Genuine Intel(R) CPU @ 2.30GHz,1.66,,2,2,2000.0,,
+Transmeta(tm) Crusoe(tm) Processor TM5600,,,,,,,
+AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-86,,,,,,,
+Intel(R) Xeon(R) CPU E31235 @ 3.20GHz,3.2,3.6,4,8,,,8000.0
+Intel(R) Pentium(R) 4 Mobile CPU 1.50GHz,1.5,,1,1,256.0,,
+AMD Athlon(tm) Neo X2 Dual Core Processor L325,,,,,,,
+AMD Athlon(TM) MP,,,,,,,
+Intel(R) Core(TM)2 Solo CPU U2100 @ 1.06GHz,1.4,,1,1,3000.0,,
+Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz,2.4,3.4,4,8,,,6000.0
+Intel(R) Xeon(R) CPU X5272 @ 3.40GHz,3.4,,2,2,6000.0,,
+Pentium(R) Dual-Core CPU E5500 @ 2.80GHz,2.8,,2,2,,,2000.0
+AMD Athlon(TM) MP 1800+,,,,,,,
+Intel(R) Core(TM)2 Quad CPU Q8200 @ 2.33GHz,2.33,,4,4,4000.0,,
+Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz,2.7,3.4,2,4,,,3000.0
+Intel(R) Core(TM) i5-6600T CPU @ 2.70GHz,2.7,3.5,4,4,,,6000.0
+Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz,3.2,3.8,6,12,,,12000.0
+Intel(R) Xeon(R) CPU X5677 @ 3.47GHz,3.46,3.73,4,8,,,12000.0
+Mobile Intel(R) Pentium(R) 4 - M CPU 1.90GHz,1.8,,1,1,512.0,,
+Intel(R) Core(TM)2 Quad CPU @ 2.93GHz,2.93,,2,2,3000.0,,
+AMD Phenom(tm) II X4 20 Processor,,,,,,,
+Intel(R) Xeon(R) CPU X5472 @ 3.00GHz,3.0,,4,4,12000.0,,
+Dual-Core AMD Opteron(tm) Processor 2222 SE,,,,,,,
+AMD Turion(tm) 64 Mobile Technology MT-30,,,,,,,
+AMD A8-5600K APU with Radeon(tm) HD Graphics ,,,,,,,
+AMD Turion(tm) 64 Mobile Technology MT-28,,,,,,,
+AMD Athlon XP-M,,,,,,,
+Intel(R) Celeron(R) CPU 2.20GHz,2.2,,1,1,1000.0,,
+AMD Sempron(tm) Processor LE-1100,,,,,,,
+Intel(R) Celeron(R) processor 1000MHz,1.8,,2,2,,,2000.0
+AMD K7 Processor,,,,,,,
+Intel(R) Core(TM) i5-2405S CPU @ 2.50GHz,2.5,3.3,4,4,,,6000.0
+mobile AMD Athlon(tm) XP 2400+,,,,,,,
+Intel(R) Celeron(R) CPU U3400 @ 1.07GHz,1.06,,2,2,,,2000.0
+Intel(R) Core(TM)2 Duo CPU T9400 @ 2.53GHz,2.53,,2,2,6000.0,,
+Genuine Intel(R) CPU 3.80GHz,1.8,,2,2,1000.0,,
+AMD Turion(tm) 64 Mobile ML-34,,,,,,,
+Intel(R) Core(TM) Duo CPU U2400 @ 1.06GHz,1.06,,2,2,2000.0,,
+Pentium III (Coppermine)750Mhz ,0.75,,1,1,256.0,,
+mobile AMD Athlon(tm) 4 Processor,,,,,,,
+Intel(R) Pentium(R) D CPU 3.73GHz,3.2,,2,2,4000.0,,
+Intel(R) Celeron(R) D CPU 3.06GHz,3.06,,1,1,512.0,,
+AMD Athlon(tm) II X3 440 Processor,,,,,,,
+AMD Ryzen 5 1400 Quad-Core Processor ,3.2,3.4,4.0,8.0,2000.0,8000.0,0
+Intel(R) Xeon(R) CPU X3330 @ 2.66GHz,2.66,,4,4,6000.0,,
+AMD A8-4500M APU with Radeon(tm) HD Graphics,,,,,,,
+PowerPC G4(7447) 1GHz ,,,,,,,
+Intel(R) Pentium(R) CPU G3420 @ 3.20GHz,3.2,,2,2,,,3000.0
+Intel(R) Xeon(TM) CPU @ 1.66GHz,3.66,,1,2,1000.0,,
+Intel(R) Pentium(R) M processor 1100MHz,1.6,,1,1,1000.0,,
+AMD Sempron(TM) 2200+,,,,,,,
+AMD Phenom(tm) II X4 B55 Processor,,,,,,,
+AMD Sempron(tm) Processor 3200+,,,,,,,
+Dual-Core AMD Opteron(tm) Processor 1222,,,,,,,
+Mobile AMD Athlon(tm) 64 Processor 3200+,,,,,,,
+Intel(R) Atom(TM) CPU Z550 @ 2.00GHz,2.0,,1,2,512.0,,
+Intel(R) Xeon(R) CPU E5345 @ 2.33GHz,2.33,,4,4,8000.0,,
+Genuine Intel(R) CPU 2.40GHz,2.4,3.2,8,16,,,20000.0
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-57,,,,,,,
+AMD Athlon(tm) Processor,3.7,4.0,4.0,4.0,4000.0,,0
+AMD Athlon(tm) XP 3000+,,,,,,,
+AMD FX(tm)-6100 Six-Core Processor,,,,,,,
+AMD Athlon(tm) 64 X2 Dual Core Processor 5600+,2.9,,2,,1000.0,,0
+Mobile Intel(R) Pentium(R) 4 CPU 3.20GHz,3.2,,1,2,1000.0,,
+"AMD A10-7800 Radeon R7, 12 Compute Cores 4C+8G ",,,,,,,
+Intel(R) Pentium(R) D CPU 3.46GHz,3.2,,2,2,4000.0,,
+Intel(R) Core(TM) m3-7Y30 CPU @ 1.00GHz,1.0,2.6,2,4,,,4000.0
+AMD Athlon(tm) X2 Dual Core Processor BE-2300,1.9,,2,,1000.0,,0
+Pentium(R) Dual-Core CPU E6800 @ 3.33GHz,3.33,,2,2,,,2000.0
+Intel(R) Pentium(R) M processor 1.30GHz,1.3,,1,1,1000.0,,
+Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz,3.1,3.9,4,8,,,8000.0
+Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz,3.3,,2,4,,,3000.0
+Intel(R) Xeon(R) CPU X5270 @ 3.50GHz,3.5,3.9,4,8,,,8000.0
+Intel(R) Atom(TM) CPU N455 @ 1.66GHz,1.66,,1,2,512.0,,
+Intel(R) Celeron(R) M CPU 523 @ 933MHz,0.93,,1,1,1000.0,,
+Intel(R) Pentium(R) M processor 1.60GHz,1.6,,1,1,1000.0,,
+Mobile AMD Athlon(tm) XP 1400+ Processor,,,,,,,
+Mobile Intel(R) Pentium(R) III CPU - M 866MHz,1.2,,1,1,512.0,,
+Intel(R) Core(TM)2 Duo CPU P7350 @ 2.00GHz,2.0,,2,2,3000.0,,
+Genuine Intel(R) CPU 3.00GHz,3.0,,1,1,4000.0,,
+Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz,2.0,2.9,4,8,,,6000.0
+Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz,2.4,,2,2,3000.0,,
+Mobile Intel(R) Celeron(R) CPU 2.00GHz,2.0,,2,2,,,2000.0
+AMD Athlon(tm) X2 245 Processor,,,,,,,
+AMD Athlon(tm) XP 1800+,,,,,,,
+Intel(R) Xeon(R) CPU X3220 @ 2.40GHz,2.4,,4,4,8000.0,,
+Intel(R) Core(TM)2 CPU T7200 @ 2.00GHz,2.0,,2,2,4000.0,,
+Athlon XP Barton,,,,,,,
+AMD Turion(tm) X2 Dual-Core Mobile RM-72,,,,,,,
+AMD Phenom(tm) II X6 1090T Processor,3.2,,6,,3000.0,6000.0,0
+Intel(R) Pentium(R) 4 Mobile CPU 1.40GHz,2.4,,1,1,512.0,,
+Intel(R) Celeron(R) CPU N2830 @ 2.16GHz,2.16,,2,2,,1000.0,
+Intel(R) Core(TM) Duo CPU T2450 @ 2.00GHz,2.0,,2,2,2000.0,,
+Genuine Intel(R) CPU T2300 @ 1.66GHz,1.66,,2,2,2000.0,,
+AMD Phenom(tm) 8750 Triple-Core Processor,,,,,,,
+AMD Athlon(tm) 7550 Dual-Core Processor,,,,,,,
+Intel(R) Xeon(R) CPU X3230 @ 2.66GHz,2.66,,4,4,8000.0,,
+Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz,2.0,,2,4,,3000.0,
+Intel(R) Core(TM)2 Extreme CPU X9650 @ 3.00GHz,3.0,,4,4,12000.0,,
+AMD Athlon(tm) Neo Processor MV-40,,,,,,,
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz,1.6,3.4,4,8,,,6000.0
+AMD Phenom(tm) II X4 910 Processor,2.6,,4,,2000.0,6000.0,0
+AMD Athlon(tm) X2 Dual Core Processor BE-2350,2.1,,2,,1000.0,,0
+"AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G ",,,,,,,
+Intel(R) Core(TM) i7-6950X CPU @ 3.00GHz,3.0,3.5,10,20,,25000.0,
+Mobile Intel(R) Celeron(TM) CPU 700MHz,1.1,,4,4,2000.0,,
+Pentium3 ,,,,,,,
+Intel(R) Xeon(R) CPU X3480 @ 3.07GHz,3.06,3.73,4,8,,,8000.0
+AMD Athlon(tm) Dual Core Processor 5050e,2.6,,2,,1000.0,,0
+AMD Athlon(tm) MP 1900+,,,,,,,
+Intel(R) Pentium(R) CPU G630 @ 2.70GHz,2.7,,2,2,,,3000.0
+AMD Athlon(TM) XP 2100+,,,,,,,
+Pentium Pro (P6) ,,,,,,,
+Intel(R) Core(TM) i3-4330 CPU @ 3.50GHz,3.5,,2,4,,,4000.0
+Mobile Intel(R) Pentium(R) 4 CPU 2.66GHz,2.66,,1,1,512.0,,
+AMD Ryzen Threadripper 1920X 12-Core Processor ,3.5,4.0,12.0,24.0,6000.0,32000.0,0
+Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz,3.2,3.4,4,4,,,6000.0
+Intel(R) Xeon(R) CPU E3-1285 v3 @ 3.60GHz,3.6,4.0,4,8,,,8000.0
+Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz,2.8,4.2,16,32,,22000.0,
+Mobile AMD Athlon 64 Processor 2800+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T6570 @ 2.10GHz,2.1,,2,2,,2000.0,
+AMD Sempron(tm) Processor 3300+,,,,,,,
+Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz,3.4,3.9,6,12,,,12000.0
+AMD Geode(tm) NX 2700+,,,,,,,
+mobile AMD Athlon(tm) XP-M 1600+,,,,,,,
+AMD Athlon(tm) Processor LE-1600,2.2,,1,,1000.0,,0
+Intel(R) Celeron(R) CPU 2.26GHz,2.26,,1,1,1000.0,,
+Up to 48 characters,,,,,,,
+Intel(R) Core(TM) i7-4960X CPU @ 3.60GHz,3.6,4.0,6,12,,,15000.0
+Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz,3.6,4.3,8,16,,11000.0,
+Intel(R) Core(TM) i3-2125 CPU @ 3.30GHz,3.3,,2,4,,,3000.0
+AMD Phenom(tm) 9950 Quad-Core Processor,,,,,,,
+Mobile AMD Athlon(tm) XP-M 1400+ Processor,,,,,,,
+AMD Phenom(tm) II X3 705e Processor,,,,,,,
+Intel(R) Core(TM)2 Extreme CPU X9000 @ 2.80GHz,2.8,,2,2,6000.0,,
+Intel(R) Xeon(TM) CPU 000 @ 1.66GHz,3.66,,1,2,1000.0,,
+Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz,3.6,3.8,4,8,,,10000.0
+Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz,3.1,3.4,4,4,,,6000.0
+AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-82,,,,,,,
+AMD Athlon(tm) II X2 250e Processor,3.0,,2,,2000.0,,0
+Intel(R) Core(TM)2 Duo CPU U9400 @ 1.40GHz,1.4,,2,2,3000.0,,
+Intel(R) Pentium(R) D CPU 000 @ 1.86GHz,1.86,,2,2,,,3000.0
+Dual-Core AMD Opteron(tm) Processor 2216,,,,,,,
+Mobile AMD Athlon(v}90+,,,,,,,
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz,,,,,,,
+Intel(R) Pentium(R) III Mobile CPU 750MHz,0.8,,1,1,256.0,,
+AMD Athlon(TM) XP1700+,,,,,,,
+2x Pentium (P54C) ,,,,,,,
+Intel(R) Pentium(R) 4 CPU 3.40GHz,3.0,,1,2,1000.0,,
+AMD C-50 Processor,,,,,,,
+AMD Athlon(tm) 64 FX-60 Dual Core Processor,,,,,,,
+AMD Athlon(tm) MP 2100+,,,,,,,
+AMD Athlon(tm) 64 Processor 3200+,,,,,,,
+Genuine Intel(R) CPU 3.46GHz,3.46,3.73,6,12,,,12000.0
+Intel(R) Xeon(R) CPU X5670 @ 2.93GHz,2.93,3.33,6,12,,,12000.0
+AMD A6-6310 APU with AMD Radeon R4 Graphics ,,,,,,,
+Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz,2.4,3.0,2,4,,,3000.0
+AMD A4-1250 APU with Radeon(TM) HD Graphics,,,,,,,
+VIA C3 Ezra,,,,,,,
+Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz,2.7,3.7,4,4,,,6000.0
+Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz,2.0,3.1,2,4,,,4000.0
+AMD Athlon(tm) Neo X2 Dual Core Processor 6850e,,,,,,,
+Transmeta Efficeon(tm) Processor TM8000,,,,,,,
+Intel(R) Core(TM) i5 CPU 670 @ 3.47GHz,3.46,3.73,2,4,,,4000.0
+QEMU Virtual CPU version 0.12.3,,,,,,,
+"AMD FX-9800P RADEON R7, 12 COMPUTE CORES 4C+8G ",,,,,,,
+AMD A8-3850 APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Celeron(R) CPU 1007U @ 1.50GHz,1.5,,2,2,,,2000.0
+Intel(R) Core(TM) i7-4910MQ CPU @ 2.90GHz,2.9,3.9,4,8,,,8000.0
+Mobile AMD Athlon(tm) 64 Processor 3000+,,,,,,,
+Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz,2.6,3.3,2,4,,,3000.0
+AMD FX(tm)-4100 Quad-Core Processor ,3.9,4.2,6.0,6.0,6000.0,8000.0,0
+AMD Sempron(tm) Processor 2800+,,,,,,,
+Intel(R) Core(TM)2 CPU X6800 @ 2.93GHz,2.93,,2,2,4000.0,,
+AMD FX(tm)-8300 Eight-Core Processor,,,,,,,
+Pentium MMX (P55) ,,,,,,,
+Intel(R) Core(TM) i7 CPU X 000 @ 3.33GHz,3.33,3.6,6,12,,,12000.0
+Intel(R) Pentium(R) 4 CPU 1500MHz,3.0,,1,2,1000.0,,
+AMD Athlon(tm)64 X2 Dual Core Processor 3600+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E8335 @ 2.93GHz,2.93,,2,2,3000.0,,
+Mobile AMD Athlon(tm) XP 1800+ Processor,,,,,,,
+AMD Athlon(tm) II P340 Dual-Core Processor,,,,,,,
+AMD Athlon(tm) 5350 APU with Radeon(tm) R3 ,,,,,,,
+Mobile Intel(R) Celeron(R) CPU 1.50GHz,1.5,,2,2,,2000.0,
+Mobile Intel(R) Pentium(R) III CPU - M 1333MHz,1.2,,1,1,512.0,,
+Mobile AMD Athlon(v}90{P-M,,,,,,,
+Intel(R) Core(TM)2 Duo CPU U7700 @ 1.33GHz,1.33,,2,2,2000.0,,
+Dual-Core AMD Opteron(tm) Processor 8220,,,,,,,
+PowerPC G5 2.5GHZ ,,,,,,,
+Intel(R) Xeon(TM) CPU 2.00GHz,2.0,,2,2,4000.0,,
+Celeron (Mendocino) ,,,,,,,
+AMD A6-3400M APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz,3.4,3.6,6,12,,,15000.0
+Mobile Intel(R) Pentium(R) III CPU - M 1200MHz,1.2,,1,1,512.0,,
+Intel(R) Core(TM) i3-3120M CPU @ 2.50GHz,2.5,,2,4,,,3000.0
+mobile AMD Athlon(tm) XP-M (LV),,,,,,,
+Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz,4.0,4.4,4,8,,,8000.0
+Intel(R) Celeron(R) CPU E1500 @ 2.20GHz,2.2,,2,2,512.0,,
+AMD Athlon(tm) 4 Processor,3.7,4.0,4.0,4.0,4000.0,,0
+AMD A10-6800K APU with Radeon(tm) HD Graphics ,4.1,,4,,4000.0,,0
+Genuine Intel(R) CPU 1400 @ 1.83GHz,1.83,,1,1,2000.0,,
+Intel(R) Core(TM)2 Duo CPU L7100 @ 1.20GHz,1.2,,2,2,2000.0,,
+AMD FX(tm)-8320 Eight-Core Processor ,,,,,,,
+Dual-Core AMD Opteron(tm) Processor 2224 SE,,,,,,,
+Intel(R) Pentium(R) Dual CPU E2180 @ 2.00GHz,2.0,,2,2,1000.0,,
+Intel(R) Xeon(R) CPU E3-1275 V2 @ 3.50GHz,3.5,3.9,4,8,,,8000.0
+Intel(R) Atom(TM) CPU Z560 @ 2.13GHz,2.13,,2,4,1000.0,,
+Intel(R) Celeron(R) M processor 1.00GHz,1.5,,1,1,1000.0,,
+Intel(R) Xeon(R) CPU L5335 @ 2.00GHz,2.0,,4,4,8000.0,,
+Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz,1.9,2.9,2,4,,,3000.0
+mobile AMD Athlon(tm) XP-M 2400+,,,,,,,
+Intel(R) Core(TM) Duo CPU U2500 @ 1.20GHz,1.2,,2,2,2000.0,,
+AMD Athlon(tm) Neo X2 Dual Core Processor L335,,,,,,,
+AMD Athlon(tm) Processor LE-1620,,,,,,,
+Intel(R) Atom(TM) CPU D525 @ 1.80GHz,1.8,,2,4,1000.0,,
+Pentium II (Klamath) ,,,,,,,
+AMD Opteron(tm) Processor 240 HE,,,,,,,
+Mobile Pentium II (Dixon) ,,,,,,,
+Intel(R) Core(TM) i5 CPU U 470 @ 1.33GHz,1.33,1.86,2,4,,,3000.0
+mobile AMD Athlon(tm) XP2200+,,,,,,,
+Mobile AMD Athlon(tm) 64 Processor 3700+,,,,,,,
+Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz,3.4,3.8,4,4,,,6000.0
+AMD Athlon(TM) MP 2500+,,,,,,,
+Intel(R) Core(TM) i5-3475S CPU @ 2.90GHz,2.9,3.6,4,4,,,6000.0
+Genuine Intel(R) CPU @ 1.33GHz,1.33,,4,4,2000.0,,
+Intel(R) Xeon(TM) CPU 3.40GHz,3.4,,1,2,1000.0,,
+Intel(R) Core(TM)2 Solo CPU U2200 @ 1.20GHz,1.2,,2,2,2000.0,,
+Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,3.2,3.6,4,4,,,6000.0
+Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz,1.8,2.8,2,4,,,3000.0
+Mobile Intel(R) Pentium(R) 4 - M CPU 1.60GHz,1.6,,1,1,512.0,,
+Dual Core AMD Opteron(tm) Processor 175,,,,,,,
+Intel(R) Pentium(R) D CPU 3.20GHz,3.2,,2,2,4000.0,,
+Intel(R) Xeon(R) CPU E5-4650 0 @ 2.70GHz,2.7,3.3,8,16,,,20000.0
+Intel(R) Xeon(R) CPU W3570 @ 3.20GHz,3.2,3.46,4,8,,,8000.0
+Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz,3.5,3.9,4,8,,,8000.0
+Intel(R) Pentium(R) Dual CPU T2310 @ 1.46GHz,1.46,,2,2,1000.0,,
+Mobile AMD Athlon(tm) XP 1500+,,,,,,,
+Intel(R) Xeon(R) CPU X5260 @ 3.33GHz,3.33,,2,2,6000.0,,
+Mobile Intel(R) Pentium(R) 4 CPU 2.40GHz,2.4,,2,2,,2000.0,
+AMD Athlon(tm) MP 1600+,,,,,,,
+Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz,2.7,3.7,4,8,,,6000.0
+Intel(R) Pentium(R) M CPU 000 @ 2.16GHz,2.16,,4,4,2000.0,,
+Mobile AMD Athlon(tm),,,,,,,
+Pentium(R) Dual-Core CPU E6500 @ 2.93GHz,2.93,,2,2,2000.0,,
+AMD Phenom(tm) Ultra X4 11000 Processor,,,,,,,
+QEMU Virtual CPU version 0.9.1,,,,,,,
+Mobile Intel(R) Pentium(R) 4 CPU 3.33GHz,2.0,,2,2,,2000.0,
+AMD Athlon(TM) MP 2400+,,,,,,,
+VIA Samuel 2,,,,,,,
+AMD-K6tm w/ multimedia extensions,,,,,,,
+AMD A6-1450 APU with Radeon(TM) HD Graphics,,,,,,,
+Genuine Intel(R) CPU U1400 @ 1.20GHz,1.2,,1,1,2000.0,,
+AMD Athlon(tm) MP processor,,,,,,,
+Intel(R) Atom(TM) x5-Z8550 CPU @ 1.44GHz,1.44,,4,4,,2000.0,
+Intel(R) Core(TM) CPU 870 @ 2.93GHz,2.93,3.6,4,8,,,8000.0
+Intel(R) Xeon(TM) CPU 2.40GHz,2.4,,1,2,512.0,,
+Intel(R) Pentium(R) CPU G4400 @ 3.30GHz,3.3,,2,2,,,3000.0
+Intel(R) Core(TM)2 Duo CPU E8500 @ 3.16GHz,3.16,,2,2,6000.0,,
+Intel(R) Celeron(R) M processor 1300MHz,0.6,,1,1,512.0,,
+AMD Opteron(tm) Processor 246,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E4300 @ 1.80GHz,1.8,,2,2,2000.0,,
+Intel(R) Celeron(R) M processor 1.30GHz,1.3,,1,1,1000.0,,
+Intel(R) Pentium(R) Dual CPU E2160 @ 1.80GHz,1.8,,2,2,1000.0,,
+Dual-Core AMD Opteron(tm) Processor 2212,,,,,,,
+Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz,3.3,3.6,6,12,,,15000.0
+AMD FX(tm)-6200 Six-Core Processor ,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T7500 @ 2.20GHz,2.2,,2,2,4000.0,,
+Intel(R) Xeon(TM) CPU 1400MHz,1.4,,1,1,512.0,,
+Pentium III Xeon (Tanner) ,0.55,,1,1,512.0,,
+Genuine Intel(R) CPU 2.66GHz,1.66,,2,2,1000.0,,
+AMD K7 processor,,,,,,,
+Intel(R) Xeon(R) CPU 3040 @ 1.86GHz,1.86,,2,2,2000.0,,
+Intel(R) Core(TM)2 Duo CPU T9550 @ 2.66GHz,2.66,,2,2,6000.0,,
+Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz,2.66,3.2,4,4,,,8000.0
+Intel(R) Celeron(R) M processor 1.50GHz,1.5,,1,1,1000.0,,
+AMD Athlon(tm) XP 2000+,,,,,,,
+AMD Athlon(tm) MP 2600+,,,,,,,
+Intel(R) Xeon(TM) CPU 2.66GHz,2.66,,1,2,512.0,,
+Dual Core AMD Opteron(tm) Processor 290,,,,,,,
+Intel(R) Pentium(R) CPU G3258 @ 3.20GHz,3.2,,2,2,,3000.0,
+Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz,3.6,4.0,4,8,,,8000.0
+AMD FX(tm)-4100 Quad-Core Processor,3.9,4.2,6.0,6.0,6000.0,8000.0,0
+Mobile AMD Athlon(tm) 4 Processor,,,,,,,
+AMD E-350 Processor,,,,,,,
+AMD Duron(TM),,,,,,,
+Mobile AMD Sempron(tm) Processor 2100+,,,,,,,
+AMD Athlon(tm) II X4 645 Processor,3.1,,4,,2000.0,,0
+Intel(R) Celeron(R) M CPU 430 @ 1.73GHz,1.73,,1,1,1000.0,,
+Intel(R) Celeron(R) CPU 2.50GHz,2.5,,2,2,,,2000.0
+AMD Athlon(TM) MP 1500+,,,,,,,
+Intel(R) Celeron(R) CPU 430 @ 1.80GHz,1.8,,1,1,512.0,,
+Intel(R) Pentium(R) M CPU 000 @ 1.83GHz,1.73,,1,1,2000.0,,
+AMD Sempron(tm) Processor 3400+,2.0,,1,,256.0,,0
+Intel(R) Pentium(R) M processor 1600MHz,1.6,,1,1,1000.0,,
+Intel(R) Pentium(R) M processor 1.70GHz,1.7,,1,1,1000.0,,
+Dual-Core AMD Opteron(tm) Processor 1210,,,,,,,
+AMD Hammer Family processor - Model Unknown,,,,,,,
+Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz,3.2,3.6,4,4,,,6000.0
+Dual-Core AMD Opteron(tm) Processor 8218,,,,,,,
+Intel(R) Core(TM)2 Duo CPU P9500 @ 2.53GHz,2.53,,2,2,6000.0,,
+AMD Turion(tm) 64 Mobile Technology MT-37,,,,,,,
+Intel(R) Xeon(R) CPU E5-2630 0 @ 2.30GHz,2.3,2.8,6,12,,,15000.0
+"AMD FX-7600P Radeon R7, 12 Compute Cores 4C+8G ",,,,,,,
+Intel(R) Xeon(R) CPU X5460 @ 3.16GHz,3.16,,4,4,12000.0,,
+Intel(R) Xeon(R) CPU E3110 @ 3.00GHz,3.0,,2,2,6000.0,,
+Intel(R) Pentium(R) 4 CPU 2.66GHz,2.66,,1,1,512.0,,
+Intel(R) Core(TM) i5-2500T CPU @ 2.30GHz,2.3,3.3,4,4,,,6000.0
+AMD Phenom(tm) II X4 910e Processor,2.6,,4,,2000.0,6000.0,0
+AMD Athlon(tm) MP 1500+,,,,,,,
+VIA C7-M Processor 1200MHz,,,,,,,
+AMD Duron(tm) p,,,,,,,
+Intel(R) Pentium(R) III CPU - S 1266MHz,1.4,,1,1,512.0,,
+Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz,3.1,3.3,4,4,,,6000.0
+6x86MX (M II) ,,,,,,,
+AMD FX(tm)-9590 Eight-Core Processor ,,,,,,,
+AMD-K6(tm) 3D processor,,,,,,,
+Intel(R) Core(TM) i7 CPU M 620 @ 2.67GHz,2.66,3.33,2,4,,,4000.0
+Intel(R) Pentium(R) 4 CPU 1.80GHz,2.8,,1,1,512.0,,
+Intel(R) Core(TM)2 Duo CPU @ 3.00GHz,3.0,,2,2,6000.0,,
+Intel(R) Xeon(R) CPU X5687 @ 3.60GHz,3.6,3.86,4,8,,,12000.0
+Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz,3.3,3.9,4,4,,,6000.0
+Intel(R) Core(TM)2 CPU T7400 @ 2.16GHz,2.16,,2,2,4000.0,,
+Intel(R) Atom(TM) CPU Z530 @ 1.60GHz,1.6,,1,2,512.0,,
+Intel(R) Pentium(R) III CPU 1400MHz,1.4,,1,1,512.0,,
+AMD Athlon(tm) XP 1600+,,,,,,,
+Genuine Intel(R) CPU @ 2.50GHz,1.2,,1,1,2000.0,,
+Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,2.0,2.5,8,16,,,20000.0
+AMD Turion(tm) 64 mobile Technology MT-32,,,,,,,
+Intel(R) Core(TM)2 Duo CPU E6750 @ 2.66GHz,2.66,,2,2,4000.0,,
+Intel(R) Core(TM)2 Duo CPU E8235 @ 2.80GHz,2.8,,2,2,6000.0,,
+AMD-K6(tm) 3D+ Processor,,,,,,,
+Intel(R) Core(TM) i3 CPU 530 @ 2.93GHz,2.93,,2,4,,,4000.0
+AMD Athlon(tm) X2 Dual-Core QL-67,,,,,,,
+mobile AMD Sempron(tm) 3000+,,,,,,,
+AMD Athlon(tm) 64 X2 Dual Core Processor BE-2350,,,,,,,
+AMD FX(tm)-8320 Eight-Core Processor,,,,,,,
+Intel(R) Core(TM) i7-3970X CPU @ 3.50GHz,3.5,4.0,6,12,,,15000.0
+Intel(R) Core(TM)2 Duo CPU L7300 @ 1.40GHz,1.4,,2,2,4000.0,,
+AMD Athlon(tm) MP 2800+,,,,,,,
+Mobile AMD Athlon XP-M2600+,,,,,,,
+Intel(R) Core(TM)2 Duo CPU T5750 @ 2.00GHz,2.0,,2,2,2000.0,,
+Intel(R) Celeron(R) CPU 1.80GHz,1.8,,2,2,,2000.0,
+AMD Phenom(tm) II X2 565 Processor,3.4,,2,,1000.0,,0
+Mobile Intel(R) Pentium(R) 4 CPU 3.06GHz,3.06,,1,2,512.0,,
+Intel(R) Core(TM) i5 CPU S 750 @ 2.40GHz,2.66,3.2,4,4,,,8000.0
+Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,3.0,3.5,4,4,,,6000.0
+AMD Phenom(tm) 9500 Quad-Core Processor,,,,,,,
+Celeron(R) Dual-Core CPU T3300 @ 2.00GHz,2.0,,2,2,,1000.0,
+Intel(R) Core(TM) i5 CPU M 430 @ 2.27GHz,2.26,2.53,2,4,,,3000.0
+mobile AMD Athlon(tm) XP Processor,,,,,,,
+AMD Athlon(tm) II Neo N36L Dual-Core Processor,,,,,,,
+AMD Athlon(TM) MP 2000+,,,,,,,
+Intel(R) Core(TM)2 Extreme CPU Q6850 @ 3.00GHz,3.0,,4,4,8000.0,,
+AMD E-300 APU with Radeon(tm) HD Graphics,,,,,,,
+Intel(R) Core(TM) i7-2720QM CPU @ 2.20GHz,2.2,3.3,4,8,,,6000.0
+AMD Duron(tm) procu{s{,,,,,,,
+Mobile Intel(R) Pentium(R) 4 CPU 3.46GHz,2.0,,1,1,512.0,,
+Intel(R) Pentium(R) III Mobile CPU 1133MHz,1.13,,1,1,256.0,,
+Intel(R) Core(TM) i5 CPU 660 @ 3.33GHz,3.33,3.6,2,4,,,4000.0
+AMD Duron(tm) Processor,,,,,,,
+Intel(R) Atom(TM) CPU D510 @ 1.66GHz,1.66,,2,4,1000.0,,
+Intel(R) Core(TM) i7-2637M CPU @ 1.70GHz,1.7,2.8,2,4,,4000.0,
+AMD Athlon(tm) 4 processor,3.7,4.0,4.0,4.0,4000.0,,0
+Intel(R) Pentium(R) M processor 2.26GHz,2.26,,1,1,2000.0,,
+Intel(R) Core(TM) i3 CPU 550 @ 3.20GHz,3.2,,2,4,,,4000.0
+Intel(R) XEON(TM) CPU 2.00GHz,2.0,,2,2,4000.0,,
+Intel(R) Celeron(R) CPU E3200 @ 2.40GHz,2.4,,2,2,1000.0,,
+Intel(R) Core(TM) i7 CPU K 875 @ 2.93GHz,2.93,3.6,4,8,,,8000.0
+Intel(R) Pentium(R) 4 CPU 1400MHz,2.8,,1,1,512.0,,
+Intel(R) Core(TM) i7 CPU 965 @ 3.20GHz,3.2,3.46,4,8,,,8000.0
+Intel(R) Pentium(R) M processor 1200MHz,1.6,,1,1,1000.0,,
+AMD Opteron(tm) Processor 3280,,,,,,,
+Mobile AMD Athlon(tm) XP-M 1800+ Processor,,,,,,,
+AMD Duron(tm) MP Processor,,,,,,,
+Intel(R) Celeron(R) CPU G1840 @ 2.80GHz,2.8,,2,2,,2000.0,
+Intel(R) Core(TM)2 CPU 4400 @ 2.00GHz,2.0,,2,2,2000.0,,
+Mobile AMD Athl,,,,,,,
+AMD Athlon(tm) 64 X2 Processor 3800+,,,,,,,
+Intel(R) Core(TM)2 CPU U7700 @ 1.33GHz,1.33,,2,2,2000.0,,
+Intel(R) Core(TM) i3-2357M CPU @ 1.30GHz,1.3,,2,4,,3000.0,
+Mobile Intel(R) Pentium(R) 4 - M CPU 1.80GHz,1.8,,1,1,512.0,,
+Intel(R) Celeron(R) CPU N2820 @ 2.13GHz,2.13,,2,2,,1000.0,
+Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz,3.4,3.8,4,8,,,8000.0
+Intel(R) Core(TM) i3-3225 CPU @ 3.30GHz,3.3,,2,4,,,3000.0
+Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz,3.0,4.1,6,6,,,9000.0
+AMD Athlon(TM)Processor,3.7,4.0,4.0,4.0,4000.0,,0
+Intel(R) Xeon(R) CPU X5550 @ 2.67GHz,2.66,3.06,4,8,,,8000.0
+Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz,2.3,3.3,4,8,,,6000.0
+AMD Opteron(tm) Processor 146,,,,,,,
+486DX4 ,,,,,,,
+Intel(R) Xeon(R) CPU E5440 @ 2.83GHz,2.83,,4,4,12000.0,,
+Intel(R) Celeron(TM) CPU 1100MHz,2.8,,2,2,,2000.0,
+Intel(R) Xeon(R) CPU W3540 @ 2.93GHz,2.93,3.2,4,8,,,8000.0
+Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz,3.5,3.9,6,12,,,12000.0
+Geode(TM) Integrated Processor by AMD PCS,,,,,,,
+Dual-Core AMD Opteron(tm) Processor 2222,,,,,,,
+Intel(R) Pentium(R) M processor 2.10GHz,2.1,,2,2,,2000.0,
+AMD Turion(tm) 64 X2 TL-60,2.0,,2.0,2.0,1000.0,,0
+Intel(R) Pentium(R) CPU G860 @ 3.00GHz,3.0,,2,2,,,3000.0
+Intel(R) Celeron(R) D CPU 3.20GHz,3.2,,1,1,512.0,,
+Intel(R) Xeon(R) CPU X5680 @ 3.33GHz,3.33,3.6,6,12,,,12000.0
+AMD Athlon(tm) 4,3.7,4.0,4.0,4.0,4000.0,,0
+AMD Athlon(tm) 2200+,,,1,,,,0
+Intel(R) Core(TM) i7 CPU Q 820 @ 1.73GHz,1.73,3.06,4,8,,,8000.0
+AMD Phenom(tm) X4 Quad-Core Processor GP-9600,,,,,,,
+AMD Phenom(tm) II X4 B50 Processor,,,,,,,
+Intel(R) Pentium(R) M processor 1.10GHz,1.1,,1,1,1000.0,,
+Intel(R) Core(TM) i5 CPU M 580 @ 2.67GHz,2.66,3.2,2,4,,,3000.0
+Intel(R) Celeron(TM) CPU 1400MHz,1.4,,1,1,1000.0,,
+AMD Phenom(tm) II X4 905e Processor,,,,,,,
+Intel(R) Pentium(R) III Mobile CPU 1066MHz,1.2,,1,1,512.0,,
+Intel(R) Core(TM)2 Duo CPU E8435 @ 3.06GHz,3.06,,2,2,6000.0,,
+Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz,3.0,3.2,4,4,,,6000.0
+Genuine Intel(R) CPU 2140 @ 1.60GHz,1.6,,2,2,1000.0,,
+AMD E1-6015 APU with Radeon(TM) R2 Graphics ,,,,,,,
+AMD Engineering Sample 00,,,,,,,
+AMD Turion(tm) 64 X2 Mobile Technology TL-56,1.8,,,,,,0
+Intel(R) Core(TM) Duo CPU T2700 @ 2.33GHz,2.33,,2,2,2000.0,,
+Intel(R) Pentium(R) 4 CPU 1.70GHz,1.7,,2,2,,,2000.0
+Intel(R) Atom(TM) CPU D2700 @ 2.13GHz,2.13,,2,4,1000.0,,
+Intel(R) Core(TM) i7-3770T CPU @ 2.50GHz,2.5,3.7,4,8,,,8000.0
+Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz,1.8,3.0,2,4,,,4000.0
+AMD Athlon(tm) 64 X2 Dual Core Processor 3800+,,,,,,,
+Intel(R) Xeon(R) CPU X3210 @ 2.13GHz,2.13,,4,4,8000.0,,
+Intel(R) Celeron(R) CPU 2.80GHz,2.8,,2,2,,2000.0,
+Intel(R) Xeon(TM) CPU 3.80GHz,3.8,,1,2,2000.0,,
+AMD Geode NX,,,,,,,
+Intel(R) Xeon(R) CPU L5420 @ 2.50GHz,2.5,,4,4,12000.0,,
+Celeron (Covinton) ,,,,,,,
+AMD Z-01,,,,,,,
+Intel(R) Core(TM)2 Duo CPU P9400 @ 2.40GHz,2.4,,2,2,6000.0,,
+VIA C7 Processor 1500MHz,,,,,,,
+Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz,2.6,3.2,2,4,,,3000.0
+AMD Turion(tm) II Neo K625 Dual-Core Processor,,,,,,,
+Mobile Intel(R) Pentium(R) III CPU - M 900MHz,1.2,,1,1,512.0,,
+AMD Athlon(tm) 1700+,,,,,,,
+mobile AMD Athlon(tm) 4,,,,,,,
+"AMD A6-8500P Radeon R5, 6 Compute Cores 2C+4G ",,,,,,,
+Intel(R) Core(TM) i7-3840QM CPU @ 2.80GHz,2.8,3.8,4,8,,,8000.0
+Intel(R) Core(TM) i3-4100M CPU @ 2.50GHz,2.5,,2,4,,,3000.0
+AMD Athlon(tm) 64 X2 TK-57,,,,,,,
+AMD Sempron(tm) Processor 3000+,,,,,,,
+AMD A6-6400K APU with Radeon(tm) HD Graphics ,,,,,,,
+AMD Phenom(tm) II X6 1100T Processor,3.3,,6,,3000.0,6000.0,0
+Intel(R) Xeon(R) CPU E3-1265L V2 @ 2.50GHz,2.5,3.5,4,8,,,8000.0
+AMD Opteron(tm) Processor 250,,,,,,,
+Pentium III (Coppermine) ,,,,,,,
+Genuine Intel(R) CPU @ 2.66GHz,2.66,,1,1,512.0,,
+Intel(R) Xeon(R) CPU W3580 @ 3.33GHz,3.33,3.6,4,8,,,8000.0
+Dual-Core AMD Opteron(tm) Processor 2218,,,,,,,
+AMD Athlon(tm) II X4 631 Quad-Core Processor,,,,,,,
+Intel(R) Atom(TM) CPU Z520 @ 1.33GHz,1.33,,1,2,512.0,,
+Core 2 Duo E3300 ,1.86,,2,2,2000.0,,
+Genuine Intel(R) CPU @ 2.40GHz,2.4,3.2,8,16,,,20000.0
+Intel(R) Celeron(R) CPU 1.60GHz,1.6,,2,2,,,2000.0
+mobile AMD Sempron(tm) 2800+,,,,,,,
+Intel(R) Celeron(R) CPU B810 @ 1.60GHz,1.6,,2,2,,,2000.0
+AMD Phenom(tm) II X6 1035T Processor,,,,,,,
+Dual Core AMD Opteron(tm) Processor 180,,,,,,,
+AMD Athlon(tm) 64 X2 Dual Core Processor 6000+,,,,,,,
+AMD Athlon(tm) X2 Dual Core Processor 3250e,,,,,,,
+Intel(R) Core(TM) i7 CPU X 980 @ 3.33GHz,3.33,3.6,6,12,,,12000.0
+AMD Athlon(tm) 2000+,,,,,,,
+Intel(R) Atom(TM) CPU N2800 @ 1.86GHz,1.86,,2,4,1000.0,,
+Mobile AMD Sempron(tm) Processor 3500+,,,,,,,
+Intel(R) Xeon(R) CPU E5504 @ 2.00GHz,2.0,,4,4,,,4000.0
+Intel(R) Core(TM) i7-3537U CPU @ 2.00GHz,2.0,3.1,2,4,,,4000.0
+AMD Athlon(tm) Proswssor,,,,,,,
+AMD Opteron(tm) Processor 242,,,,,,,

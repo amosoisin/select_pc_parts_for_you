@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Select PC Parts for you!</h1>
+
+<form action="/send" method="post">
+    <p>budget : <input type="number" name="budget"></p>
+    <br>
+    <input type="submit" value="submit">
+</form>
+
+{% if not values.is_default %}
+
+    {% if not values.error %}
+        {% if values.budget %}
+            <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a> </p>
+            <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> </p>
+            <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> </p>
+            <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> </p>
+            <p>score: {{ values.SCORE }}</p>
+            <p>price: {{ values.PRICE }}</p>
+
+            <p>search progress</p>
+            <p><img src="./data/max_score.png" height=300></p>
+        {% else %}
+            <p>budget is unexpected value.<br>Please input number in textbox</p>
+        {% endif %}
+    {% else %}
+        <p>error</p>
+    {% endif %}
+
+{% endif %}
+
+{% endblock %}
