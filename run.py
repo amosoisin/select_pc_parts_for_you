@@ -14,6 +14,10 @@ def send():
     values = {"is_default": False, "budget":None, "error": False, "not_found": False}
     if request.method == "POST":
         try:
+            cap = int(request.form["capacity"])
+        except ValueError:
+            cap = None
+        try:
             budget = int(request.form["budget"])
         except ValueError:
             return render_template("index.html", values=values)
@@ -22,7 +26,7 @@ def send():
                                  cpu_maker=request.form["cpu_maker"],
                                  gpu_maker=request.form["gpu_maker"],
                                  hdd_ssd=request.form["hdd_ssd"],
-                                 minimum_require_capacity=int(request.form["capacity"]))
+                                 minimum_require_capacity=cap)
             sms.search()
             suggest_parts = sms.print_max_combi(return_values=True)
             values.update(suggest_parts)

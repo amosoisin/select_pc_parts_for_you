@@ -16,7 +16,7 @@ class SearchMaxScore:
         self.budget = budget
         self.init_dataset(cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity)
         self.init_model()
-        self.GENE_NUM = 500
+        self.GENE_NUM = 5000
         self.family = []
         self.max_score_list = []
 
