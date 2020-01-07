@@ -11,11 +11,11 @@ warnings.simplefilter('ignore')
 sns.set()
 
 class SearchMaxScore:
-    def __init__(self, budget):
+    def __init__(self, budget, cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=None):
         self.ROOT_DIR = "suggest_parts/"
-        self.init_dataset()
-        self.init_model()
         self.budget = budget
+        self.init_dataset(cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity)
+        self.init_model()
         self.GENE_NUM = 500
         self.family = []
         self.max_score_list = []
@@ -148,7 +148,7 @@ class SearchMaxScore:
             self.cpu_calc_df.iloc[cpu_i, :-1],
             self.gpu_calc_df.iloc[gpu_i, :-1],
             self.ram_calc_df.iloc[ram_i, :-1],
-            self.disk_calc_df.iloc[disk_i, 1:-1]
+            self.disk_calc_df.iloc[disk_i, 2:-1]
         ])).T
         price = sum([
             self.cpu_calc_df.iloc[cpu_i]["PRICE"],
@@ -168,15 +168,34 @@ class SearchMaxScore:
         return score
 
 
-    def init_dataset(self):
-        self.cpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_grouped.csv", index_col=0)
-        self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_grouped.csv", index_col=0)
+    def init_dataset(self, cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity):
+        if cpu_maker != "free":
+            self.cpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_{}_grouped.csv".format(cpu_maker), index_col=0)
+            self.cpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_calc_{}_grouped.csv".format(cpu_maker), index_col=0)
+        else:
+            self.cpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_grouped.csv", index_col=0)
+            self.cpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_calc_grouped.csv", index_col=0)
+
+        if gpu_maker != "free":
+            self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_{}_grouped.csv".format(gpu_maker), index_col=0)
+            self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc_{}_grouped.csv".format(gpu_maker), index_col=0)
+        else:
+            self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_grouped.csv", index_col=0)
+            self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc_grouped.csv", index_col=0)
+
         self.ram_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/ram_kakaku_grouped.csv", index_col=0)
-        self.disk_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku.csv", index_col=0)
-        self.cpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_calc_grouped.csv", index_col=0)
-        self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc_grouped.csv", index_col=0)
         self.ram_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/ram_kakaku_calc_grouped.csv", index_col=0)
-        self.disk_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku_calc.csv", index_col=0)
+
+        if hdd_ssd != "free":
+            self.disk_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/{}_kakaku_grouped.csv".format(hdd_ssd), index_col=0)
+            self.disk_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/{}_kakaku_calc_grouped.csv".format(hdd_ssd), index_col=0)
+        else:
+            self.disk_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku.csv", index_col=0)
+            self.disk_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku_calc.csv", index_col=0)
+
+        if minimum_require_capacity:
+            self.disk_df = self.disk_df.loc[self.disk_df["capacity"] >= minimum_require_capacity, :]
+            self.disk_calc_df = self.disk_calc_df.loc[self.disk_calc_df["capacity"] >= minimum_require_capacity, :]
         self.df_list = [
             self.cpu_calc_df,
             self.gpu_calc_df,
@@ -188,32 +207,11 @@ class SearchMaxScore:
         self.reg_model_hdd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_hdd.sav", "rb"))
         self.reg_model_ssd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_ssd.sav", "rb"))
 
-
 if __name__ == "__main__":
-    if len(sys.argv) == 2:
-        budget = int(sys.argv[-1]) * 10000
-        sms = SearchMaxScore(budget)
-        sms.search()
-        sms.print_max_combi(return_score=False)
-        sms.plot_graph()
-    else:
-        x = [i for i in range(2, 31)]
-        x = [i*10000 for i in x]
-        score_list = []
-        diff = []
-        for budget in x:
-            print("budget : ", budget)
-            sms = SearchMaxScore(budget)
-            sms.search()
-            score = sms.print_max_combi(return_score=True)
-            score_list.append(score)
-        plt.plot(x, score_list)
-        plt.xlabel("budget")
-        plt.ylabel("score")
-        plt.show()
-        for i in range(1, len(score_list)):
-            d = score_list[i] - score_list[i-1]
-            diff.append(d)
-        x = [i for i in range(len(diff))]
-        plt.plot(x, diff)
-        plt.show()
+    budget = 10 * 10000
+    cpu_maker = "AMD"
+    gpu_maker = "NVIDIA"
+    hdd_ssd = "hdd"
+    minimum_size = 100
+    s = SearchMaxScore(budget, cpu_maker, gpu_maker, hdd_ssd, minimum_size)
+    s.search()

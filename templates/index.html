@@ -5,23 +5,46 @@
 
 <form action="/send" method="post">
     <p>budget : <input type="number" name="budget"></p>
-    <br>
+    <p>hdd or ssd 
+    <select name="hdd_ssd">
+        <option value="free">free</option>
+        <option value="hdd">hdd</option>
+        <option value="ssd">ssd</option>
+    </select></p>
+    <p>Maker of CPU
+    <select name="cpu_maker">
+        <option value="free">free</option>
+        <option value="intel">Intel</option>
+        <option value="AMD">AMD</option>
+    </select></p> 
+    <p>Chip maker of Graphicboard
+    <select name="gpu_maker">
+        <option value="free">free</option>
+        <option value="NVIDIA">NVIDIA</option>
+        <option value="AMD">AMD</option>
+    </select></p>
+    <p>Minimum requirement of Disk Capacity[GB] : 
+        <input type="number" name="capacity">
+    </p>
     <input type="submit" value="submit">
 </form>
 
 {% if not values.is_default %}
 
     {% if not values.error %}
-        {% if values.budget %}
-            <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a> </p>
-            <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> </p>
-            <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> </p>
-            <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> </p>
-            <p>score: {{ values.SCORE }}</p>
-            <p>price: {{ values.PRICE }}</p>
-
+        {% if values.not_found %}
+            <p>Not Found</p>
         {% else %}
-            <p>budget is unexpected value.<br>Please input number in textbox</p>
+            {% if values.budget %}
+                <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a> </p>
+                <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> </p>
+                <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> </p>
+                <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> </p>
+                <p>score: {{ values.SCORE }}</p>
+                <p>price: {{ values.PRICE }}</p>
+            {% else %}
+                <p>budget is unexpected value.<br>Please input number in textbox</p>
+            {% endif %}
         {% endif %}
     {% else %}
         <p>error</p>
