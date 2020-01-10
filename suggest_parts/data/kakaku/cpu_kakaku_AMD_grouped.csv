@@ -1,40 +1,40 @@
-,name,url,processor_name,maker,type,clock,max_clock,core,thread,is_L2,L2,is_L3,L3,is_smart_cache,smart_cache,PRICE
-0,AMD EPYC 7401P BOX,https://kakaku.com/item/K0001087348/,EPYC7401P,AMD,0,2.0,3.0,24.0,48.0,0.0,0.0,1.0,64000.0,0.0,0.0,156639.0
-1,AMD EPYC 7551P BOX,https://kakaku.com/item/K0001087344/,EPYC7551P,AMD,0,2.0,3.0,32.0,64.0,0.0,0.0,1.0,64000.0,0.0,0.0,311299.0
-2,AMD EPYC 7251 BOX,https://kakaku.com/item/K0001087354/,EPYC7251,AMD,0,2.1,2.9,8.0,16.0,0.0,0.0,1.0,32000.0,0.0,0.0,98779.0
-3,AMD EPYC 7301 BOX,https://kakaku.com/item/K0001087352/,EPYC7301,AMD,0,2.2,2.7,16.0,32.0,0.0,0.0,1.0,64000.0,0.0,0.0,81399.0
-4,AMD EPYC 7601 BOX,https://kakaku.com/item/K0001087343/,EPYC7601,AMD,0,2.2,3.2,32.0,64.0,0.0,0.0,1.0,64000.0,0.0,0.0,711259.0
-5,AMD EPYC 7451 BOX,https://kakaku.com/item/K0001087347/,EPYC7451,AMD,0,2.3,3.2,24.0,48.0,0.0,0.0,1.0,64000.0,0.0,0.0,426689.0
-6,AMD EPYC 7351P BOX,https://kakaku.com/item/K0001087350/,EPYC7351P,AMD,0,2.4,2.9,16.0,32.0,0.0,0.0,1.0,64000.0,0.0,0.0,109999.0
-7,AMD Ryzen 7 1700 BOX,https://kakaku.com/item/K0000946575/,Ryzen71700,AMD,SocketAM4,3.0,3.7,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,30327.0
-8,AMD Ryzen Threadripper 2970WX BOX,https://kakaku.com/item/K0001079494/,RyzenThreadripper2970WX,AMD,SocketTR4,3.0,4.2,24.0,48.0,1.0,12000.0,1.0,64000.0,0.0,0.0,76978.0
-9,AMD Ryzen Threadripper 2990WX BOX,https://kakaku.com/item/K0001079117/,RyzenThreadripper2990WX,AMD,SocketTR4,3.0,4.2,32.0,64.0,1.0,16000.0,1.0,64000.0,0.0,0.0,183130.0
-10,AMD Ryzen 3 1200 BOX,https://kakaku.com/item/K0000986260/,Ryzen31200,AMD,SocketAM4,3.1,3.4,4.0,4.0,1.0,2000.0,1.0,8000.0,0.0,0.0,9999.0
-11,AMD Athlon 200GE BOX,https://kakaku.com/item/K0001094966/,Athlon200GE,AMD,SocketAM4,3.2,0.0,2.0,4.0,1.0,1024.0,1.0,4000.0,0.0,0.0,5256.0
-12,AMD Ryzen 5 1600 BOX,https://kakaku.com/item/K0000954888/,Ryzen51600,AMD,SocketAM4,3.2,3.6,6.0,12.0,1.0,3000.0,1.0,16000.0,0.0,0.0,13398.0
-13,AMD Ryzen 7 2700 BOX,https://kakaku.com/item/K0001047705/,Ryzen72700,AMD,SocketAM4,3.2,4.1,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,19699.0
-14,AMD Athlon 220GE BOX,https://kakaku.com/item/K0001122219/,Athlon220GE,AMD,SocketAM4,3.4,0.0,2.0,4.0,1.0,1000.0,1.0,4000.0,0.0,0.0,6688.0
-15,AMD Ryzen 5 2600 BOX,https://kakaku.com/item/K0001047707/,Ryzen52600,AMD,SocketAM4,3.4,3.9,6.0,12.0,1.0,3000.0,1.0,16000.0,0.0,0.0,15070.0
-16,AMD Ryzen 7 1700X BOX,https://kakaku.com/item/K0000946574/,Ryzen71700X,AMD,SocketAM4,3.4,3.8,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,19816.0
-17,AMD Ryzen Threadripper 1950X BOX,https://kakaku.com/item/K0000987818/,RyzenThreadripper1950X,AMD,SocketTR4,3.4,4.0,16.0,32.0,1.0,8000.0,1.0,32000.0,0.0,0.0,67800.0
-18,AMD Athlon 3000G BOX,https://kakaku.com/item/K0001213691/,Athlon3000G,AMD,SocketAM4,3.5,0.0,2.0,4.0,1.0,1000.0,1.0,4000.0,0.0,0.0,7678.0
-19,AMD Ryzen 3 2200G BOX,https://kakaku.com/item/K0001031960/,Ryzen32200G,AMD,SocketAM4,3.5,3.7,4.0,4.0,1.0,2000.0,1.0,4000.0,0.0,0.0,11480.0
-20,AMD Ryzen 3 1300X BOX,https://kakaku.com/item/K0000986259/,Ryzen31300X,AMD,SocketAM4,3.5,3.7,4.0,4.0,1.0,2000.0,1.0,8000.0,0.0,0.0,11192.0
-21,AMD Ryzen 5 1500X BOX,https://kakaku.com/item/K0000958312/,Ryzen51500X,AMD,SocketAM4,3.5,3.7,4.0,8.0,1.0,2000.0,1.0,16000.0,0.0,0.0,14420.0
-22,AMD Ryzen Threadripper 1920X BOX,https://kakaku.com/item/K0000987817/,RyzenThreadripper1920X,AMD,SocketTR4,3.5,4.0,12.0,24.0,1.0,6000.0,1.0,32000.0,0.0,0.0,22478.0
-23,AMD Ryzen Threadripper 2950X BOX,https://kakaku.com/item/K0001079495/,RyzenThreadripper2950X,AMD,SocketTR4,3.5,4.4,16.0,32.0,1.0,8000.0,1.0,32000.0,0.0,0.0,65978.0
-24,AMD Ryzen 9 3950X BOX,https://kakaku.com/item/K0001172057/,Ryzen93950X,AMD,SocketAM4,3.5,4.7,16.0,32.0,1.0,8000.0,1.0,64000.0,0.0,0.0,98700.0
-25,AMD Ryzen 3 3200G BOX,https://kakaku.com/item/K0001172064/,Ryzen33200G,AMD,SocketAM4,3.6,4.0,4.0,4.0,1.0,2000.0,1.0,4000.0,0.0,0.0,12577.0
-26,AMD Ryzen 5 2400G BOX,https://kakaku.com/item/K0001031959/,Ryzen52400G,AMD,SocketAM4,3.6,3.9,4.0,8.0,1.0,2000.0,1.0,4000.0,0.0,0.0,16470.0
-27,AMD Ryzen 5 2600X BOX,https://kakaku.com/item/K0001047706/,Ryzen52600X,AMD,SocketAM4,3.6,4.2,6.0,12.0,1.0,3000.0,1.0,16000.0,0.0,0.0,17980.0
-28,AMD Ryzen 5 3600 BOX,https://kakaku.com/item/K0001172062/,Ryzen53600,AMD,SocketAM4,3.6,4.2,6.0,12.0,1.0,3000.0,1.0,32000.0,0.0,0.0,24367.0
-29,AMD Ryzen 7 1800X BOX,https://kakaku.com/item/K0000946573/,Ryzen71800X,AMD,SocketAM4,3.6,4.0,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,21250.0
-30,AMD Ryzen 7 3700X BOX,https://kakaku.com/item/K0001172060/,Ryzen73700X,AMD,SocketAM4,3.6,4.4,8.0,16.0,1.0,4000.0,1.0,32000.0,0.0,0.0,40730.0
-31,AMD Ryzen 5 3400G BOX,https://kakaku.com/item/K0001172063/,Ryzen53400G,AMD,SocketAM4,3.7,4.2,4.0,8.0,1.0,2000.0,1.0,4000.0,0.0,0.0,19480.0
-32,AMD Ryzen 7 2700X BOX,https://kakaku.com/item/K0001047704/,Ryzen72700X,AMD,SocketAM4,3.7,4.3,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,23469.0
-33,AMD Ryzen Threadripper 3970X,https://kakaku.com/item/K0001213693/,RyzenThreadripper3970X,AMD,SocketsTRX4,3.7,4.5,32.0,64.0,1.0,16000.0,1.0,128000.0,0.0,0.0,252500.0
-34,AMD Ryzen 5 3600X BOX,https://kakaku.com/item/K0001172061/,Ryzen53600X,AMD,SocketAM4,3.8,4.4,6.0,12.0,1.0,3000.0,1.0,32000.0,0.0,0.0,29173.0
-35,AMD Ryzen Threadripper 1900X BOX,https://kakaku.com/item/K0000993227/,RyzenThreadripper1900X,AMD,SocketTR4,3.8,4.0,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,20169.0
-36,AMD Ryzen 9 3900X BOX,https://kakaku.com/item/K0001172058/,Ryzen93900X,AMD,SocketAM4,3.8,4.6,12.0,24.0,1.0,6000.0,1.0,64000.0,0.0,0.0,62125.0
-37,AMD Ryzen Threadripper 3960X,https://kakaku.com/item/K0001213692/,RyzenThreadripper3960X,AMD,SocketsTRX4,3.8,4.5,24.0,48.0,1.0,12000.0,1.0,128000.0,0.0,0.0,177800.0
-38,AMD Ryzen 7 3800X BOX,https://kakaku.com/item/K0001172059/,Ryzen73800X,AMD,SocketAM4,3.9,4.5,8.0,16.0,1.0,4000.0,1.0,32000.0,0.0,0.0,47574.0
+,0,name,url,processor_name,maker,type,clock,max_clock,core,thread,is_L2,L2,is_L3,L3,is_smart_cache,smart_cache,PRICE
+0,173,AMD EPYC 7401P BOX,https://kakaku.com/item/K0001087348/,EPYC7401P,AMD,0,2.0,3.0,24.0,48.0,0.0,0.0,1.0,64000.0,0.0,0.0,156639.0
+1,285,AMD EPYC 7551P BOX,https://kakaku.com/item/K0001087344/,EPYC7551P,AMD,0,2.0,3.0,32.0,64.0,0.0,0.0,1.0,64000.0,0.0,0.0,311299.0
+2,240,AMD EPYC 7251 BOX,https://kakaku.com/item/K0001087354/,EPYC7251,AMD,0,2.1,2.9,8.0,16.0,0.0,0.0,1.0,32000.0,0.0,0.0,98779.0
+3,236,AMD EPYC 7301 BOX,https://kakaku.com/item/K0001087352/,EPYC7301,AMD,0,2.2,2.7,16.0,32.0,0.0,0.0,1.0,64000.0,0.0,0.0,81399.0
+4,129,AMD EPYC 7601 BOX,https://kakaku.com/item/K0001087343/,EPYC7601,AMD,0,2.2,3.2,32.0,64.0,0.0,0.0,1.0,64000.0,0.0,0.0,711259.0
+5,295,AMD EPYC 7451 BOX,https://kakaku.com/item/K0001087347/,EPYC7451,AMD,0,2.3,3.2,24.0,48.0,0.0,0.0,1.0,64000.0,0.0,0.0,426689.0
+6,243,AMD EPYC 7351P BOX,https://kakaku.com/item/K0001087350/,EPYC7351P,AMD,0,2.4,2.9,16.0,32.0,0.0,0.0,1.0,64000.0,0.0,0.0,109999.0
+7,215,AMD Ryzen 7 1700 BOX,https://kakaku.com/item/K0000946575/,Ryzen71700,AMD,SocketAM4,3.0,3.7,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,30327.0
+8,41,AMD Ryzen Threadripper 2970WX BOX,https://kakaku.com/item/K0001079494/,RyzenThreadripper2970WX,AMD,SocketTR4,3.0,4.2,24.0,48.0,1.0,12000.0,1.0,64000.0,0.0,0.0,76978.0
+9,108,AMD Ryzen Threadripper 2990WX BOX,https://kakaku.com/item/K0001079117/,RyzenThreadripper2990WX,AMD,SocketTR4,3.0,4.2,32.0,64.0,1.0,16000.0,1.0,64000.0,0.0,0.0,183130.0
+10,82,AMD Ryzen 3 1200 BOX,https://kakaku.com/item/K0000986260/,Ryzen31200,AMD,SocketAM4,3.1,3.4,4.0,4.0,1.0,2000.0,1.0,8000.0,0.0,0.0,9999.0
+11,23,AMD Athlon 200GE BOX,https://kakaku.com/item/K0001094966/,Athlon200GE,AMD,SocketAM4,3.2,0.0,2.0,4.0,1.0,1024.0,1.0,4000.0,0.0,0.0,5256.0
+12,48,AMD Ryzen 5 1600 BOX,https://kakaku.com/item/K0000954888/,Ryzen51600,AMD,SocketAM4,3.2,3.6,6.0,12.0,1.0,3000.0,1.0,16000.0,0.0,0.0,13398.0
+13,16,AMD Ryzen 7 2700 BOX,https://kakaku.com/item/K0001047705/,Ryzen72700,AMD,SocketAM4,3.2,4.1,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,19699.0
+14,51,AMD Athlon 220GE BOX,https://kakaku.com/item/K0001122219/,Athlon220GE,AMD,SocketAM4,3.4,0.0,2.0,4.0,1.0,1000.0,1.0,4000.0,0.0,0.0,6688.0
+15,4,AMD Ryzen 5 2600 BOX,https://kakaku.com/item/K0001047707/,Ryzen52600,AMD,SocketAM4,3.4,3.9,6.0,12.0,1.0,3000.0,1.0,16000.0,0.0,0.0,15070.0
+16,42,AMD Ryzen 7 1700X BOX,https://kakaku.com/item/K0000946574/,Ryzen71700X,AMD,SocketAM4,3.4,3.8,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,19816.0
+17,162,AMD Ryzen Threadripper 1950X BOX,https://kakaku.com/item/K0000987818/,RyzenThreadripper1950X,AMD,SocketTR4,3.4,4.0,16.0,32.0,1.0,8000.0,1.0,32000.0,0.0,0.0,67800.0
+18,32,AMD Athlon 3000G BOX,https://kakaku.com/item/K0001213691/,Athlon3000G,AMD,SocketAM4,3.5,0.0,2.0,4.0,1.0,1000.0,1.0,4000.0,0.0,0.0,7678.0
+19,61,AMD Ryzen 3 2200G BOX,https://kakaku.com/item/K0001031960/,Ryzen32200G,AMD,SocketAM4,3.5,3.7,4.0,4.0,1.0,2000.0,1.0,4000.0,0.0,0.0,11480.0
+20,196,AMD Ryzen 3 1300X BOX,https://kakaku.com/item/K0000986259/,Ryzen31300X,AMD,SocketAM4,3.5,3.7,4.0,4.0,1.0,2000.0,1.0,8000.0,0.0,0.0,11192.0
+21,142,AMD Ryzen 5 1500X BOX,https://kakaku.com/item/K0000958312/,Ryzen51500X,AMD,SocketAM4,3.5,3.7,4.0,8.0,1.0,2000.0,1.0,16000.0,0.0,0.0,14420.0
+22,31,AMD Ryzen Threadripper 1920X BOX,https://kakaku.com/item/K0000987817/,RyzenThreadripper1920X,AMD,SocketTR4,3.5,4.0,12.0,24.0,1.0,6000.0,1.0,32000.0,0.0,0.0,22478.0
+23,68,AMD Ryzen Threadripper 2950X BOX,https://kakaku.com/item/K0001079495/,RyzenThreadripper2950X,AMD,SocketTR4,3.5,4.4,16.0,32.0,1.0,8000.0,1.0,32000.0,0.0,0.0,65978.0
+24,0,AMD Ryzen 9 3950X BOX,https://kakaku.com/item/K0001172057/,Ryzen93950X,AMD,SocketAM4,3.5,4.7,16.0,32.0,1.0,8000.0,1.0,64000.0,0.0,0.0,98700.0
+25,15,AMD Ryzen 3 3200G BOX,https://kakaku.com/item/K0001172064/,Ryzen33200G,AMD,SocketAM4,3.6,4.0,4.0,4.0,1.0,2000.0,1.0,4000.0,0.0,0.0,12577.0
+26,40,AMD Ryzen 5 2400G BOX,https://kakaku.com/item/K0001031959/,Ryzen52400G,AMD,SocketAM4,3.6,3.9,4.0,8.0,1.0,2000.0,1.0,4000.0,0.0,0.0,16470.0
+27,50,AMD Ryzen 5 2600X BOX,https://kakaku.com/item/K0001047706/,Ryzen52600X,AMD,SocketAM4,3.6,4.2,6.0,12.0,1.0,3000.0,1.0,16000.0,0.0,0.0,17980.0
+28,1,AMD Ryzen 5 3600 BOX,https://kakaku.com/item/K0001172062/,Ryzen53600,AMD,SocketAM4,3.6,4.2,6.0,12.0,1.0,3000.0,1.0,32000.0,0.0,0.0,24367.0
+29,75,AMD Ryzen 7 1800X BOX,https://kakaku.com/item/K0000946573/,Ryzen71800X,AMD,SocketAM4,3.6,4.0,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,21250.0
+30,2,AMD Ryzen 7 3700X BOX,https://kakaku.com/item/K0001172060/,Ryzen73700X,AMD,SocketAM4,3.6,4.4,8.0,16.0,1.0,4000.0,1.0,32000.0,0.0,0.0,40730.0
+31,9,AMD Ryzen 5 3400G BOX,https://kakaku.com/item/K0001172063/,Ryzen53400G,AMD,SocketAM4,3.7,4.2,4.0,8.0,1.0,2000.0,1.0,4000.0,0.0,0.0,19480.0
+32,22,AMD Ryzen 7 2700X BOX,https://kakaku.com/item/K0001047704/,Ryzen72700X,AMD,SocketAM4,3.7,4.3,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,23469.0
+33,35,AMD Ryzen Threadripper 3970X,https://kakaku.com/item/K0001213693/,RyzenThreadripper3970X,AMD,SocketsTRX4,3.7,4.5,32.0,64.0,1.0,16000.0,1.0,128000.0,0.0,0.0,252500.0
+34,20,AMD Ryzen 5 3600X BOX,https://kakaku.com/item/K0001172061/,Ryzen53600X,AMD,SocketAM4,3.8,4.4,6.0,12.0,1.0,3000.0,1.0,32000.0,0.0,0.0,29173.0
+35,78,AMD Ryzen Threadripper 1900X BOX,https://kakaku.com/item/K0000993227/,RyzenThreadripper1900X,AMD,SocketTR4,3.8,4.0,8.0,16.0,1.0,4000.0,1.0,16000.0,0.0,0.0,20169.0
+36,5,AMD Ryzen 9 3900X BOX,https://kakaku.com/item/K0001172058/,Ryzen93900X,AMD,SocketAM4,3.8,4.6,12.0,24.0,1.0,6000.0,1.0,64000.0,0.0,0.0,62125.0
+37,47,AMD Ryzen Threadripper 3960X,https://kakaku.com/item/K0001213692/,RyzenThreadripper3960X,AMD,SocketsTRX4,3.8,4.5,24.0,48.0,1.0,12000.0,1.0,128000.0,0.0,0.0,177800.0
+38,34,AMD Ryzen 7 3800X BOX,https://kakaku.com/item/K0001172059/,Ryzen73800X,AMD,SocketAM4,3.9,4.5,8.0,16.0,1.0,4000.0,1.0,32000.0,0.0,0.0,47574.0

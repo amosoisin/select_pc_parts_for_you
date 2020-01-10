@@ -13,7 +13,7 @@ sns.set()
 class SearchMaxScore:
     def __init__(self, budget, cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=None,
                  gpu_url=None):
-        self.ROOT_DIR = "suggest_parts/"
+        self.ROOT_DIR = "./"#"suggest_parts/"
         self.budget = budget
         self.init_dataset(cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity, gpu_url)
         self.init_model()
@@ -182,12 +182,10 @@ class SearchMaxScore:
             self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_preprocessed.csv", index_col=0)
             self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc.csv", index_col=0)
             self.gpu_df = self.gpu_df.loc[self.gpu_df["url"]==gpu_url, :]
-            gpu_index = list(self.gpu_df.index)[0]
-            gpu_spec = self.gpu_calc_df.iloc[gpu_index, :]
+            gpu_index = int(list(self.gpu_df.index)[0])
+            gpu_spec = self.gpu_calc_df.iloc[gpu_index]
             self.gpu_calc_df = pd.DataFrame(columns=self.gpu_calc_df.columns)
             self.gpu_calc_df = self.gpu_calc_df.append(gpu_spec)
-            print(self.gpu_df)
-            print(self.gpu_calc_df)
         else:
             if gpu_maker != "free":
                 self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_{}_grouped.csv".format(gpu_maker), index_col=0)
@@ -221,11 +219,12 @@ class SearchMaxScore:
         self.reg_model_ssd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_ssd.sav", "rb"))
 
 if __name__ == "__main__":
-    budget = 10 * 10000
+    budget = 30 * 10000
     cpu_maker = "AMD"
     gpu_maker = "NVIDIA"
     hdd_ssd = "hdd"
     minimum_size = 100
-    gpu_url = 'https://kakaku.com/item/K0001132779/'
+    gpu_url = 'https://kakaku.com/item/K0001091039/'
     s = SearchMaxScore(budget, cpu_maker, gpu_maker, hdd_ssd, minimum_size, gpu_url)
     s.search()
+    s.print_max_combi()
