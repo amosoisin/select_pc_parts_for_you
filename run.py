@@ -9,6 +9,7 @@ def index():
     values = {"is_default": True}
     return render_template("index.html", values=values)
 
+
 @app.route("/send", methods=["GET", "POST"])
 def send():
     values = {"is_default": False, "budget":None, "error": False, "not_found": False}
@@ -26,7 +27,8 @@ def send():
                                  cpu_maker=request.form["cpu_maker"],
                                  gpu_maker=request.form["gpu_maker"],
                                  hdd_ssd=request.form["hdd_ssd"],
-                                 minimum_require_capacity=cap)
+                                 minimum_require_capacity=cap,
+                                 gpu_url=request.form["gpu_url"])
             sms.search()
             suggest_parts = sms.print_max_combi(return_values=True)
             values.update(suggest_parts)
@@ -46,4 +48,4 @@ def uploaded_file(filename):
     return send_from_directory(app.config["DATA_DIR"], filename)
 
 if __name__ == "__main__":
-    app.run("0.0.0.0", 80, debug=False)
+    app.run("0.0.0.0", 5000, debug=False)

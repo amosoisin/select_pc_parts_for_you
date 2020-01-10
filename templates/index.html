@@ -1,30 +1,36 @@
 {% extends "base.html" %}
 {% block content %}
 
-<h1>Select PC Parts for you!</h1>
+<h1>予算内で最適なPCパーツの組み合わせを選びます</h1>
 
 <form action="/send" method="post">
-    <p>budget : <input type="number" name="budget"></p>
-    <p>hdd or ssd 
+    <p>予算 : <input type="number" name="budget"></p>
+    <p>HDD or SSD
     <select name="hdd_ssd">
         <option value="free">free</option>
         <option value="hdd">hdd</option>
         <option value="ssd">ssd</option>
     </select></p>
-    <p>Maker of CPU
+    <p>CPUメーカー
     <select name="cpu_maker">
         <option value="free">free</option>
         <option value="intel">Intel</option>
         <option value="AMD">AMD</option>
     </select></p> 
-    <p>Chip maker of Graphicboard
+    <p>Cビデオカードのチップメーカー
     <select name="gpu_maker">
         <option value="free">free</option>
         <option value="NVIDIA">NVIDIA</option>
         <option value="AMD">AMD</option>
     </select></p>
-    <p>Minimum requirement of Disk Capacity[GB] : 
+    <p>ディスクの最小容量[GB] : 
         <input type="number" name="capacity">
+    </p>
+    <p>ビデオカードのURL(価格.com)
+        <input type="text" name="gpu_url">
+        <a href="https://kakaku.com/pc/videocard/itemlist.aspx">価格.com(ビデオカード)</a>
+        <br>
+        ex. https://kakaku.com/item/xxxxxxx/
     </p>
     <input type="submit" value="submit">
 </form>
