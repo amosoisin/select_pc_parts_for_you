@@ -13,11 +13,11 @@ sns.set()
 class SearchMaxScore:
     def __init__(self, budget, cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=None,
                  gpu_url=None):
-        self.ROOT_DIR = "./"#"suggest_parts/"
+        self.ROOT_DIR = "suggest_parts/"
         self.budget = budget
         self.init_dataset(cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity, gpu_url)
         self.init_model()
-        self.GENE_NUM = 5000
+        self.GENE_NUM = 4000
         self.family = []
         self.max_score_list = []
 
@@ -224,7 +224,7 @@ if __name__ == "__main__":
     gpu_maker = "NVIDIA"
     hdd_ssd = "hdd"
     minimum_size = 100
-    gpu_url = 'https://kakaku.com/item/K0001091039/'
+    gpu_url = 'https://kakaku.com/item/K0000991678/'
     s = SearchMaxScore(budget, cpu_maker, gpu_maker, hdd_ssd, minimum_size, gpu_url)
     s.search()
     s.print_max_combi()
