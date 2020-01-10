@@ -11,13 +11,13 @@ warnings.simplefilter('ignore')
 sns.set()
 
 class SearchMaxScore:
-    def __init__(self, budget, cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=None,
+    def __init__(self, budget, root_dir="suggest_parts/", cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=None,
                  gpu_url=None):
-        self.ROOT_DIR = "suggest_parts/"
+        self.ROOT_DIR = root_dir
         self.budget = budget
         self.init_dataset(cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity, gpu_url)
         self.init_model()
-        self.GENE_NUM = 4000
+        self.GENE_NUM = 3500
         self.family = []
         self.max_score_list = []
 
@@ -35,6 +35,7 @@ class SearchMaxScore:
     def plot_graph(self):
         x = [i for i in range(len(self.max_score_list))]
         plt.plot(x, [s[-1] for s in self.max_score_list])
+        plt.show()
         plt.savefig(self.ROOT_DIR + "../data/max_score.png")
 
     def print_max_combi(self, return_score=False, return_values=False):
@@ -149,7 +150,7 @@ class SearchMaxScore:
             self.cpu_calc_df.iloc[cpu_i, :-1],
             self.gpu_calc_df.iloc[gpu_i, :-1],
             self.ram_calc_df.iloc[ram_i, :-1],
-            self.disk_calc_df.iloc[disk_i, 2:-1]
+            self.disk_calc_df.iloc[disk_i, 1:-1]
         ])).T
         price = sum([
             self.cpu_calc_df.iloc[cpu_i]["PRICE"],
@@ -168,9 +169,7 @@ class SearchMaxScore:
             score = self.reg_model_ssd.predict(spec_info)[0]
         return score
 
-
     def init_dataset(self, cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity, gpu_url):
-        print(cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity, gpu_url)
         if cpu_maker != "free":
             self.cpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_{}_grouped.csv".format(cpu_maker), index_col=0)
             self.cpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_calc_{}_grouped.csv".format(cpu_maker), index_col=0)
@@ -207,6 +206,7 @@ class SearchMaxScore:
         if minimum_require_capacity:
             self.disk_df = self.disk_df.loc[self.disk_df["capacity"] >= minimum_require_capacity, :]
             self.disk_calc_df = self.disk_calc_df.loc[self.disk_calc_df["capacity"] >= minimum_require_capacity, :]
+
         self.df_list = [
             self.cpu_calc_df,
             self.gpu_calc_df,
@@ -220,11 +220,9 @@ class SearchMaxScore:
 
 if __name__ == "__main__":
     budget = 30 * 10000
-    cpu_maker = "AMD"
-    gpu_maker = "NVIDIA"
-    hdd_ssd = "hdd"
     minimum_size = 100
-    gpu_url = 'https://kakaku.com/item/K0000991678/'
-    s = SearchMaxScore(budget, cpu_maker, gpu_maker, hdd_ssd, minimum_size, gpu_url)
+    gpu_url = 'https://kakaku.com/item/K0001091039/'
+    s = SearchMaxScore(budget, root_dir="./")
     s.search()
     s.print_max_combi()
+    s.plot_graph()
