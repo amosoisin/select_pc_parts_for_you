@@ -1,17 +1,20 @@
 from flask import *
 from suggest_parts.search_max_score import SearchMaxScore
+import pickle
 
 app = Flask("sample")
 app.config["DATA_DIR"] = "./data"
+with open("data/examples.dict", "rb") as f:
+    examples = pickle.load(f)
 
 @app.route("/")
 def index():
-    values = {"is_default": True}
+    values = {"is_default": True, "examples": examples}
     return render_template("index.html", values=values)
 
 @app.route("/send", methods=["GET", "POST"])
 def send():
-    values = {"is_default": False, "budget":None, "not_found": False, "SCORE":0}
+    values = {"is_default": False, "budget":None, "not_found": False, "SCORE":0, "examples": examples}
     if request.method == "POST":
         try:
             cap = int(request.form["capacity"])

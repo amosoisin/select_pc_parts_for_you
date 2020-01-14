@@ -6,6 +6,7 @@ import seaborn as sns
 import sys
 import pickle
 import warnings
+from tqdm import tqdm
 import re
 warnings.simplefilter('ignore')
 sns.set()
@@ -26,7 +27,6 @@ class SearchMaxScore:
         self.max_score_list = []
 
     def search(self):
-        print("calculating...")
         self.add_random_combi_to_family()
         for g in range(self.GENE_NUM):
             if len(self.family) <= 1:
