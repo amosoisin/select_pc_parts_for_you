@@ -17,7 +17,7 @@
         <option value="intel">Intel</option>
         <option value="AMD">AMD</option>
     </select></p> 
-    <p>Cビデオカードのチップメーカー
+    <p>ビデオカードのチップメーカー
     <select name="gpu_maker">
         <option value="free">free</option>
         <option value="NVIDIA">NVIDIA</option>
@@ -30,32 +30,32 @@
         <input type="text" name="gpu_url">
         <a href="https://kakaku.com/pc/videocard/itemlist.aspx">価格.com(ビデオカード)</a>
         <br>
-        ex. https://kakaku.com/item/xxxxxxx/
+        ex1. https://kakaku.com/item/Kxxxxxx/ </br>
+        ex2. https://kakaku.com/item/Kxxxxxx/?... </br>
+        ex3. https://s.kakaku.com/item/Kxxxxxx/ </br>
+        ex4. https://s.kakaku.com/item/Kxxxxxx/?...
     </p>
-    <input type="submit" value="submit">
+    <input type="submit" value="submit" onClick="OnButtonClick();">
 </form>
 
+<div id="calculating"></div>
+
 {% if not values.is_default %}
-
-    {% if not values.error %}
-        {% if values.not_found %}
-            <p>Not Found</p>
-        {% else %}
-            {% if values.budget %}
-                <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a> </p>
-                <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> </p>
-                <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> </p>
-                <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> </p>
-                <p>score: {{ values.SCORE }}</p>
-                <p>price: {{ values.PRICE }}</p>
-            {% else %}
-                <p>budget is unexpected value.<br>Please input number in textbox</p>
-            {% endif %}
-        {% endif %}
+    {% if values.not_found %}
+        <p>組み合わせが見つかりませんでした、別の条件を入力してください。</p>
     {% else %}
-        <p>error</p>
+        {% if values.budget %}
+            <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a> </p>
+            <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> </p>
+            <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> </p>
+            <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> </p>
+            <p>score: {{ values.SCORE }}</p>
+            <p>price: {{ values.PRICE }}</p>
+        {% else %}
+            <p>予算を入力してください。。。</p>
+        {% endif %}
     {% endif %}
-
+</div>
 {% endif %}
 
 {% endblock %}

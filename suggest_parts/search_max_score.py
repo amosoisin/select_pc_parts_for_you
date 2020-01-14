@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import sys
 import pickle
-from tqdm import tqdm
 import warnings
+import re
 warnings.simplefilter('ignore')
 sns.set()
 
@@ -15,15 +15,20 @@ class SearchMaxScore:
                  gpu_url=None):
         self.ROOT_DIR = root_dir
         self.budget = budget
-        self.init_dataset(cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity, gpu_url)
+        self.cpu_maker = cpu_maker
+        self.gpu_maker = gpu_maker
+        self.hdd_ssd = hdd_ssd
+        self.minimum_require_capacity = minimum_require_capacity
+        self.gpu_url = gpu_url
         self.init_model()
         self.GENE_NUM = 3500
         self.family = []
         self.max_score_list = []
 
     def search(self):
+        print("calculating...")
         self.add_random_combi_to_family()
-        for g in tqdm(range(self.GENE_NUM)):
+        for g in range(self.GENE_NUM):
             if len(self.family) <= 1:
                 self.add_random_combi_to_family()
             idx_p1, idx_p2 = self.select_random_pair_from_family()
@@ -169,26 +174,34 @@ class SearchMaxScore:
             score = self.reg_model_ssd.predict(spec_info)[0]
         return score
 
-    def init_dataset(self, cpu_maker, gpu_maker, hdd_ssd, minimum_require_capacity, gpu_url):
-        if cpu_maker != "free":
-            self.cpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_{}_grouped.csv".format(cpu_maker), index_col=0)
-            self.cpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_calc_{}_grouped.csv".format(cpu_maker), index_col=0)
+    def init_dataset(self):
+        if self.cpu_maker != "free":
+            self.cpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_{}_grouped.csv".format(self.cpu_maker), index_col=0)
+            self.cpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_calc_{}_grouped.csv".format(self.cpu_maker), index_col=0)
         else:
             self.cpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_grouped.csv", index_col=0)
             self.cpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/cpu_kakaku_calc_grouped.csv", index_col=0)
 
-        if gpu_url:
+        if self.gpu_url:
+            gpu_id = re.search(r"\/K\d+\/", self.gpu_url)
+            if gpu_id:
+                self.gpu_url = "https://kakaku.com/item" + gpu_id.group()
+            else:
+                return False
             self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_preprocessed.csv", index_col=0)
             self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc.csv", index_col=0)
-            self.gpu_df = self.gpu_df.loc[self.gpu_df["url"]==gpu_url, :]
-            gpu_index = int(list(self.gpu_df.index)[0])
+            self.gpu_df = self.gpu_df.loc[self.gpu_df["url"]==self.gpu_url, :]
+            try:
+                gpu_index = int(list(self.gpu_df.index)[0])
+            except IndexError:
+                return False
             gpu_spec = self.gpu_calc_df.iloc[gpu_index]
             self.gpu_calc_df = pd.DataFrame(columns=self.gpu_calc_df.columns)
             self.gpu_calc_df = self.gpu_calc_df.append(gpu_spec)
         else:
-            if gpu_maker != "free":
-                self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_{}_grouped.csv".format(gpu_maker), index_col=0)
-                self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc_{}_grouped.csv".format(gpu_maker), index_col=0)
+            if self.gpu_maker != "free":
+                self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_{}_grouped.csv".format(self.gpu_maker), index_col=0)
+                self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc_{}_grouped.csv".format(self.gpu_maker), index_col=0)
             else:
                 self.gpu_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_grouped.csv", index_col=0)
                 self.gpu_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/gpu_kakaku_calc_grouped.csv", index_col=0)
@@ -196,16 +209,16 @@ class SearchMaxScore:
         self.ram_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/ram_kakaku_grouped.csv", index_col=0)
         self.ram_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/ram_kakaku_calc_grouped.csv", index_col=0)
 
-        if hdd_ssd != "free":
-            self.disk_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/{}_kakaku_grouped.csv".format(hdd_ssd), index_col=0)
-            self.disk_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/{}_kakaku_calc_grouped.csv".format(hdd_ssd), index_col=0)
+        if self.hdd_ssd != "free":
+            self.disk_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/{}_kakaku_grouped.csv".format(self.hdd_ssd), index_col=0)
+            self.disk_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/{}_kakaku_calc_grouped.csv".format(self.hdd_ssd), index_col=0)
         else:
             self.disk_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku.csv", index_col=0)
             self.disk_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku_calc.csv", index_col=0)
 
-        if minimum_require_capacity:
-            self.disk_df = self.disk_df.loc[self.disk_df["capacity"] >= minimum_require_capacity, :]
-            self.disk_calc_df = self.disk_calc_df.loc[self.disk_calc_df["capacity"] >= minimum_require_capacity, :]
+        if self.minimum_require_capacity:
+            self.disk_df = self.disk_df.loc[self.disk_df["capacity"] >= self.minimum_require_capacity, :]
+            self.disk_calc_df = self.disk_calc_df.loc[self.disk_calc_df["capacity"] >= self.minimum_require_capacity, :]
 
         self.df_list = [
             self.cpu_calc_df,
@@ -213,6 +226,7 @@ class SearchMaxScore:
             self.ram_calc_df,
             self.disk_calc_df
         ]
+        return True
 
     def init_model(self):
         self.reg_model_hdd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_hdd.sav", "rb"))
@@ -222,7 +236,8 @@ if __name__ == "__main__":
     budget = 30 * 10000
     minimum_size = 100
     gpu_url = 'https://kakaku.com/item/K0001091039/'
-    s = SearchMaxScore(budget, root_dir="./")
+    s = SearchMaxScore(budget, root_dir="./", gpu_url=gpu_url)
+    s.init_dataset()
     s.search()
     s.print_max_combi()
     s.plot_graph()
