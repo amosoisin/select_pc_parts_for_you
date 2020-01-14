@@ -12,7 +12,7 @@ warnings.simplefilter('ignore')
 sns.set()
 
 class SearchMaxScore:
-    def __init__(self, budget, root_dir="suggest_parts/", cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=0,
+    def __init__(self, budget, root_dir="suggest_parts/search_parts_combi/", cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=0,
                  gpu_url=None):
         self.ROOT_DIR = root_dir
         self.budget = budget

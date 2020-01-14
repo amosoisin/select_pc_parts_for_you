@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>Select PC Parts for you</title>
+    <script language="javascript" type="text/javascript">
+        function OnButtonClick() {
+            target1 = document.getElementById("calculating");
+            target1.innerHTML = "calculating。。。しばらくお待ちください";
+        }
+    </script>
+</head>
+<body>
+
+<h1>Predict your PC Score!</h1>
+
+<form action="/predict_score/send" method="post">
+    <p>CPU :
+        <input type="text" name="cpu_url"> 
+        <a href="https://kakaku.com/pc/cpu/itemlist.aspx">kakakucom(CPU)</a>
+    </p>
+    <p>Videocard :
+        <input type="text" name="gpu_url">
+        <a href="https://kakaku.com/pc/videocard/itemlist.aspx">kakakucom(Videocard)</a>
+    </p>
+    <p>Memory :
+        <input type="text" name="ram_url">
+        <a href="https://kakaku.com/pc/pc-memory/itemlist.aspx">kakakucom(Memory)</a>
+    </p>
+    <p>Disk :
+        <input type="text" name="disk_url"><br>
+        kakakucom : 
+        <a href="https://kakaku.com/pc/hdd-35inch/itemlist.aspx">HDD:3.5inchi</a>,
+        <a href="https://kakaku.com/pc/hdd-25inch/itemlist.aspx">HDD:2.5inchi</a>,
+        <a href="https://kakaku.com/pc/hdd-scsi/itemlist.aspx">HDD:SCSI</a>, 
+        <a href="https://kakaku.com/pc/ssd/itemlist.aspx">SSD</a>
+    </p>
+    <input type="submit" values="predict" onClick="OnButtonClick();">
+</form>
+<div id="calculating"></div>
+
+</body>
+</html>

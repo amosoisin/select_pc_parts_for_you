@@ -1,51 +1,16 @@
 from flask import *
-from suggest_parts.search_max_score import SearchMaxScore
-import pickle
+app = Flask(__name__)
 
-app = Flask("sample")
-app.config["DATA_DIR"] = "./data"
-with open("data/examples.dict", "rb") as f:
-    examples = pickle.load(f)
+from suggest_parts.views import app_suggest
+app.register_blueprint(app_suggest, url_prefix="/suggest_parts")
+
+from predict_score.views import app_predict
+app.register_blueprint(app_predict, url_prefix="/predict_score")
 
 @app.route("/")
 def index():
-    values = {"is_default": True, "examples": examples}
-    return render_template("index.html", values=values)
-
-@app.route("/send", methods=["GET", "POST"])
-def send():
-    values = {"is_default": False, "budget":None, "not_found": False, "SCORE":0, "examples": examples}
-    if request.method == "POST":
-        try:
-            cap = int(request.form["capacity"])
-        except ValueError:
-            cap = 0
-        try:
-            budget = int(request.form["budget"]) * 10000
-        except ValueError:
-            return render_template("index.html", values=values)
-        sms = SearchMaxScore(budget,
-                             cpu_maker=request.form["cpu_maker"],
-                             gpu_maker=request.form["gpu_maker"],
-                             hdd_ssd=request.form["hdd_ssd"],
-                             minimum_require_capacity=cap,
-                             gpu_url=request.form["gpu_url"])
-        if sms.init_dataset():
-            sms.search()
-            suggest_parts = sms.print_max_combi(return_values=True)
-            values.update(suggest_parts)
-            values["budget"] = budget
-        else:
-            values["not_found"] = True
-        if values["SCORE"] == 0:
-            values["not_found"] = True
-        return render_template("index.html", values=values) 
-    else:
-        return redirect(url_for("index"))
-
-@app.route("/data/<filename>")
-def uploaded_file(filename):
-    return send_from_directory(app.config["DATA_DIR"], filename)
+    return redirect(url_for("suggest_parts.index"))
+#    return render_template("index.html")
 
 if __name__ == "__main__":
-    app.run("0.0.0.0", 5000, debug=False, threaded=True)
+    app.run(host="0.0.0.0", port=5000, debug=False)

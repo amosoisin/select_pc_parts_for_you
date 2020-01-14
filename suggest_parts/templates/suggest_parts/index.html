@@ -1,0 +1,75 @@
+{% extends "suggest_parts/base.html" %}
+{% block content %}
+
+<h1>予算内で最適なPCパーツの組み合わせを選びます</h1>
+
+<form action="/suggest_parts/send" method="post">
+    <p>予算[万円]<font color="red">(*必須)</font>: <input type="number" name="budget"></p>
+    <p>HDD or SSD
+    <select name="hdd_ssd">
+        <option value="free">free</option>
+        <option value="hdd">hdd</option>
+        <option value="ssd">ssd</option>
+    </select></p>
+    <p>CPUメーカー
+    <select name="cpu_maker">
+        <option value="free">free</option>
+        <option value="intel">Intel</option>
+        <option value="AMD">AMD</option>
+    </select></p> 
+    <p>ビデオカードのチップメーカー
+    <select name="gpu_maker">
+        <option value="free">free</option>
+        <option value="NVIDIA">NVIDIA</option>
+        <option value="AMD">AMD</option>
+    </select></p>
+    <p>ディスクの最小容量[GB] : 
+        <input type="number" name="capacity">
+    </p>
+    <p>ビデオカードのURL(価格.com)
+        <input type="text" name="gpu_url">
+        <a href="https://kakaku.com/pc/videocard/itemlist.aspx">価格.com(ビデオカード)</a>
+        <br>
+        ex1. https://kakaku.com/item<b>/Kxxxxxx/</b>(?...) </br>
+        ex2. https://s.kakaku.com/item<b>/Kxxxxxx/</b>(?...)
+    </p>
+    <input type="submit" value="検索" onClick="OnButtonClick();">
+</form>
+
+<div id="searching"></div>
+
+{% if not values.is_default %}
+<p>----------</p>
+<h2><font color="red">結果</font></h2>
+    {% if values.not_found %}
+        <p>組み合わせが見つかりませんでした、別の条件を入力してください。</p>
+    {% else %}
+        {% if values.budget %}
+            <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a> </p>
+            <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> </p>
+            <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> </p>
+            <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> </p>
+            <p>score: {{ values.SCORE }}</p>
+            <p>price: {{ values.PRICE }}</p>
+        {% else %}
+            <p>予算を入力してください。。。</p>
+        {% endif %}
+    {% endif %}
+<p>----------</p>
+{% endif %}
+
+<br>
+
+<h2><font color="blue">組み立て例とスコア</font></h2>
+{% for example in values.examples %}
+    <p>CPU : <a href="{{ example.cpu_url }}">{{ example.cpu }}</a> </p>
+    <p>Graphic : <a href="{{ example.gpu_url }}">{{ example.gpu }}</a> </p>
+    <p>Memory : <a href="{{ example.ram_url }}">{{ example.ram }}</a> </p>
+    <p>DISK : <a href="{{ example.disk_url }}">{{ example.disk }}</a> </p>
+    <p>score: {{ example.SCORE }}</p>
+    <p>price: {{ example.PRICE }}</p>
+
+    <p>----------</p>
+    <br>
+{% endfor %}
+{% endblock %}
