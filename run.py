@@ -45,4 +45,4 @@ def uploaded_file(filename):
     return send_from_directory(app.config["DATA_DIR"], filename)
 
 if __name__ == "__main__":
-    app.run("0.0.0.0", 5000, debug=False)
+    app.run("0.0.0.0", 5000, debug=False, threaded=True)

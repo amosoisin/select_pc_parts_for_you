@@ -4,7 +4,7 @@
 <h1>予算内で最適なPCパーツの組み合わせを選びます</h1>
 
 <form action="/send" method="post">
-    <p>予算 : <input type="number" name="budget"></p>
+    <p>予算<font color="red">(必須)</font>: <input type="number" name="budget"></p>
     <p>HDD or SSD
     <select name="hdd_ssd">
         <option value="free">free</option>
@@ -35,7 +35,7 @@
         ex3. https://s.kakaku.com/item/Kxxxxxx/ </br>
         ex4. https://s.kakaku.com/item/Kxxxxxx/?...
     </p>
-    <input type="submit" value="submit" onClick="OnButtonClick();">
+    <input type="submit" value="検索" onClick="OnButtonClick();">
 </form>
 
 <div id="calculating"></div>
