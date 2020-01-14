@@ -19,7 +19,7 @@ def send():
         try:
             cap = int(request.form["capacity"])
         except ValueError:
-            cap = None
+            cap = 0
         try:
             budget = int(request.form["budget"]) * 10000
         except ValueError:

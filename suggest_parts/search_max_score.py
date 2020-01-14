@@ -12,7 +12,7 @@ warnings.simplefilter('ignore')
 sns.set()
 
 class SearchMaxScore:
-    def __init__(self, budget, root_dir="suggest_parts/", cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=None,
+    def __init__(self, budget, root_dir="suggest_parts/", cpu_maker="free", gpu_maker="free", hdd_ssd="free", minimum_require_capacity=0,
                  gpu_url=None):
         self.ROOT_DIR = root_dir
         self.budget = budget
@@ -194,6 +194,7 @@ class SearchMaxScore:
             try:
                 gpu_index = int(list(self.gpu_df.index)[0])
             except IndexError:
+                print("gpu")
                 return False
             gpu_spec = self.gpu_calc_df.iloc[gpu_index]
             self.gpu_calc_df = pd.DataFrame(columns=self.gpu_calc_df.columns)
@@ -216,9 +217,11 @@ class SearchMaxScore:
             self.disk_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku.csv", index_col=0)
             self.disk_calc_df = pd.read_csv(self.ROOT_DIR + "data/kakaku/disk_kakaku_calc.csv", index_col=0)
 
-        if self.minimum_require_capacity:
+        if self.minimum_require_capacity >= 0:
             self.disk_df = self.disk_df.loc[self.disk_df["capacity"] >= self.minimum_require_capacity, :]
-            self.disk_calc_df = self.disk_calc_df.loc[self.disk_calc_df["capacity"] >= self.minimum_require_capacity, :]
+            self.disk_calc_df = self.disk_calc_df.iloc[self.disk_df.index, :]
+        if len(self.disk_calc_df) == 0:
+            return False
 
         self.df_list = [
             self.cpu_calc_df,
@@ -236,8 +239,10 @@ if __name__ == "__main__":
     budget = 30 * 10000
     minimum_size = 100
     gpu_url = 'https://kakaku.com/item/K0001091039/'
-    s = SearchMaxScore(budget, root_dir="./", gpu_url=gpu_url)
-    s.init_dataset()
-    s.search()
-    s.print_max_combi()
-    s.plot_graph()
+    s = SearchMaxScore(budget, root_dir="./", hdd_ssd="ssd", cpu_maker="intel", minimum_require_capacity=10, gpu_maker="NVIDIA")
+    if s.init_dataset():
+        s.search()
+        s.print_max_combi()
+        s.plot_graph()
+    else:
+        print("error")
