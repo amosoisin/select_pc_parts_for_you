@@ -4,7 +4,7 @@
 <h1>予算内で最適なPCパーツの組み合わせを選びます</h1>
 
 <form action="/send" method="post">
-    <p>予算[]<font color="red">(必須)</font>: <input type="number" name="budget"></p>
+    <p>予算[万円]<font color="red">(*必須)</font>: <input type="number" name="budget"></p>
     <p>HDD or SSD
     <select name="hdd_ssd">
         <option value="free">free</option>
@@ -39,7 +39,8 @@
 <div id="calculating"></div>
 
 {% if not values.is_default %}
-    <h2>Result</h2>
+<p>----------</p>
+<h2><font color="red">結果</font></h2>
     {% if values.not_found %}
         <p>組み合わせが見つかりませんでした、別の条件を入力してください。</p>
     {% else %}
@@ -54,12 +55,12 @@
             <p>予算を入力してください。。。</p>
         {% endif %}
     {% endif %}
-</div>
+<p>----------</p>
 {% endif %}
 
 <br>
 
-<h2>example</h2>
+<h2><font color="blue">組み立て例とスコア</font></h2>
 {% for example in values.examples %}
     <p>CPU : <a href="{{ example.cpu_url }}">{{ example.cpu }}</a> </p>
     <p>Graphic : <a href="{{ example.gpu_url }}">{{ example.gpu }}</a> </p>

@@ -21,7 +21,7 @@ def send():
         except ValueError:
             cap = None
         try:
-            budget = int(request.form["budget"])
+            budget = int(request.form["budget"]) * 10000
         except ValueError:
             return render_template("index.html", values=values)
         sms = SearchMaxScore(budget,
