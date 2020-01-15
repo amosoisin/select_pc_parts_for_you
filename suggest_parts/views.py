@@ -6,7 +6,6 @@ app_suggest = Blueprint("suggest_parts", __name__,
                         template_folder="templates", static_folder="./static")
 with open("data/examples.dict", "rb") as f:
     examples = pickle.load(f)
-print(examples)
 
 @app_suggest.route("/")
 def index():
@@ -17,12 +16,13 @@ def index():
 def send():
     values = {"is_default": False, "budget":None, "not_found": False, "SCORE":0, "examples": examples}
     if request.method == "POST":
+        values.update(request.form)
         try:
-            cap = int(request.form["capacity"])
+            cap = float(request.form["capacity"])
         except ValueError:
             cap = 0
         try:
-            budget = int(request.form["budget"]) * 10000
+            budget = float(request.form["budget"]) * 10000
         except ValueError:
             return render_template("suggest_parts/index.html", values=values)
         sms = SearchMaxScore(budget,
