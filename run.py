@@ -9,8 +9,8 @@ app.register_blueprint(app_predict, url_prefix="/predict_score")
 
 @app.route("/")
 def index():
-#    return redirect(url_for("suggest_parts.index"))
-    return render_template("index.html")
+    return redirect(url_for("suggest_parts.index"))
+#    return render_template("index.html")
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)
