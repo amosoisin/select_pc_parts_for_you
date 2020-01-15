@@ -49,7 +49,7 @@
             <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a>  / {{ values.cpu_price }} 円</p>
             <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> / {{ values.gpu_price }} 円</p>
             <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> / {{ values.ram_price }} 円</p>
-            <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> / {{ values.disk_price }} 円</p>
+            <p>{{ values.hdd_ssd }} [{{ values.capacity }} GB]: <a href="{{ values.disk_url }}">{{ values.disk }}</a> / {{ values.disk_price }} 円</p>
             <p>score: {{ values.SCORE }}</p>
             <p>price: {{ values.PRICE }}円</p>
         {% else %}
@@ -63,12 +63,12 @@
 
 <h2><font color="blue">組み立て例とスコア</font></h2>
 {% for example in values.examples %}
-    <p>CPU : <a href="{{ example.cpu_url }}">{{ example.cpu }}</a> </p>
-    <p>Graphic : <a href="{{ example.gpu_url }}">{{ example.gpu }}</a> </p>
-    <p>Memory : <a href="{{ example.ram_url }}">{{ example.ram }}</a> </p>
-    <p>DISK : <a href="{{ example.disk_url }}">{{ example.disk }}</a> </p>
+<p>CPU : <a href="{{ example.cpu_url }}">{{ example.cpu }}</a> / {{ example.cpu_price }}円</p>
+<p>Graphic : <a href="{{ example.gpu_url }}">{{ example.gpu }}</a> / {{ example.gpu_price}}円</p>
+<p>Memory : <a href="{{ example.ram_url }}">{{ example.ram }}</a> / {{ example.ram_price }}円</p>
+<p>{{ example.hdd_ssd }} [{{ example.capacity }} GB]: <a href="{{ example.disk_url }}">{{ example.disk }}</a> / {{ example.disk_price }}円</p>
     <p>score: {{ example.SCORE }}</p>
-    <p>price: {{ example.PRICE }}</p>
+    <p>price: {{ example.PRICE }}円</p>
 
     <p>----------</p>
     <br>

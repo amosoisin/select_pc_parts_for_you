@@ -6,6 +6,7 @@ app_suggest = Blueprint("suggest_parts", __name__,
                         template_folder="templates", static_folder="./static")
 with open("data/examples.dict", "rb") as f:
     examples = pickle.load(f)
+print(examples)
 
 @app_suggest.route("/")
 def index():

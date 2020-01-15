@@ -58,6 +58,8 @@ class SearchMaxScore:
             values[name[0][i]] = df.iloc[combi[i]]["name"]
             values[name[1][i]] = df.iloc[combi[i]]["url"]
             values[name[2][i]] = int(df.iloc[combi[i]]["PRICE"])
+        values["hdd_ssd"] = "HDD" if self.disk_calc_df.iloc[combi[3]]["hdd_ssd"] == 0 else "SSD"
+        values["capacity"] = int(self.disk_df.iloc[combi[3]]["capacity"])
         values["PRICE"] = int(price)
         values["SCORE"] = score
         if return_score:
