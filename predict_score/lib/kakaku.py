@@ -9,7 +9,6 @@ class KakakuSearcher(WebPageScraper):
     def value_list(self, page, add_price_info=True):
         value_list = []
         maker = page.find_all(class_="cateBoxPare")
-        print(maker)
         if maker:
             maker = maker[2].text
         value_list.append(("maker", maker))
