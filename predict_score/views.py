@@ -21,7 +21,9 @@ def send():
     disk_url = make_url(request.form["disk_url"])
     cpu_spec = cpu_kakaku(cpu_url)
     gpu_spec = gpu_kakaku(gpu_url)
+    print(cpu_spec)
     print(gpu_spec)
+    ram_spec = ram_kakaku(ram_url)
 
     return render_template("predict_score/index.html")
 
@@ -85,6 +87,50 @@ def gpu_kakaku(gpu_url):
         elif title == "メモリクロック":
             spec[3] = ks.val_from_item(value) * 1000
     return spec
+
+def ram_kakaku(ram_url):
+    page = wps.get_page_source(ram_url)
+    vals = ks.value_list(page)
+    spec = [None for i in range(2)]
+    cap = None
+    num = 1
+    standard = None
+    for title, value in vals:
+        if title == "メモリ容量(1枚あたり)":
+            cap = ks.val_from_item(value, byte="GB")
+        elif title == "枚数":
+            try:
+                num = int(value.replace("枚", ""))
+            except:
+                continue
+        elif title == "メモリ規格":
+            standard = value
+    if type(standard) == str:
+        generation = re.search("DDR(\d)?|SDR", standard, re.IGNORECASE)
+        if generation:
+            generation = generation.group()
+    else:
+        generation = None
+
+    if not type(generation) == str:
+        generation = None
+    elif re.search(r"SDR", generation, re.IGNORECASE):
+        generation = 0
+    elif re.search(r"DDR$", generation, re.IGNORECASE):
+        generation = 1
+    elif re.search(r"DDR2", generation, re.IGNORECASE):
+        generation = 2
+    elif re.search(r"DDR3", generation, re.IGNORECASE):
+        generation = 3
+    elif re.search(r"DDR4", generation, re.IGNORECASE):
+        generation = 4
+    elif re.search(r"DDR5", generation, re.IGNORECASE):
+        generation = 5
+    else:
+        generation = None
+
+
+
 
 def findSpecFromIntel(url):
     result_page = wps.get_page_source(url)

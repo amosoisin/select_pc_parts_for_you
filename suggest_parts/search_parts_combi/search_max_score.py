@@ -57,8 +57,8 @@ class SearchMaxScore:
         for i, df in enumerate([self.cpu_df, self.gpu_df, self.ram_df, self.disk_df]):
             values[name[0][i]] = df.iloc[combi[i]]["name"]
             values[name[1][i]] = df.iloc[combi[i]]["url"]
-            values[name[2][i]] = df.iloc[combi[i]]["PRICE"]
-        values["PRICE"] = price
+            values[name[2][i]] = int(df.iloc[combi[i]]["PRICE"])
+        values["PRICE"] = int(price)
         values["SCORE"] = score
         if return_score:
             return score

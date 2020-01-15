@@ -2,6 +2,7 @@
 {% block content %}
 
 <h1>予算内で最適なPCパーツの組み合わせを選びます</h1>
+<p><font color="red">※価格は 2020/1/15 確認分です</font></p>
 
 <form action="/suggest_parts/send" method="post">
     <p>予算[万円]<font color="red">(*必須)</font>: <input type="number" name="budget"></p>
@@ -45,12 +46,12 @@
         <p>組み合わせが見つかりませんでした、別の条件を入力してください。</p>
     {% else %}
         {% if values.budget %}
-            <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a> </p>
-            <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> </p>
-            <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> </p>
-            <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> </p>
+            <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a>  / {{ values.cpu_price }} 円</p>
+            <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> / {{ values.gpu_price }} 円</p>
+            <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> / {{ values.ram_price }} 円</p>
+            <p>DISK : <a href="{{ values.disk_url }}">{{ values.disk }}</a> / {{ values.disk_price }} 円</p>
             <p>score: {{ values.SCORE }}</p>
-            <p>price: {{ values.PRICE }}</p>
+            <p>price: {{ values.PRICE }}円</p>
         {% else %}
             <p>予算を入力してください。。。</p>
         {% endif %}
