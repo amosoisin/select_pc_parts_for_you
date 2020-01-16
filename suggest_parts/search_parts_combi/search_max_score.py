@@ -22,7 +22,7 @@ class SearchMaxScore:
         self.minimum_require_capacity = minimum_require_capacity
         self.gpu_url = gpu_url
         self.init_model()
-        self.GENE_NUM = 3500
+        self.GENE_NUM = 5000
         self.family = []
         self.max_score_list = []
 
