@@ -4,6 +4,8 @@
 <h1>予算内で最適なPCパーツの組み合わせを選びます</h1>
 <p><font color="red">※価格は 2020/1/15 確認分です</font></p>
 
+<p>予算を入力してください(必須)、その他の条件は任意でお願いします。</p>
+
 <form action="/suggest_parts/send" method="post">
     <p>予算[万円]<font color="red">(*必須)</font>: <input type="number" name="budget" step="0.0001"></p>
     <p>HDD or SSD
@@ -24,7 +26,7 @@
         <option value="NVIDIA">NVIDIA</option>
         <option value="AMD">AMD</option>
     </select></p>
-    <p>ディスクの最小容量[GB] : 
+    <p>ストレージの最小容量[GB] : 
         <input type="number" name="capacity" step="0.001">
     </p>
     <p>ビデオカードのURL(価格.com)
@@ -57,6 +59,7 @@
         {% endif %}
     {% endif %}
 <p>----------</p>
+<br>
 {% endif %}
 
 <br>

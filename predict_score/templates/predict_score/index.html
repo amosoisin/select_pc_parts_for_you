@@ -6,38 +6,58 @@
     <script language="javascript" type="text/javascript">
         function OnButtonClick() {
             target1 = document.getElementById("calculating");
-            target1.innerHTML = "calculating。。。しばらくお待ちください";
+            target1.innerHTML = "計算中。。。しばらくお待ちください";
         }
     </script>
 </head>
+
+{% block content %}
 <body>
 
-<h1>Predict your PC Score!</h1>
+<h1>PCのスコア*を予測します</h1>
+    <p>*CrystalMarkの予測値</p>
 
 <form action="/predict_score/send" method="post">
     <p>CPU :
         <input type="text" name="cpu_url"> 
-        <a href="https://kakaku.com/pc/cpu/itemlist.aspx">kakakucom(CPU)</a>
+        <a href="https://kakaku.com/pc/cpu/itemlist.aspx">価格.com(CPU)</a>
     </p>
-    <p>Videocard :
+    <p>ビデオカード :
         <input type="text" name="gpu_url">
-        <a href="https://kakaku.com/pc/videocard/itemlist.aspx">kakakucom(Videocard)</a>
+        <a href="https://kakaku.com/pc/videocard/itemlist.aspx">価格.com(ビデオカード)</a>
     </p>
-    <p>Memory :
+    <p>メモリ :
         <input type="text" name="ram_url">
-        <a href="https://kakaku.com/pc/pc-memory/itemlist.aspx">kakakucom(Memory)</a>
+        <a href="https://kakaku.com/pc/pc-memory/itemlist.aspx">価格.com(メモリ)</a>
     </p>
-    <p>Disk :
+    <p>ストレージ :
         <input type="text" name="disk_url"><br>
-        kakakucom : 
-        <a href="https://kakaku.com/pc/hdd-35inch/itemlist.aspx">HDD:3.5inchi</a>,
-        <a href="https://kakaku.com/pc/hdd-25inch/itemlist.aspx">HDD:2.5inchi</a>,
+        価格.com : 
+        <a href="https://kakaku.com/pc/hdd-35inch/itemlist.aspx">HDD:3.5インチ</a>,
+        <a href="https://kakaku.com/pc/hdd-25inch/itemlist.aspx">HDD:2.5インチ</a>,
         <a href="https://kakaku.com/pc/hdd-scsi/itemlist.aspx">HDD:SCSI</a>, 
         <a href="https://kakaku.com/pc/ssd/itemlist.aspx">SSD</a>
     </p>
     <input type="submit" values="predict" onClick="OnButtonClick();">
 </form>
 <div id="calculating"></div>
+{% if values.e_cpu %}
+<p>測定に必要なCPU情報が足りません</p>
+{% endif %}
+{% if values.e_gpu %}
+<p>測定に必要なビデオカードの情報が足りません</p>
+{% endif %}
+{% if values.e_ram %}
+<p>測定に必要なメモリ情報が足りません</p>
+{% endif %}
+{% if values.e_disk %}
+<p>測定に必要なストレージの情報が足りません/p>
+{% endif %}
+
+{% if values.score %}
+    <p><font size="7">スコア(予測値)は : <font color="red">{{ values.score }}</font></font></p>
+{% endif %}
 
 </body>
 </html>
+{% endblock %}

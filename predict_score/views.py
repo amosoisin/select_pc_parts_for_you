@@ -2,6 +2,8 @@ from flask import *
 import re
 from predict_score.lib.kakaku import KakakuSearcher
 from predict_score.lib.searcher import WebPageScraper, Searcher
+import pandas as pd
+import pickle
 
 app_predict = Blueprint("predict_score", __name__,
                         template_folder="templates", static_folder="./static")
@@ -11,21 +13,47 @@ wps = WebPageScraper()
 
 @app_predict.route("/")
 def index():
-    return render_template("predict_score/index.html")
+    values = {}
+    return render_template("predict_score/index.html", values=values)
 
 @app_predict.route("/send", methods=["GET", "POST"])
 def send():
+    values = {"e_cpu": False, "e_gpu": False, "e_ram": False, "e_disk": False, "score": None}
     cpu_url = make_url(request.form["cpu_url"])
     gpu_url = make_url(request.form["gpu_url"])
     ram_url = make_url(request.form["ram_url"])
     disk_url = make_url(request.form["disk_url"])
     cpu_spec = cpu_kakaku(cpu_url)
+    if not is_usable_spec(cpu_spec):
+        values["e_cpu"] = True
+        return render_template("predict_score/index.html", values=values)
     gpu_spec = gpu_kakaku(gpu_url)
-    print(cpu_spec)
-    print(gpu_spec)
+    if not is_usable_spec(gpu_spec):
+        values["e_gpu"] = True
+        return render_template("predict_score/index.html", values=values)
     ram_spec = ram_kakaku(ram_url)
+    if not is_usable_spec(ram_spec):
+        values["e_ram"] = True
+        return render_template("predict_score/index.html", values=values)
+    which_disk, disk_spec = disk_kakaku(disk_url)
+    if which_disk==None and is_usable_spec(disk_spec):
+        values["e_disk"] = True
+        return render_template("predict_score/index.html", values=values)
+    spec = pd.DataFrame(cpu_spec + gpu_spec + ram_spec + disk_spec).T
+    which_disk = "hdd" if which_disk == 0 else "ssd"
+    with open("predict_score/data/regression_model_{}.sav".format(which_disk), "rb") as f:
+        reg_model = pickle.load(f)
+    values["score"] = int(reg_model.predict(spec)[0])
 
-    return render_template("predict_score/index.html")
+    return render_template("predict_score/index.html", values=values)
+
+def is_usable_spec(spec):
+    if not spec:
+        return False
+    for v in spec:
+        if v == None:
+            return False
+    return True
 
 def cpu_kakaku(cpu_url):
     page = wps.get_page_source(cpu_url)
@@ -81,7 +109,7 @@ def gpu_kakaku(gpu_url):
         if title == "SP数" or title == "CUDAコア数":
             spec[0] = int(value)
         elif title == "メモリ":
-            spec[1] = ks.val_from_item(value, byte="MB")
+            spec[1] = ks.val_from_item(value, byte="GB") * 1000
         elif title == "メモリバス":
             spec[2] = ks.val_from_item(value)
         elif title == "メモリクロック":
@@ -93,7 +121,7 @@ def ram_kakaku(ram_url):
     vals = ks.value_list(page)
     spec = [None for i in range(2)]
     cap = None
-    num = 1
+    num = None
     standard = None
     for title, value in vals:
         if title == "メモリ容量(1枚あたり)":
@@ -105,6 +133,8 @@ def ram_kakaku(ram_url):
                 continue
         elif title == "メモリ規格":
             standard = value
+    if not cap or not num:
+        return spec
     if type(standard) == str:
         generation = re.search("DDR(\d)?|SDR", standard, re.IGNORECASE)
         if generation:
@@ -128,8 +158,27 @@ def ram_kakaku(ram_url):
         generation = 5
     else:
         generation = None
+    return [cap*num, generation]
 
-
+def disk_kakaku(disk_url):
+    page = wps.get_page_source(disk_url)
+    vals = ks.value_list(page)
+    rpm, cache, read, write = None, None, None, None
+    for title, value in vals:
+        if title == "回転数":
+            rpm = ks.val_from_item(value, byte="GB")
+        elif title == "キャッシュ":
+            cache = ks.val_from_item(value)
+        elif title == "読込速度":
+            read = ks.val_from_item(value) /pow(10, 3)
+        elif title == "書込速度":
+            write = ks.val_from_item(value) /pow(10, 3)
+    if rpm and cache:
+        return (0, [rpm, cache])
+    elif read and write:
+        return (1, [read, write])
+    else:
+        return (None, [None])
 
 
 def findSpecFromIntel(url):
