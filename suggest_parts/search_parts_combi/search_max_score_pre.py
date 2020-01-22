@@ -6,8 +6,9 @@ import seaborn as sns
 import sys
 import pickle
 import warnings
+from tqdm import tqdm
 import re
-from multiprocessing import Pool, Value
+from multiprocessing import Pool
 warnings.simplefilter('ignore')
 sns.set()
 
@@ -22,63 +23,31 @@ class SearchMaxScore:
         self.minimum_require_capacity = minimum_require_capacity
         self.gpu_url = gpu_url
         self.init_model()
-        self.GENE_NUM = 3000
+        self.GENE_NUM = 5000
+        self.family = []
+        self.max_score_list = []
         self.ISLAND_NUM = 4
-        self.max_score_list = [[] for i in range(self.ISLAND_NUM)]
-        self.BLOCK = 50
-        self.family_num_list = [[] for i in range(self.ISLAND_NUM)]
+#        self.island = [[] for i in range(self.ISLAND_NUM)]
 
-    def throw_in_pool(self):
-        self.island = [[self.random_combi(i),] for i in range(self.ISLAND_NUM)]
-        pool = Pool(processes=self.ISLAND_NUM)
-        for b in range(int(self.GENE_NUM/self.BLOCK)):
-            args = [(i, b) for i in range(self.ISLAND_NUM)]
-            self.island = pool.map_async(self.search, args).get(9999999)
-            for i in range(self.ISLAND_NUM):
-                self.save_max_score(i)
-            self.migrate()
-        pool.close()
-
-    def migrate(self):
-        shelter = []
-        for i in range(self.ISLAND_NUM):
-            idx = randint(0, len(self.island[i])-1)
-            shelter.append(self.island[i][idx])
-            self.island[i].pop(idx)
-        shuffle(shelter)
-        for i in range(self.ISLAND_NUM):
-            self.island[i].append(shelter[i])
-
-    def search(self, args):
-        i, b = args
-        family = self.island[i].copy()
-        for g in range(b*self.BLOCK, (b+1)*self.BLOCK):
-            if len(family) <= 1:
-                family.append(self.random_combi(i))
-            idx_p1, idx_p2 = self.select_random_pair_from_family(family)
-            children = self.cross_over(family[idx_p1], family[idx_p2])
-            children = self.mulation(children, i)
-            family = self.select_elite(i, family, idx_p1, idx_p2, children)
-        return family
+    def search(self):
+        self.add_random_combi_to_family()
+        for g in tqdm(range(self.GENE_NUM)):
+            if len(self.family) <= 1:
+                self.add_random_combi_to_family()
+            idx_p1, idx_p2 = self.select_random_pair_from_family()
+            children = self.cross_over(self.family[idx_p1], self.family[idx_p2])
+            children = self.mulation(children)
+            self.select_elite(idx_p1, idx_p2, children)
+            self.save_max_score()
 
     def plot_graph(self):
-        for i in range(self.ISLAND_NUM):
-            x = [i for i in range(len(self.max_score_list[i]))]
-            plt.plot(x, [s[-1] for s in self.max_score_list[i]])
+        x = [i for i in range(len(self.max_score_list))]
+        plt.plot(x, [s[-1] for s in self.max_score_list])
         plt.show()
-        plt.savefig(self.ROOT_DIR + "../../data/max_score.png")
-        for i in range(self.ISLAND_NUM):
-            x = [i for i in range(len(self.max_score_list[i]))]
-            plt.plot(x, [n for n in self.family_num_list[i]])
-        plt.show()
+        plt.savefig(self.ROOT_DIR + "../data/max_score.png")
 
     def print_max_combi(self, return_score=False, return_values=False):
-        sl = []
-        for li in self.max_score_list:
-            sl += li
-        for i in range(self.ISLAND_NUM):
-            max_combi = sorted(sl, key=lambda x:x[-1])[-1]
-        
+        max_combi = sorted(self.max_score_list, key=lambda x:x[-1])[-1]
         combi = max_combi[0]
         price = max_combi[1]
         score = max_combi[2]
@@ -114,12 +83,13 @@ class SearchMaxScore:
         print("SCORE\t: ", score)
         print(spec)
 
-    def save_max_score(self, i):
-        family = self.island[i]
-        self.family_num_list[i].append(len(family))
-        sl = [self.eval(f) for f in family]
+    def save_max_score(self):
+        sl = []
+        for f in self.family:
+            score = self.eval(f)
+            sl.append(score)
         score = max(sl)
-        max_combi = family[sl.index(score)]
+        max_combi = self.family[sl.index(score)]
         cpu_i, gpu_i, ram_i, disk_i = max_combi
         price = sum([
             self.cpu_df.iloc[cpu_i]["PRICE"], 
@@ -127,11 +97,11 @@ class SearchMaxScore:
             self.ram_df.iloc[ram_i]["PRICE"],
             self.disk_df.iloc[disk_i]["PRICE"]
         ])
-        self.max_score_list[i].append((max_combi, price, score))
+        self.max_score_list.append((max_combi, price, score))
 
-    def select_elite(self, i, family, idx_p1, idx_p2, children):
-        args = [family[idx_p1],
-                family[idx_p2],
+    def select_elite(self, idx_p1, idx_p2, children):
+        args = [self.family[idx_p1],
+                self.family[idx_p2],
                 children[0],
                 children[1]]
         score_p1, score_p2, score_c1, score_c2 = [self.eval(args[i]) for i in range(4)]
@@ -140,28 +110,26 @@ class SearchMaxScore:
         higher_c = children[0] if score_c1 >= score_c2 else children[1]
         if (score_c1 > score_p1 and score_c1 > score_p2
                 and score_c2 > score_p1 and score_c2 > score_p2):
-            family.pop(idx_lower_p)
-            family.extend(children)
+            self.family.pop(idx_lower_p)
+            self.family.extend(children)
         elif (score_c1 < score_p1 and score_c1 < score_p2
                 and score_c2 < score_p1 and score_c2 < score_p2):
-            family.pop(idx_lower_p)
+            self.family.pop(idx_lower_p)
         elif higher_p_score > score_c1 and higher_p_score > score_c2:
-            family.pop(idx_lower_p)
-            family.append(higher_c)
+            self.family.pop(idx_lower_p)
+            self.family.append(higher_c)
         else:
             pop_list = sorted([idx_p1, idx_p2], reverse=True)
             for p in pop_list:
-                family.pop(p)
-            family.append(higher_c)
-            family.append(self.random_combi(i))
-        return family
+                self.family.pop(p)
+            self.family.append(higher_c)
+            self.add_random_combi_to_family()
 
 
-    def mulation(self, children, i):
+    def mulation(self, children):
         idx_mulate_child = randint(0, len(children)-1)
         idx_mulate_parts = randint(0, 4-1)
-        start, end = self.selectable_range(i, len(self.df_list[idx_mulate_parts]))
-        idx_new_parts = randint(start, end)
+        idx_new_parts = randint(0, len(self.df_list[idx_mulate_parts])-1)
         children[idx_mulate_child][idx_mulate_parts] = idx_new_parts
         return children
 
@@ -173,21 +141,20 @@ class SearchMaxScore:
             children.append(child)
         return children
 
-    def select_random_pair_from_family(self, family):
-        idx_1 = randint(0, len(family)-1)
+    def select_random_pair_from_family(self):
+        idx_1 = randint(0, len(self.family)-1)
         while True:
-            idx_2 = randint(0, len(family)-1)
+            idx_2 = randint(0, len(self.family)-1)
             if idx_1 != idx_2:
                 break
         return (idx_1, idx_2)
 
-    def random_combi(self, i):
+    def add_random_combi_to_family(self):
         combi = []
         for df in self.df_list:
-            start, end = self.selectable_range(i, len(df))
-            select_index = randint(start, end)
+            select_index = randint(0, len(df)-1)
             combi.append(select_index)
-        return combi
+        self.family.append(combi)
 
     def eval(self, combi):
         cpu_i, gpu_i, ram_i, disk_i = combi
@@ -272,13 +239,6 @@ class SearchMaxScore:
         ]
         return True
 
-    def selectable_range(self, i, df_len):
-        start = i*(df_len/self.ISLAND_NUM)
-        end = (i+1)*df_len
-        if end >= df_len:
-            end = df_len-1
-        return int(start), int(end)
-
     def init_model(self):
         self.reg_model_hdd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_hdd.sav", "rb"))
         self.reg_model_ssd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_ssd.sav", "rb"))
@@ -289,7 +249,7 @@ if __name__ == "__main__":
     gpu_url = 'https://kakaku.com/item/K0001091039/'
     s = SearchMaxScore(budget, root_dir="./", hdd_ssd="ssd", cpu_maker="intel", minimum_require_capacity=10, gpu_maker="NVIDIA")
     if s.init_dataset():
-        s.throw_in_pool()
+        s.search()
         s.print_max_combi()
         s.plot_graph()
     else:

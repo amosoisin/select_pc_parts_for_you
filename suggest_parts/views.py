@@ -32,7 +32,7 @@ def send():
                              minimum_require_capacity=cap,
                              gpu_url=request.form["gpu_url"])
         if sms.init_dataset():
-            sms.search()
+            sms.throw_in_pool()
             suggest_parts = sms.print_max_combi(return_values=True)
             values.update(suggest_parts)
             values["budget"] = budget
