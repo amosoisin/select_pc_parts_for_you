@@ -8,6 +8,7 @@ import pickle
 import warnings
 import re
 from multiprocessing import Pool, Value
+from tqdm import tqdm
 warnings.simplefilter('ignore')
 sns.set()
 
@@ -31,7 +32,7 @@ class SearchMaxScore:
     def throw_in_pool(self):
         self.island = [[self.random_combi(i),] for i in range(self.ISLAND_NUM)]
         pool = Pool(processes=self.ISLAND_NUM)
-        for b in range(int(self.GENE_NUM/self.BLOCK)):
+        for b in tqdm(range(int(self.GENE_NUM/self.BLOCK))):
             args = [(i, b) for i in range(self.ISLAND_NUM)]
             self.island = pool.map_async(self.search, args).get(9999999)
             for i in range(self.ISLAND_NUM):
@@ -63,12 +64,14 @@ class SearchMaxScore:
 
     def plot_graph(self):
         for i in range(self.ISLAND_NUM):
-            x = [i for i in range(len(self.max_score_list[i]))]
+            x = [i*self.BLOCK for i in range(len(self.max_score_list[i]))]
             plt.plot(x, [s[-1] for s in self.max_score_list[i]])
+        plt.xlabel("generation")
+        plt.ylabel("SCORE")
         plt.show()
         plt.savefig(self.ROOT_DIR + "../../data/max_score.png")
         for i in range(self.ISLAND_NUM):
-            x = [i for i in range(len(self.max_score_list[i]))]
+            x = [i*self.BLOCK for i in range(len(self.max_score_list[i]))]
             plt.plot(x, [n for n in self.family_num_list[i]])
         plt.show()
 
@@ -283,14 +286,47 @@ class SearchMaxScore:
         self.reg_model_hdd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_hdd.sav", "rb"))
         self.reg_model_ssd = pickle.load(open(self.ROOT_DIR + "data/model/regression_model_ssd.sav", "rb"))
 
+
+def std_dev(li):
+    ave = sum(li)/len(li)
+    return np.sqrt(sum([pow(x-ave, 2) for x in li])/len(li))
+
+
 if __name__ == "__main__":
     budget = 30 * 10000
-    minimum_size = 100
-    gpu_url = 'https://kakaku.com/item/K0001091039/'
-    s = SearchMaxScore(budget, root_dir="./", hdd_ssd="ssd", cpu_maker="intel", minimum_require_capacity=10, gpu_maker="NVIDIA")
-    if s.init_dataset():
+    prices = []
+    scores = []
+    times = 20 
+    for i in range(times):
+        s = SearchMaxScore(budget, root_dir="./")
+        s.init_dataset()
         s.throw_in_pool()
-        s.print_max_combi()
-        s.plot_graph()
-    else:
-        print("error")
+        values = s.print_max_combi(return_values=True)
+        price = values["PRICE"]
+        prices.append(price)
+        score = values["SCORE"]
+        scores.append(score)
+        print("PRICE :", price)
+        print("SCORE :", score)
+    price_ave = sum(prices)/times
+    score_ave = sum(scores)/times
+    price_std = std_dev(prices)
+    score_std = std_dev(scores)
+    print("PRICE_AVERAGE :", price_ave)
+    print("SCORE_AVERAGE :", score_ave)
+    print("PRICE_STD :", price_std)
+    print("SCORE_STD :", score_std)
+    import seaborn as sns
+    budget = int(budget/10000)
+    sns.set()
+    prices = [i/10000 for i in prices]
+    scores = [i/pow(10, 5) for i in scores]
+    plt.hist(prices)
+    plt.xlabel("price[x10000]")
+    plt.savefig("price_{}.png".format(budget))
+    plt.show()
+
+    plt.hist(scores)
+    plt.xlabel("score[x(10^5)]")
+    plt.savefig("score_{}.png".format(budget))
+    plt.show()

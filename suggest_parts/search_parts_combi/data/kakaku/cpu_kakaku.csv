@@ -1,304 +1,305 @@
-0,AMD Ryzen 5 3600 BOX,https://kakaku.com/item/K0001172062/,Ryzen53600,AMD,SocketAM4,3.6,4.2,6,12,3000.0,32000.0,,24367
-1,AMD Ryzen 7 3700X BOX,https://kakaku.com/item/K0001172060/,Ryzen73700X,AMD,SocketAM4,3.6,4.4,8,16,4000.0,32000.0,,40730
-2,AMD Ryzen 9 3950X BOX,https://kakaku.com/item/K0001172057/,Ryzen93950X,AMD,SocketAM4,3.5,4.7,16,32,8000.0,64000.0,,97799
-3,インテル Core i5 9400F BOX,https://kakaku.com/item/K0001126893/,Corei59400F (CoffeeLake-SRefresh),インテル,LGA1151,2.9,4.1,6,6,,,9000.0,17277
-4,AMD Ryzen 9 3900X BOX,https://kakaku.com/item/K0001172058/,Ryzen93900X,AMD,SocketAM4,3.8,4.6,12,24,6000.0,64000.0,,60800
-5,AMD Ryzen 5 2600 BOX,https://kakaku.com/item/K0001047707/,Ryzen52600,AMD,SocketAM4,3.4,3.9,6,12,3000.0,16000.0,,15070
-6,インテル Core i9 9900K BOX,https://kakaku.com/item/K0001095747/,Corei99900K (CoffeeLake-SRefresh),インテル,LGA1151,3.6,5.0,8,16,,,16000.0,58959
-7,インテル Core i7 9700K BOX,https://kakaku.com/item/K0001095746/,Corei79700K (CoffeeLake-SRefresh),インテル,LGA1151,3.6,4.9,8,8,,,12000.0,44580
-8,インテル Core i3 9100F BOX,https://kakaku.com/item/K0001157347/,Corei39100F (CoffeeLake-SRefresh),インテル,LGA1151,3.6,4.2,4,4,,,6000.0,9217
-9,AMD Ryzen 5 3400G BOX,https://kakaku.com/item/K0001172063/,Ryzen53400G,AMD,SocketAM4,3.7,4.2,4,8,2000.0,4000.0,,19480
-10,インテル Core i9 9900KS Special Edition BOX,https://kakaku.com/item/K0001207178/,Corei99900KS (CoffeeLakeRefresh),インテル,LGA1151,4.0,5.0,8,16,,16000.0,,65790
-11,インテル Core i5 9400 BOX,https://kakaku.com/item/K0001158576/,Corei59400 (CoffeeLake-SRefresh),インテル,LGA1151,2.9,4.1,6,6,,9000.0,,22110
-12,インテル Core i7 9700 BOX,https://kakaku.com/item/K0001165715/,Corei79700 (CoffeeLake),インテル,LGA1151,3.0,4.7,8,8,,,12000.0,40266
-13,インテル Core i5 9600KF BOX,https://kakaku.com/item/K0001145323/,Corei59600KF (CoffeeLake-SRefresh),インテル,LGA1151,3.7,4.6,6,6,,,9000.0,22850
-14,インテル Core i9 10980XE Extreme Edition BOX,https://kakaku.com/item/K0001217270/,Corei910980XE (CascadeLake),インテル,LGA2066,3.0,4.8,18,36,,24750.0,,147710
-15,AMD Ryzen 3 3200G BOX,https://kakaku.com/item/K0001172064/,Ryzen33200G,AMD,SocketAM4,3.6,4.0,4,4,2000.0,4000.0,,12577
-16,インテル Core i3 9100 BOX,https://kakaku.com/item/K0001168066/,Corei39100 (CoffeeLake),インテル,LGA1151,3.6,4.2,4,4,,6000.0,,14762
-17,インテル Core i5 9600K BOX,https://kakaku.com/item/K0001095745/,Corei59600K (CoffeeLake-SRefresh),インテル,LGA1151,3.7,4.6,6,6,,,9000.0,25608
-18,AMD Ryzen 7 2700 BOX,https://kakaku.com/item/K0001047705/,Ryzen72700,AMD,SocketAM4,3.2,4.1,8,16,4000.0,16000.0,,19699
-19,インテル Pentium Gold G5420 BOX,https://kakaku.com/item/K0001187545/,PentiumGoldG5420 (CoffeeLake),インテル,LGA1151,3.8,,2,4,,,4000.0,6960
-20,AMD Ryzen Threadripper 1920X BOX,https://kakaku.com/item/K0000987817/,RyzenThreadripper1920X,AMD,SocketTR4,3.5,4.0,12,24,6000.0,32000.0,,44439
-21,AMD Athlon 200GE BOX,https://kakaku.com/item/K0001094966/,Athlon200GE,AMD,SocketAM4,3.2,,2,4,1024.0,4000.0,,5256
-22,AMD Ryzen 5 3600X BOX,https://kakaku.com/item/K0001172061/,Ryzen53600X,AMD,SocketAM4,3.8,4.4,6,12,3000.0,32000.0,,29173
-23,インテル Core i9 9900KF BOX,https://kakaku.com/item/K0001145325/,Corei99900KF (CoffeeLake-SRefresh),インテル,LGA1151,3.6,5.0,8,16,,,16000.0,53122
-24,インテル Core i7 9700F BOX,https://kakaku.com/item/K0001164119/,Corei79700F (CoffeeLake-SRefresh),インテル,LGA1151,3.0,4.7,8,8,,,12000.0,37378
-25,インテル Pentium Gold G5400 BOX,https://kakaku.com/item/K0001045053/,PentiumGoldG5400 (CoffeeLake-S),インテル,LGA1151,3.7,,2,4,,,4000.0,6680
-26,インテル Core i9 10940X BOX,https://kakaku.com/item/K0001221362/,Corei910940X (CascadeLake),インテル,LGA2066,3.3,4.8,14,28,,19250.0,,102980
-27,AMD Ryzen 7 2700X BOX,https://kakaku.com/item/K0001047704/,Ryzen72700X,AMD,SocketAM4,3.7,4.3,8,16,4000.0,16000.0,,23469
-28,インテル Core i9 10920X BOX,https://kakaku.com/item/K0001218982/,Corei910920X (CascadeLake),インテル,LGA2066,3.5,4.8,12,24,,19250.0,,94050
-29,AMD A6-9500 BOX,https://kakaku.com/item/K0001160779/,A6-9500,AMD,SocketAM4,3.5,3.8,2,,1000.0,,,3278
-30,インテル Core i9 9900 BOX,https://kakaku.com/item/K0001167104/,Corei99900 (CoffeeLake),インテル,LGA1151,3.1,5.0,8,16,,,16000.0,52662
-31,AMD Ryzen 7 3800X BOX,https://kakaku.com/item/K0001172059/,Ryzen73800X,AMD,SocketAM4,3.9,4.5,8,16,4000.0,32000.0,,47573
-32,AMD Ryzen 5 2400G BOX,https://kakaku.com/item/K0001031959/,Ryzen52400G,AMD,SocketAM4,3.6,3.9,4,8,2000.0,4000.0,,16470
-33,AMD Athlon 3000G BOX,https://kakaku.com/item/K0001213691/,Athlon3000G,AMD,SocketAM4,3.5,,2,4,1000.0,4000.0,,7678
-34,インテル Core i5 9500 BOX,https://kakaku.com/item/K0001178835/,Corei59500 (CoffeeLake),インテル,LGA1151,3.0,4.4,6,6,,9000.0,,23978
-35,インテル Core i9 10900X BOX,https://kakaku.com/item/K0001217271/,Corei910900X (CascadeLake),インテル,LGA2066,3.7,4.7,10,20,,19250.0,,75679
-36,AMD Ryzen 5 2600X BOX,https://kakaku.com/item/K0001047706/,Ryzen52600X,AMD,SocketAM4,3.6,4.2,6,12,3000.0,16000.0,,16478
-37,インテル Core i7 9700KF BOX,https://kakaku.com/item/K0001145324/,Corei79700KF (CoffeeLake-SRefresh),インテル,LGA1151,3.6,4.9,8,8,,,12000.0,43428
-38,AMD Ryzen 7 1700X BOX,https://kakaku.com/item/K0000946574/,Ryzen71700X,AMD,SocketAM4,3.4,3.8,8,16,4000.0,16000.0,,19816
-39,インテル Core i5 9600 BOX,https://kakaku.com/item/K0001181813/,Corei59600 (CoffeeLake),インテル,LGA1151,3.1,4.6,6,6,,,9000.0,26180
-40,AMD Ryzen Threadripper 3970X,https://kakaku.com/item/K0001213693/,RyzenThreadripper3970X,AMD,SocketsTRX4,3.7,4.5,32,64,16000.0,128000.0,,252500
-41,インテル Core i7 9800X BOX,https://kakaku.com/item/K0001096315/,Corei79800X (Skylake-XRefresh),インテル,LGA2066,3.8,4.4,8,16,,,16500.0,43880
-42,インテル Core i5 8400 BOX,https://kakaku.com/item/K0001002087/,Corei58400 (CoffeeLake-S),インテル,LGA1151,2.8,4.0,6,6,,,9000.0,21530
-43,AMD Ryzen 5 1600 BOX,https://kakaku.com/item/K0000954888/,Ryzen51600,AMD,SocketAM4,3.2,3.6,6,12,3000.0,16000.0,,13398
-44,AMD Ryzen Threadripper 2920X BOX,https://kakaku.com/item/K0001079496/,RyzenThreadripper2920X,AMD,SocketTR4,3.5,4.3,12,24,6000.0,32000.0,,32978
-45,インテル Core i7 8700 BOX,https://kakaku.com/item/K0001002086/,Corei78700 (CoffeeLake-S),インテル,LGA1151,3.2,4.6,6,12,,,12000.0,42020
-46,AMD Ryzen Threadripper 3960X,https://kakaku.com/item/K0001213692/,RyzenThreadripper3960X,AMD,SocketsTRX4,3.8,4.5,24,48,12000.0,128000.0,,177800
-47,AMD Ryzen Threadripper 2970WX BOX,https://kakaku.com/item/K0001079494/,RyzenThreadripper2970WX,AMD,SocketTR4,3.0,4.2,24,48,12000.0,64000.0,,76978
-48,インテル Core i9 9980XE Extreme Edition BOX,https://kakaku.com/item/K0001096312/,Corei99980XE (Skylake-XRefresh),インテル,LGA2066,3.0,4.4,18,36,,,24750.0,116460
-49,インテル Core i7 8700K BOX,https://kakaku.com/item/K0001002085/,Corei78700K (CoffeeLake-S),インテル,LGA1151,3.7,4.7,6,12,,,12000.0,45280
-50,インテル Celeron G4900 BOX,https://kakaku.com/item/K0001045055/,CeleronG4900 (CoffeeLake-S),インテル,LGA1151,3.1,,2,2,,,2000.0,4790
-51,インテル Core i9 9960X BOX,https://kakaku.com/item/K0001096316/,Corei99960X (Skylake-XRefresh),インテル,LGA2066,3.1,4.4,16,32,,,22000.0,100982
-52,インテル Core i9 9900X BOX,https://kakaku.com/item/K0001096314/,Corei99900X (Skylake-XRefresh),インテル,LGA2066,3.5,4.4,10,20,,,19250.0,69563
-53,インテル Pentium Dual-Core G4560 BOX,https://kakaku.com/item/K0000933429/,PentiumDual-CoreG4560 (KabyLake-S),インテル,LGA1151,3.5,,2,4,,3000.0,,7205
-54,AMD A10-9700E BOX,https://kakaku.com/item/K0000994449/,A10-9700E,AMD,SocketAM4,3.0,3.5,4,,2000.0,,,9770
-55,インテル Core i3 8100 BOX,https://kakaku.com/item/K0001002089/,Corei38100 (CoffeeLake-S),インテル,LGA1151,3.6,,4,4,,,6000.0,14999
-56,インテル Core i5 9500F BOX,https://kakaku.com/item/K0001216730/,Corei59500F (CoffeeLakeRefresh),インテル,LGA1151,3.0,4.4,6,6,,9000.0,,21969
-57,インテル Core i7 7700K BOX,https://kakaku.com/item/K0000932815/,Corei77700K (KabyLake-S),インテル,LGA1151,4.2,4.5,4,8,,,8000.0,47025
-58,インテル Core i5 6500 BOX,https://kakaku.com/item/K0000808341/,Corei56500 (Skylake),インテル,LGA1151,3.2,3.6,4,4,,,6000.0,19980
-59,インテル Pentium Gold G5620 BOX,https://kakaku.com/item/K0001217818/,PentiumGoldG5620 (CoffeeLakeRefresh),インテル,LGA1151,4.0,,2,4,,,12000.0,11869
-60,インテル Celeron Dual-Core G3930 BOX,https://kakaku.com/item/K0000933431/,CeleronDual-CoreG3930 (KabyLake-S),インテル,LGA1151,2.9,,2,2,,2000.0,,4785
-61,インテル Celeron G4930 BOX,https://kakaku.com/item/K0001190638/,CeleronG4930 (CoffeeLake),インテル,LGA1151,3.2,,2,2,,2000.0,,5147
-62,AMD Athlon 220GE BOX,https://kakaku.com/item/K0001122219/,Athlon220GE,AMD,SocketAM4,3.4,,2,4,1000.0,4000.0,,6688
-63,AMD Athlon 240GE BOX,https://kakaku.com/item/K0001122218/,Athlon240GE,AMD,SocketAM4,3.5,,2,4,1000.0,4000.0,,8228
-64,AMD Ryzen 3 2200G BOX,https://kakaku.com/item/K0001031960/,Ryzen32200G,AMD,SocketAM4,3.5,3.7,4,4,2000.0,4000.0,,11480
-65,AMD Ryzen 7 2700X 50th Anniversary Edition BOX with Wraith Prism cooler,https://kakaku.com/item/K0001154374/,Ryzen72700X,AMD,SocketAM4,3.7,4.3,8,16,4000.0,16000.0,,39980
-66,インテル Core i5 8500 BOX,https://kakaku.com/item/K0001045049/,Corei58500 (CoffeeLake-S),インテル,LGA1151,3.0,4.1,6,6,,,9000.0,23314
-67,インテル Xeon E-2236 BOX,https://kakaku.com/item/K0001193016/,XeonE-2236 (CoffeeLake),インテル,LGA1151,3.4,4.8,6,12,,,12000.0,36519
-68,インテル Core i7 7700 BOX,https://kakaku.com/item/K0000932813/,Corei77700 (KabyLake-S),インテル,LGA1151,3.6,4.2,4,8,,,8000.0,39447
-69,インテル Core i9 9820X BOX,https://kakaku.com/item/K0001096318/,Corei99820X (Skylake-XRefresh),インテル,LGA2066,3.3,4.1,10,20,,,16500.0,63770
-70,インテル Xeon W-3175X BOX,https://kakaku.com/item/K0001150564/,XeonW-3175X (Skylake),インテル,LGA3647,3.1,3.8,28,56,,38500.0,,387000
-71,インテル Core i7 3770S BOX,https://kakaku.com/item/K0000368071/,Corei73770S (IvyBridge),インテル,LGA1155,3.1,,4,,,,8000.0,19576
-72,AMD Ryzen Threadripper 2950X BOX,https://kakaku.com/item/K0001079495/,RyzenThreadripper2950X,AMD,SocketTR4,3.5,4.4,16,32,8000.0,32000.0,,65978
-73,インテル Core i3 8300 BOX,https://kakaku.com/item/K0001045050/,Corei38300 (CoffeeLake-S),インテル,LGA1151,3.7,,4,4,,,8000.0,18565
-74,インテル Core i7 8700 バルク,https://kakaku.com/item/K0001106864/,Corei78700 (CoffeeLake-S),インテル,LGA1151,3.2,4.6,6,12,,,12000.0,39980
-75,インテル Core i9 9940X BOX,https://kakaku.com/item/K0001096313/,Corei99940X (Skylake-XRefresh),インテル,LGA2066,3.3,4.4,14,28,,,19250.0,88800
-76,インテル Core i3 9350KF BOX,https://kakaku.com/item/K0001152701/,Corei39350KF (CoffeeLake-SRefresh),インテル,LGA1151,4.0,4.6,4,4,,8000.0,,19970
-77,インテル Xeon E-2176G BOX,https://kakaku.com/item/K0001130767/,XeonE-2176G (CoffeeLake),インテル,LGA1151,3.7,4.7,6,12,,,12000.0,47849
-78,インテル Pentium Gold G5500 BOX,https://kakaku.com/item/K0001045052/,PentiumGoldG5500 (CoffeeLake-S),インテル,LGA1151,3.8,,2,4,,,4000.0,10221
-79,AMD A12-9800E BOX,https://kakaku.com/item/K0000994450/,A12-9800E,AMD,SocketAM4,3.1,3.8,4,,2000.0,,,11321
-80,インテル Xeon E-2224G BOX,https://kakaku.com/item/K0001193017/,XeonE-2224G (CoffeeLake),インテル,LGA1151,3.5,4.7,4,4,,,12000.0,28269
-81,インテル Core i7 6700K BOX,https://kakaku.com/item/K0000800540/,Corei76700K (Skylake),インテル,LGA1151,4.0,4.2,4,8,,,8000.0,40780
-82,インテル Core i3 7100 BOX,https://kakaku.com/item/K0000933419/,Corei37100 (KabyLake-S),インテル,LGA1151,3.9,,2,4,,,3000.0,15400
-83,インテル Core i3 8350K BOX,https://kakaku.com/item/K0001002088/,Corei38350K (CoffeeLake-S),インテル,LGA1151,4.0,,4,4,,,8000.0,18259
-84,インテル Core i5 7400 BOX,https://kakaku.com/item/K0000933081/,Corei57400 (KabyLake-S),インテル,LGA1151,3.0,3.5,4,4,,,6000.0,22800
-85,インテル Core i7 4770 バルク,https://kakaku.com/item/K0000516806/,Corei74770 (Haswell),インテル,LGA1150,3.4,3.9,4,8,,,8000.0,34980
-86,インテル Xeon E-2226G BOX,https://kakaku.com/item/K0001210312/,XeonE-2226G (CoffeeLake),インテル,LGA1151,3.4,4.7,6,6,,,12000.0,36000
-87,インテル Xeon Silver 4210 BOX,https://kakaku.com/item/K0001159368/,XeonSilver4210 (CascadeLake-SP),インテル,LGA3647,2.2,3.2,10,20,,14000.0,,62490
-88,インテル Xeon E5-2640 v4 BOX,https://kakaku.com/item/K0000869935/,XeonE5-2640V4 (Broadwell-EP),インテル,LGA2011-3,2.4,3.4,10,20,,,25000.0,96580
-89,AMD Ryzen Threadripper 2990WX BOX,https://kakaku.com/item/K0001079117/,RyzenThreadripper2990WX,AMD,SocketTR4,3.0,4.2,32,64,16000.0,64000.0,,183130
-90,インテル Pentium Gold G5600 BOX,https://kakaku.com/item/K0001045051/,PentiumGoldG5600 (CoffeeLake-S),インテル,LGA1151,3.9,,2,4,,,4000.0,10945
-91,AMD Ryzen 3 1300X BOX,https://kakaku.com/item/K0000986259/,Ryzen31300X,AMD,SocketAM4,3.5,3.7,4,4,2000.0,8000.0,,11170
-92,AMD Ryzen Threadripper 1900X BOX,https://kakaku.com/item/K0000993227/,RyzenThreadripper1900X,AMD,SocketTR4,3.8,4.0,8,16,4000.0,16000.0,,20169
-93,AMD Ryzen 7 1800X BOX,https://kakaku.com/item/K0000946573/,Ryzen71800X,AMD,SocketAM4,3.6,4.0,8,16,4000.0,16000.0,,21250
-94,インテル Core i7 7700T BOX,https://kakaku.com/item/K0000933077/,Corei77700T (KabyLake-S),インテル,LGA1151,2.9,3.8,4,8,,,8000.0,42020
-95,インテル Core i9 9920X BOX,https://kakaku.com/item/K0001096317/,Corei99920X (Skylake-XRefresh),インテル,LGA2066,3.5,4.4,12,24,,,19250.0,81400
-96,インテル Core i7 6950X Extreme Edition BOX,https://kakaku.com/item/K0000881569/,Corei76950XExtremeEdition (Broadwell-E),インテル,LGA2011-3,3.0,3.5,10,20,,25000.0,,139800
-97,インテル Xeon W-3275 バルク,https://kakaku.com/item/K0001211651/,XeonW-3275 (CascadeLake),インテル,LGA3647,2.5,4.6,28,56,,38500.0,,579699
-98,インテル Xeon Platinum 8180 BOX,https://kakaku.com/item/K0000982874/,XeonPlatinum8180 (Skylake-SP),インテル,LGA3647,2.5,3.8,28,56,,38500.0,,1219900
-99,インテル Core i3 3240 BOX,https://kakaku.com/item/K0000414362/,Corei33240 (IvyBridge),インテル,LGA1155,3.4,,2,,,,3000.0,9297
-100,AMD Ryzen 3 1200 BOX,https://kakaku.com/item/K0000986260/,Ryzen31200,AMD,SocketAM4,3.1,3.4,4,4,2000.0,8000.0,,11467
-101,インテル Core i5 660 バルク,https://kakaku.com/item/K0000079474/,Corei5660,インテル,LGA1156,3.33,,2,,,4000.0,,12980
-102,インテル Core i5 7400T BOX,https://kakaku.com/item/K0000932821/,Corei57400T (KabyLake-S),インテル,LGA1151,2.4,3.0,4,4,,,6000.0,25173
-103,インテル Xeon E-2234 BOX,https://kakaku.com/item/K0001210313/,XeonE-2234 (CoffeeLake),インテル,LGA1151,3.6,4.8,4,8,,,12000.0,36000
-104,インテル Core i7 6700 BOX,https://kakaku.com/item/K0000808337/,Corei76700 (Skylake),インテル,LGA1151,3.4,4.0,4,8,,,8000.0,42020
-105,インテル Xeon E-2274G BOX,https://kakaku.com/item/K0001210314/,XeonE-2274G (CoffeeLake),インテル,LGA1151,4.0,4.9,4,8,,,8000.0,49000
-106,インテル Core i7 7820X,https://kakaku.com/item/K0000970156/,Corei77820X (Skylake-X),インテル,LGA2066,3.6,4.3,8,16,,11000.0,,51480
-107,インテル Xeon Silver 4208 BOX,https://kakaku.com/item/K0001159369/,XeonSilver4208 (CascadeLake-SP),インテル,LGA3647,2.1,3.2,8,16,,11000.0,,53490
-108,AMD Ryzen Threadripper 1950X BOX,https://kakaku.com/item/K0000987818/,RyzenThreadripper1950X,AMD,SocketTR4,3.4,4.0,16,32,8000.0,32000.0,,67800
-109,インテル Core i9 7920X BOX,https://kakaku.com/item/K0000995578/,Corei97920X (Skylake-X),インテル,LGA2066,2.9,4.3,12,24,,16500.0,,99880
-110,インテル Celeron Dual-Core G3950 BOX,https://kakaku.com/item/K0000936003/,CeleronDual-CoreG3950 (KabyLake-S),インテル,LGA1151,3.0,,2,2,,,2000.0,5725
-111,インテル Celeron G4950 BOX,https://kakaku.com/item/K0001218983/,CeleronG4950 (CoffeeLake),インテル,LGA1151,3.3,,2,2,,2000.0,,6790
-112,インテル Celeron G4920 BOX,https://kakaku.com/item/K0001045054/,CeleronG4920 (CoffeeLake-S),インテル,LGA1151,3.2,,2,2,,,2000.0,7095
-113,インテル Pentium Dual-Core G4600 BOX,https://kakaku.com/item/K0000933427/,PentiumDual-CoreG4600 (KabyLake-S),インテル,LGA1151,3.6,,2,4,,3000.0,,10842
-114,インテル Pentium Dual-Core G4620 BOX,https://kakaku.com/item/K0000936001/,PentiumDual-CoreG4620 (KabyLake-S),インテル,LGA1151,3.7,,2,4,,3000.0,,12524
-115,AMD Ryzen 5 1500X BOX,https://kakaku.com/item/K0000958312/,Ryzen51500X,AMD,SocketAM4,3.5,3.7,4,8,2000.0,16000.0,,14391
-116,インテル Core i3 7300 BOX,https://kakaku.com/item/K0000933417/,Corei37300 (KabyLake-S),インテル,LGA1151,4.0,,2,4,,4000.0,,19644
-117,インテル Core i3 7300T BOX,https://kakaku.com/item/K0000933421/,Corei37300T (KabyLake-S),インテル,LGA1151,3.5,,2,4,,4000.0,,19724
-118,インテル Xeon E3-1225 v6 BOX,https://kakaku.com/item/K0000957607/,XeonE3-1225V6 (KabyLake-S),インテル,LGA1151,3.3,3.7,4,4,,,8000.0,29469
-119,インテル Core i5 7600K BOX,https://kakaku.com/item/K0000932817/,Corei57600K (KabyLake-S),インテル,LGA1151,3.8,4.2,4,4,,,6000.0,32389
-120,インテル Xeon E3-1230 v6 BOX,https://kakaku.com/item/K0000957610/,XeonE3-1230V6 (KabyLake-S),インテル,LGA1151,3.5,3.9,4,8,,,8000.0,32389
-121,インテル Xeon E-2136 BOX,https://kakaku.com/item/K0001130766/,XeonE-2136 (CoffeeLake),インテル,LGA1151,3.3,4.5,6,12,,,12000.0,37729
-122,インテル Core i7 3770 バルク,https://kakaku.com/item/K0000368068/,Corei73770,インテル,LGA1155,3.4,3.9,4,8,,,8000.0,37980
-123,インテル Xeon E-2146G BOX,https://kakaku.com/item/K0001130770/,XeonE-2146G (CoffeeLake),インテル,LGA1151,3.5,4.5,6,12,,,12000.0,41359
-124,インテル Xeon E5-2620 v4 BOX,https://kakaku.com/item/K0000869929/,XeonE5-2620V4 (Broadwell-EP),インテル,LGA2011-3,2.1,3.0,8,16,,,20000.0,50723
-125,インテル Xeon W-3223 バルク,https://kakaku.com/item/K0001211658/,XeonW-3223 (CascadeLake),インテル,LGA3647,3.5,4.2,8,16,,16500.0,,102959
-126,AMD EPYC 7401P BOX,https://kakaku.com/item/K0001087348/,EPYC7401P,AMD,,2.0,3.0,24,48,,64000.0,,156639
-127,インテル Xeon Gold 5218 BOX,https://kakaku.com/item/K0001159366/,XeonGold5218 (CascadeLake-SP),インテル,LGA3647,2.3,3.9,16,32,,22000.0,,160880
-128,インテル Xeon E5-2670 v2 BOX,https://kakaku.com/item/K0000575843/,XeonE5-2670V2 (IvyBridge),インテル,LGA2011,2.5,3.3,10,20,,,25000.0,180731
-129,インテル Xeon W-3235 バルク,https://kakaku.com/item/K0001211656/,XeonW-3235 (CascadeLake),インテル,LGA3647,3.3,4.5,12,24,,19250.0,,186999
-130,インテル Xeon E5-2683 v4 BOX,https://kakaku.com/item/K0000869944/,XeonE5-2683V4 (Broadwell-EP),インテル,LGA2011-3,2.1,3.0,16,32,,,40000.0,229899
-131,インテル Xeon Gold 6230 BOX,https://kakaku.com/item/K0001159365/,XeonGold6230 (CascadeLake-SP),インテル,LGA3647,2.1,3.9,20,40,,28000.0,,238600
-132,インテル Xeon E5-2697 v4 BOX,https://kakaku.com/item/K0000869949/,XeonE5-2697V4 (Broadwell-EP),インテル,LGA2011-3,2.3,3.6,18,36,,,45000.0,338799
-133,インテル Xeon W-3275M バルク,https://kakaku.com/item/K0001211650/,XeonW-3275M (CascadeLake),インテル,LGA3647,2.5,4.6,28,56,,38500.0,,967999
-134,インテル Celeron Dual-Core G1610 バルク,https://kakaku.com/item/K0000459346/,CeleronDual-CoreG1610 (IvyBridge),インテル,LGA1155,2.6,,2,,,,2000.0,4980
-135,インテル Pentium Dual-Core G2120 バルク,https://kakaku.com/item/K0000414371/,PentiumDual-CoreG2120 (IvyBridge),インテル,LGA1155,3.1,,2,,,,3000.0,6280
-136,インテル Celeron Dual-Core G3900 BOX,https://kakaku.com/item/K0000857596/,CeleronDual-CoreG3900 (Skylake),インテル,LGA1151,2.8,,2,2,,,2000.0,6780
-137,インテル Core 2 Duo E7300 バルク,https://kakaku.com/item/05100011583/,Core2DuoE7300,インテル,LGA775,2.66,,2,,3000.0,,,9880
-138,インテル Core 2 Duo E8400 バルク,https://kakaku.com/item/05100011435/,Core2DuoE8400,インテル,LGA775,3.0,,2,,6000.0,,,12522
-139,インテル Pentium Dual-Core G4520 BOX,https://kakaku.com/item/K0000825694/,PentiumDual-CoreG4520 (Skylake),インテル,LGA1151,3.6,,2,2,,3000.0,,12540
-140,インテル Core i3 7100T BOX,https://kakaku.com/item/K0000933423/,Corei37100T (KabyLake-S),インテル,LGA1151,3.4,,2,4,,,3000.0,15675
-141,インテル Core i3 6100 BOX,https://kakaku.com/item/K0000832917/,Corei36100 (Skylake),インテル,LGA1151,3.7,,2,4,,,3000.0,19639
-142,インテル Core i3 6300T BOX,https://kakaku.com/item/K0000825685/,Corei36300T (Skylake),インテル,LGA1151,3.3,,2,4,,,4000.0,19745
-143,インテル Core i3 6100T BOX,https://kakaku.com/item/K0000825681/,Corei36100T (Skylake),インテル,LGA1151,3.2,,2,4,,,3000.0,19955
-144,インテル Core i5 6400 BOX,https://kakaku.com/item/K0000808343/,Corei56400 (Skylake),インテル,LGA1151,2.7,3.3,4,4,,,6000.0,22622
-145,インテル Core i3 7350K BOX,https://kakaku.com/item/K0000933425/,Corei37350K (KabyLake-S),インテル,LGA1151,4.2,,2,4,,,4000.0,24035
-146,インテル Xeon E-2224 BOX,https://kakaku.com/item/K0001210311/,XeonE-2224 (CoffeeLake),インテル,LGA1151,3.4,4.6,4,4,,,8000.0,26260
-147,インテル Core i5 7500 BOX,https://kakaku.com/item/K0000933079/,Corei57500 (KabyLake-S),インテル,LGA1151,3.4,3.8,4,4,,,6000.0,27225
-148,AMD Ryzen 5 1600X BOX,https://kakaku.com/item/K0000958311/,Ryzen51600X,AMD,SocketAM4,3.6,4.0,6,12,3000.0,16000.0,,27548
-149,インテル Xeon E-2124G BOX,https://kakaku.com/item/K0001130769/,XeonE-2124G (CoffeeLake),インテル,LGA1151,3.4,4.5,4,4,,,8000.0,27719
-150,インテル Xeon Bronze 3204 BOX,https://kakaku.com/item/K0001159423/,XeonBronze3204 (CascadeLake-SP),インテル,LGA3647,1.9,1.9,6,6,,8250.0,,27918
-151,インテル Core i5 8600 BOX,https://kakaku.com/item/K0001045048/,Corei58600 (CoffeeLake-S),インテル,LGA1151,3.1,4.3,6,6,,,9000.0,28261
-152,インテル Xeon E3-1225 v5 バルク,https://kakaku.com/item/K0000829365/,XeonE3-1225V5 (Skylake),インテル,LGA1151,3.3,,4,,,,8000.0,28489
-153,インテル Core i5 7600T BOX,https://kakaku.com/item/K0000933411/,Corei57600T (KabyLake-S),インテル,LGA1151,2.8,3.7,4,4,,,6000.0,29890
-154,インテル Core i5 8600K BOX,https://kakaku.com/item/K0001002279/,Corei58600K (CoffeeLake-S),インテル,LGA1151,3.6,4.3,6,6,,,9000.0,31900
-155,インテル Xeon E-2134 BOX,https://kakaku.com/item/K0001130765/,XeonE-2134 (CoffeeLake),インテル,LGA1151,3.5,4.5,4,8,,,8000.0,32999
-156,インテル Xeon E5-1620 v4 BOX,https://kakaku.com/item/K0000904452/,XeonE5-1620V4 (Broadwell-EP),インテル,LGA2011-3,3.5,3.8,4,8,,10000.0,,35445
-157,インテル Xeon E5-2609 v4 BOX,https://kakaku.com/item/K0000869927/,XeonE5-2609V4 (Broadwell-EP),インテル,LGA2011-3,1.7,,8,8,,,20000.0,36647
-158,インテル Xeon E3-1240 v6 BOX,https://kakaku.com/item/K0000957606/,XeonE3-1240V6 (KabyLake-S),インテル,LGA1151,3.7,4.1,4,8,,,8000.0,36959
-159,インテル Core i7 4930K BOX,https://kakaku.com/item/K0000575494/,Corei74930K (IvyBridgeE),インテル,LGA2011,3.4,,6,,,,12000.0,37908
-160,インテル Xeon E3-1245 v6 BOX,https://kakaku.com/item/K0000957605/,XeonE3-1245V6 (KabyLake-S),インテル,LGA1151,3.7,4.1,4,8,,,8000.0,39290
-161,インテル Xeon E3-1270 v6 BOX,https://kakaku.com/item/K0000957611/,XeonE3-1270V6 (KabyLake-S),インテル,LGA1151,3.8,4.2,4,8,,,8000.0,40538
-162,インテル Core i7 4770 BOX,https://kakaku.com/item/K0000516805/,Corei74770 (Haswell),インテル,LGA1150,3.4,3.9,4,8,,,8000.0,45000
-163,インテル Xeon Silver 4110 BOX,https://kakaku.com/item/K0000982870/,XeonSilver4110 (Skylake-SP),インテル,LGA3647,2.1,3.0,8,16,,11000.0,,64800
-164,インテル Core i7 5930K BOX,https://kakaku.com/item/K0000688452/,Corei75930K (HaswellE),インテル,LGA2011-3,3.5,3.7,6,12,,,15000.0,70370
-165,インテル Xeon E5-2630 v4 バルク,https://kakaku.com/item/K0001037510/,XeonE5-2630V4 (Broadwell-EP),インテル,LGA2011-3,2.2,,10,,,,25000.0,79969
-166,インテル Xeon E5-2630 v4 BOX,https://kakaku.com/item/K0000869933/,XeonE5-2630V4 (Broadwell-EP),インテル,LGA2011-3,2.2,3.1,10,20,,,25000.0,81278
-167,AMD EPYC 7301 BOX,https://kakaku.com/item/K0001087352/,EPYC7301,AMD,,2.2,2.7,16,32,,64000.0,,81399
-168,インテル Core i9 7900X,https://kakaku.com/item/K0000970155/,Corei97900X (Skylake-X),インテル,LGA2066,3.3,4.3,10,20,,13750.0,,115499
-169,インテル Xeon Silver 4216 BOX,https://kakaku.com/item/K0001159367/,XeonSilver4216 (CascadeLake-SP),インテル,LGA3647,2.1,3.2,16,32,,22000.0,,126590
-170,インテル XEON 5080 BOX,https://kakaku.com/item/05100011044/,Xeon5080,インテル,Socket771,3.73,,2,,4000.0,,,132732
-171,インテル Xeon E5-2650 v2 BOX,https://kakaku.com/item/K0000576832/,XeonE5-2650V2 (IvyBridge),インテル,LGA2011,2.6,,8,,,,20000.0,138393
-172,インテル Xeon E5-2650 v3 BOX,https://kakaku.com/item/K0000691894/,XeonE5-2650V3 (Haswell-EP),インテル,LGA2011-3,2.3,,10,,,,25000.0,150187
-173,インテル Xeon E5-2660 v3 BOX,https://kakaku.com/item/K0000691893/,XeonE5-2660V3 (Haswell-EP),インテル,LGA2011-3,2.6,,10,,,,25000.0,185018
-174,インテル Xeon W-2155 バルク,https://kakaku.com/item/K0001098193/,XeonW-2155 (Skylake-W),インテル,LGA2066,3.3,4.5,10,20,,13750.0,,188783
-175,インテル Xeon E5-2680 v3 BOX,https://kakaku.com/item/K0000691891/,XeonE5-2680V3 (Haswell-EP),インテル,LGA2011-3,2.5,,12,,,,30000.0,238192
-176,インテル Xeon E5-2690 v3 BOX,https://kakaku.com/item/K0000691890/,XeonE5-2690V3 (Haswell-EP),インテル,LGA2011-3,2.6,,12,,,,30000.0,264061
-177,インテル Xeon E5-2687W v4 BOX,https://kakaku.com/item/K0000869945/,XeonE5-2687WV4 (Broadwell-EP),インテル,LGA2011-3,3.0,3.5,12,24,,,30000.0,265979
-178,インテル Xeon E5-2695 v2 BOX,https://kakaku.com/item/K0000576829/,XeonE5-2695V2 (IvyBridge),インテル,LGA2011,2.4,,12,,,,30000.0,276324
-179,インテル Xeon Gold 6234 BOX,https://kakaku.com/item/K0001193015/,XeonGold6234 (CascadeLake),インテル,LGA3647,3.3,4.0,8,16,,24750.0,,282350
-180,インテル Xeon Gold 6140 BOX,https://kakaku.com/item/K0000982846/,XeonGold6140 (Skylake-SP),インテル,LGA3647,2.3,3.7,18,36,,24750.0,,299890
-181,インテル Xeon E5-2695 v4 BOX,https://kakaku.com/item/K0000869947/,XeonE5-2695V4 (Broadwell-EP),インテル,LGA2011-3,2.1,3.3,18,36,,,45000.0,299969
-182,インテル Xeon Gold 6238 BOX,https://kakaku.com/item/K0001203701/,XeonGold6238 (CascadeLake),インテル,LGA3647,2.1,3.7,22,44,,30250.0,,329500
-183,インテル Xeon W-2195 バルク,https://kakaku.com/item/K0001098195/,XeonW-2195 (Skylake-W),インテル,LGA2066,2.3,4.3,18,36,,24750.0,,369359
-184,インテル Xeon Gold 6148 BOX,https://kakaku.com/item/K0000982854/,XeonGold6148 (Skylake-SP),インテル,LGA3647,2.4,3.7,20,40,,27500.0,,378990
-185,インテル Xeon Gold 6152 BOX,https://kakaku.com/item/K0000982850/,XeonGold6152 (Skylake-SP),インテル,LGA3647,2.1,3.7,22,44,,30250.0,,437690
-186,インテル Xeon Gold 6252 BOX,https://kakaku.com/item/K0001159425/,XeonGold6252 (CascadeLake-SP),インテル,LGA3647,2.1,3.7,24,48,,36000.0,,457578
-187,インテル Xeon Platinum 8160 BOX,https://kakaku.com/item/K0000982858/,XeonPlatinum8160 (Skylake-SP),インテル,LGA3647,2.1,3.7,24,48,,33000.0,,572990
-188,AMD EPYC 7601 BOX,https://kakaku.com/item/K0001087343/,EPYC7601,AMD,,2.2,3.2,32,64,,64000.0,,711259
-189,インテル Xeon W-3265M バルク,https://kakaku.com/item/K0001211652/,XeonW-3265M (CascadeLake),インテル,LGA3647,2.7,4.6,24,48,,33000.0,,813999
-190,インテル Core Duo T2300E BOX,https://kakaku.com/item/05100011010/,CoreDuoT2300E,インテル,,1.66,,2,,2000.0,,,3967
-191,インテル Core 2 Duo T7500 バルク,https://kakaku.com/item/05100011246/,Core2DuoT7500,インテル,SocketP,2.2,,2,,4000.0,,,6979
-192,インテル Pentium Dual-Core G4400 BOX,https://kakaku.com/item/K0000825688/,PentiumDual-CoreG4400 (Skylake),インテル,LGA1151,3.3,,2,2,,,3000.0,8980
-193,インテル Core i3 540 バルク,https://kakaku.com/item/K0000079478/,Corei3540,インテル,LGA1156,3.06,,2,,,,4000.0,9980
-194,インテル Core 2 Duo E7500 バルク,https://kakaku.com/item/K0000015429/,Core2DuoE7500,インテル,LGA775,2.93,,2,,3000.0,,,9999
-195,インテル Pentium Dual-Core G620 バルク,https://kakaku.com/item/K0000254496/,PentiumDual-CoreG620,インテル,LGA1155,2.6,,2,2,,,3000.0,9999
-196,インテル Core 2 Duo E7400 バルク,https://kakaku.com/item/05100011618/,Core2DuoE7400,インテル,LGA775,2.8,,2,,3000.0,,,10343
-197,インテル Core 2 Quad Q6600 バルク,https://kakaku.com/item/05100011185/,Core2QuadQ6600,インテル,LGA775,2.4,,4,,8000.0,,,11198
-198,インテル Celeron M 420 BOX,https://kakaku.com/item/05100011018/,CeleronM420,インテル,,1.6,,1,,1000.0,,,13114
-199,インテル Core 2 Duo E8500 バルク,https://kakaku.com/item/05100011433/,Core2DuoE8500,インテル,LGA775,3.16,,2,,6000.0,,,13480
-200,インテル Core i3 2120 バルク,https://kakaku.com/item/K0000215607/,Corei32120,インテル,LGA1155,3.3,,2,,,,3000.0,13799
-201,インテル Core i3 2100 バルク,https://kakaku.com/item/K0000215609/,Corei32100,インテル,LGA1155,3.1,,2,,,,3000.0,14280
-202,インテル Core i3 3240 バルク,https://kakaku.com/item/K0000414363/,Corei33240 (IvyBridge),インテル,LGA1155,3.4,,2,,,,3000.0,14980
-203,インテル Core i3 3220 バルク,https://kakaku.com/item/K0000414367/,Corei33220 (IvyBridge),インテル,LGA1155,3.3,,2,,,,3000.0,16980
-204,インテル Core 2 Quad Q9400 バルク,https://kakaku.com/item/05100011579/,Core2QuadQ9400,インテル,LGA775,2.66,,4,,6000.0,,,19979
-205,インテル Core i3 7320 BOX,https://kakaku.com/item/K0000933415/,Corei37320 (KabyLake-S),インテル,LGA1151,4.1,,2,4,,4000.0,,20964
-206,インテル Core i3 6320 BOX,https://kakaku.com/item/K0000825687/,Corei36320 (Skylake),インテル,LGA1151,3.9,,2,4,,,4000.0,21175
-207,インテル Core i5 8400 バルク,https://kakaku.com/item/K0001106865/,Corei58400 (CoffeeLake-S),インテル,LGA1151,2.8,4.0,6,6,,,9000.0,24300
-208,インテル Xeon E-2124 BOX,https://kakaku.com/item/K0001130764/,XeonE-2124 (CoffeeLake),インテル,LGA1151,3.3,4.3,4,4,,,8000.0,24859
-209,インテル Xeon E3-1220 v6 BOX,https://kakaku.com/item/K0000957608/,XeonE3-1220V6 (KabyLake-S),インテル,LGA1151,3.0,3.5,4,4,,,8000.0,25260
-210,インテル Core i3 6300 BOX,https://kakaku.com/item/K0000825683/,Corei36300 (Skylake),インテル,LGA1151,3.8,,2,4,,,4000.0,25417
-211,インテル Xeon E5-2603 v4 BOX,https://kakaku.com/item/K0000869925/,XeonE5-2603V4 (Broadwell-EP),インテル,LGA2011-3,1.7,,6,6,,,15000.0,26462
-212,インテル Core i5 6600K BOX,https://kakaku.com/item/K0000800542/,Corei56600K (Skylake),インテル,LGA1151,3.5,3.9,4,4,,,6000.0,26480
-213,インテル Xeon Bronze 3104 BOX,https://kakaku.com/item/K0001006707/,XeonBronze3104 (Skylake-SP),インテル,LGA3647,1.7,,6,6,,8250.0,,26839
-214,インテル Core i5 7500T BOX,https://kakaku.com/item/K0000933413/,Corei57500T (KabyLake-S),インテル,LGA1151,2.7,3.3,4,4,,,6000.0,27225
-215,AMD Opteron 2214 HE Socket F BOX,https://kakaku.com/item/05100511100/,Opteron2214HE,AMD,SocketF,2.2,,2,,2000.0,,,27499
-216,インテル Core i5 6600 BOX,https://kakaku.com/item/K0000808339/,Corei56600 (Skylake),インテル,LGA1151,3.3,3.9,4,4,,,6000.0,27883
-217,インテル Core i5 7600 BOX,https://kakaku.com/item/K0000932819/,Corei57600 (KabyLake-S),インテル,LGA1151,3.5,4.1,4,4,,,6000.0,30085
-218,AMD Ryzen 7 1700 BOX,https://kakaku.com/item/K0000946575/,Ryzen71700,AMD,SocketAM4,3.0,3.7,8,16,4000.0,16000.0,,30327
-219,インテル Core 2 Duo E8600 バルク,https://kakaku.com/item/05100011581/,Core2DuoE8600,インテル,LGA775,3.33,,2,,6000.0,,,33432
-220,インテル Xeon W-2123 BOX,https://kakaku.com/item/K0001031351/,XeonW-2123 (Skylake-W),インテル,LGA2066,3.6,3.9,4,8,,8250.0,,37690
-221,インテル Xeon Bronze 3106 BOX,https://kakaku.com/item/K0000982872/,XeonBronze3106 (Skylake-SP),インテル,LGA3647,1.7,,8,8,,11000.0,,37949
-222,インテル Core i7 2600 バルク,https://kakaku.com/item/K0000215572/,Corei72600,インテル,LGA1155,3.4,,4,,,,8000.0,38999
-223,インテル Xeon E3-1270 バルク,https://kakaku.com/item/K0000243933/,,,,,,,,,,,
-224,インテル Xeon E3-1275 v6 BOX,https://kakaku.com/item/K0000957609/,XeonE3-1275V6 (KabyLake-S),インテル,LGA1151,3.8,4.2,4,8,,,8000.0,42575
-225,インテル Xeon E-2174G BOX,https://kakaku.com/item/K0001130768/,XeonE-2174G (CoffeeLake),インテル,LGA1151,3.8,4.7,4,8,,,8000.0,42899
-226,インテル Xeon W-2123 バルク,https://kakaku.com/item/K0001098188/,XeonW-2123 (Skylake-W),インテル,LGA2066,3.6,3.9,4,8,,8250.0,,47303
-227,インテル Xeon E5-2620 v3 バルク,https://kakaku.com/item/K0000691501/,XeonE5-2620V3 (Haswell-EP),インテル,LGA2011-3,2.4,,6,,,,15000.0,49704
-228,インテル Core i7 7800X,https://kakaku.com/item/K0000970157/,Corei77800X (Skylake-X),インテル,LGA2066,3.5,4.0,6,12,,8250.0,,49798
+0,AMD Ryzen 7 3700X BOX,https://kakaku.com/item/K0001172060/,Ryzen73700X,AMD,SocketAM4,3.6,4.4,8,16,4000.0,32000.0,,40175
+1,AMD Ryzen 5 3600 BOX,https://kakaku.com/item/K0001172062/,Ryzen53600,AMD,SocketAM4,3.6,4.2,6,12,3000.0,32000.0,,24367
+2,AMD Ryzen 5 2600 BOX,https://kakaku.com/item/K0001047707/,Ryzen52600,AMD,SocketAM4,3.4,3.9,6,12,3000.0,16000.0,,14270
+3,AMD Ryzen 9 3900X BOX,https://kakaku.com/item/K0001172058/,Ryzen93900X,AMD,SocketAM4,3.8,4.6,12,24,6000.0,64000.0,,60797
+4,AMD Ryzen 9 3950X BOX,https://kakaku.com/item/K0001172057/,Ryzen93950X,AMD,SocketAM4,3.5,4.7,16,32,8000.0,64000.0,,97460
+5,インテル Core i5 9400F BOX,https://kakaku.com/item/K0001126893/,Corei59400F (CoffeeLake-SRefresh),インテル,LGA1151,2.9,4.1,6,6,,,9000.0,17550
+6,インテル Core i9 9900K BOX,https://kakaku.com/item/K0001095747/,Corei99900K (CoffeeLake-SRefresh),インテル,LGA1151,3.6,5.0,8,16,,,16000.0,59980
+7,AMD Ryzen 7 2700 BOX,https://kakaku.com/item/K0001047705/,Ryzen72700,AMD,SocketAM4,3.2,4.1,8,16,4000.0,16000.0,,19698
+8,インテル Core i3 9100F BOX,https://kakaku.com/item/K0001157347/,Corei39100F (CoffeeLake-SRefresh),インテル,LGA1151,3.6,4.2,4,4,,,6000.0,9320
+9,AMD Ryzen 5 3400G BOX,https://kakaku.com/item/K0001172063/,Ryzen53400G,AMD,SocketAM4,3.7,4.2,4,8,2000.0,4000.0,,19470
+10,インテル Core i5 9600K BOX,https://kakaku.com/item/K0001095745/,Corei59600K (CoffeeLake-SRefresh),インテル,LGA1151,3.7,4.6,6,6,,,9000.0,25553
+11,AMD Athlon 200GE BOX,https://kakaku.com/item/K0001094966/,Athlon200GE,AMD,SocketAM4,3.2,,2,4,1024.0,4000.0,,5790
+12,インテル Core i7 9700K BOX,https://kakaku.com/item/K0001095746/,Corei79700K (CoffeeLake-SRefresh),インテル,LGA1151,3.6,4.9,8,8,,,12000.0,45338
+13,AMD Ryzen 3 3200G BOX,https://kakaku.com/item/K0001172064/,Ryzen33200G,AMD,SocketAM4,3.6,4.0,4,4,2000.0,4000.0,,12577
+14,インテル Core i7 9700 BOX,https://kakaku.com/item/K0001165715/,Corei79700 (CoffeeLake),インテル,LGA1151,3.0,4.7,8,8,,12000.0,,40980
+15,インテル Core i9 9900KS Special Edition BOX,https://kakaku.com/item/K0001207178/,Corei99900KS (CoffeeLakeRefresh),インテル,LGA1151,4.0,5.0,8,16,,16000.0,,69849
+16,インテル Core i9 10980XE Extreme Edition BOX,https://kakaku.com/item/K0001217270/,Corei910980XE (CascadeLake),インテル,LGA2066,3.0,4.8,18,36,,24750.0,,147710
+17,インテル Core i3 9100 BOX,https://kakaku.com/item/K0001168066/,Corei39100 (CoffeeLake),インテル,LGA1151,3.6,4.2,4,4,,,12000.0,15376
+18,インテル Core i5 9400 BOX,https://kakaku.com/item/K0001158576/,Corei59400 (CoffeeLake-SRefresh),インテル,LGA1151,2.9,4.1,6,6,,9000.0,,22110
+19,インテル Core i9 10900X BOX,https://kakaku.com/item/K0001217271/,Corei910900X (CascadeLake),インテル,LGA2066,3.7,4.7,10,20,,19250.0,,75679
+20,AMD Ryzen 7 2700X BOX,https://kakaku.com/item/K0001047704/,Ryzen72700X,AMD,SocketAM4,3.7,4.3,8,16,4000.0,16000.0,,23463
+21,インテル Core i9 10940X BOX,https://kakaku.com/item/K0001221362/,Corei910940X (CascadeLake),インテル,LGA2066,3.3,4.8,14,28,,19250.0,,102980
+22,インテル Core i9 9900 BOX,https://kakaku.com/item/K0001167104/,Corei99900 (CoffeeLake),インテル,LGA1151,3.1,5.0,8,16,,,12000.0,52663
+23,インテル Core i7 9700F BOX,https://kakaku.com/item/K0001164119/,Corei79700F (CoffeeLake-SRefresh),インテル,LGA1151,3.0,4.7,8,8,,12000.0,,37378
+24,インテル Core i9 9900KF BOX,https://kakaku.com/item/K0001145325/,Corei99900KF (CoffeeLake-SRefresh),インテル,LGA1151,3.6,5.0,8,16,,,16000.0,53122
+25,インテル Core i5 9500 BOX,https://kakaku.com/item/K0001178835/,Corei59500 (CoffeeLake),インテル,LGA1151,3.0,4.4,6,6,,9000.0,,23980
+26,インテル Core i5 9600KF BOX,https://kakaku.com/item/K0001145323/,Corei59600KF (CoffeeLake-SRefresh),インテル,LGA1151,3.7,4.6,6,6,,,9000.0,23980
+27,AMD Ryzen 5 3600X BOX,https://kakaku.com/item/K0001172061/,Ryzen53600X,AMD,SocketAM4,3.8,4.4,6,12,3000.0,32000.0,,29800
+28,インテル Pentium Gold G5420 BOX,https://kakaku.com/item/K0001187545/,PentiumGoldG5420 (CoffeeLake),インテル,LGA1151,3.8,,2,4,,4000.0,,6820
+29,インテル Core i7 8700 BOX,https://kakaku.com/item/K0001002086/,Corei78700 (CoffeeLake-S),インテル,LGA1151,3.2,4.6,6,12,,,12000.0,42240
+30,AMD Ryzen 7 3800X BOX,https://kakaku.com/item/K0001172059/,Ryzen73800X,AMD,SocketAM4,3.9,4.5,8,16,4000.0,32000.0,,47568
+31,AMD Ryzen 7 1700X BOX,https://kakaku.com/item/K0000946574/,Ryzen71700X,AMD,SocketAM4,3.4,3.8,8,16,4000.0,16000.0,,15800
+32,インテル Core i9 10920X BOX,https://kakaku.com/item/K0001218982/,Corei910920X (CascadeLake),インテル,LGA2066,3.5,4.8,12,24,,19250.0,,94050
+33,AMD Athlon 3000G BOX,https://kakaku.com/item/K0001213691/,Athlon3000G,AMD,SocketAM4,3.5,,2,4,1000.0,4000.0,,7458
+34,AMD Ryzen 5 2400G BOX,https://kakaku.com/item/K0001031959/,Ryzen52400G,AMD,SocketAM4,3.6,3.9,4,8,2000.0,4000.0,,17750
+35,インテル Pentium Gold G5400 BOX,https://kakaku.com/item/K0001045053/,PentiumGoldG5400 (CoffeeLake-S),インテル,LGA1151,3.7,,2,4,,,4000.0,6680
+36,AMD Ryzen Threadripper 2920X BOX,https://kakaku.com/item/K0001079496/,RyzenThreadripper2920X,AMD,SocketTR4,3.5,4.3,12,24,6000.0,32000.0,,32978
+37,インテル Core i7 8700K BOX,https://kakaku.com/item/K0001002085/,Corei78700K (CoffeeLake-S),インテル,LGA1151,3.7,4.7,6,12,,,12000.0,42925
+38,インテル Core i7 9700KF BOX,https://kakaku.com/item/K0001145324/,Corei79700KF (CoffeeLake-SRefresh),インテル,LGA1151,3.6,4.9,8,8,,12000.0,,43428
+39,AMD Ryzen Threadripper 3970X,https://kakaku.com/item/K0001213693/,RyzenThreadripper3970X,AMD,SocketsTRX4,3.7,4.5,32,64,16000.0,128000.0,,252500
+40,インテル Core i7 9800X BOX,https://kakaku.com/item/K0001096315/,Corei79800X (Skylake-XRefresh),インテル,LGA2066,3.8,4.4,8,16,,,16500.0,43880
+41,インテル Core i5 9600 BOX,https://kakaku.com/item/K0001181813/,Corei59600 (CoffeeLake),インテル,LGA1151,3.1,4.6,6,6,,,2000.0,26180
+42,インテル Core i5 8400 BOX,https://kakaku.com/item/K0001002087/,Corei58400 (CoffeeLake-S),インテル,LGA1151,2.8,4.0,6,6,,,9000.0,16800
+43,インテル Core i9 9900X BOX,https://kakaku.com/item/K0001096314/,Corei99900X (Skylake-XRefresh),インテル,LGA2066,3.5,4.4,10,20,,,19250.0,69563
+44,インテル Core i3 8100 BOX,https://kakaku.com/item/K0001002089/,Corei38100 (CoffeeLake-S),インテル,LGA1151,3.6,,4,4,,,6000.0,14899
+45,AMD Ryzen 5 1600 BOX,https://kakaku.com/item/K0000954888/,Ryzen51600,AMD,SocketAM4,3.2,3.6,6,12,3000.0,16000.0,,13398
+46,インテル Core i9 9960X BOX,https://kakaku.com/item/K0001096316/,Corei99960X (Skylake-XRefresh),インテル,LGA2066,3.1,4.4,16,32,,,22000.0,100983
+47,インテル Celeron G4900 BOX,https://kakaku.com/item/K0001045055/,CeleronG4900 (CoffeeLake-S),インテル,LGA1151,3.1,,2,2,,,2000.0,3980
+48,インテル Pentium Dual-Core G4560 BOX,https://kakaku.com/item/K0000933429/,PentiumDual-CoreG4560 (KabyLake-S),インテル,LGA1151,3.5,,2,4,,3000.0,,7260
+49,インテル Core i9 9980XE Extreme Edition BOX,https://kakaku.com/item/K0001096312/,Corei99980XE (Skylake-XRefresh),インテル,LGA2066,3.0,4.4,18,36,,,24750.0,120600
+50,AMD Ryzen Threadripper 3960X,https://kakaku.com/item/K0001213692/,RyzenThreadripper3960X,AMD,SocketsTRX4,3.8,4.5,24,48,12000.0,128000.0,,177800
+51,AMD Ryzen Threadripper 2970WX BOX,https://kakaku.com/item/K0001079494/,RyzenThreadripper2970WX,AMD,SocketTR4,3.0,4.2,24,48,12000.0,64000.0,,96000
+52,AMD A6-9500 BOX,https://kakaku.com/item/K0001160779/,A6-9500,AMD,SocketAM4,3.5,3.8,2,,1000.0,,,3938
+53,インテル Core i5 8500 BOX,https://kakaku.com/item/K0001045049/,Corei58500 (CoffeeLake-S),インテル,LGA1151,3.0,4.1,6,6,,,9000.0,23314
+54,インテル Xeon W-3175X BOX,https://kakaku.com/item/K0001150564/,XeonW-3175X (Skylake),インテル,LGA3647,3.1,3.8,28,56,,38500.0,,387000
+55,AMD Athlon 220GE BOX,https://kakaku.com/item/K0001122219/,Athlon220GE,AMD,SocketAM4,3.4,,2,4,1000.0,4000.0,,6688
+56,インテル Core i7 7700 BOX,https://kakaku.com/item/K0000932813/,Corei77700 (KabyLake-S),インテル,LGA1151,3.6,4.2,4,8,,,8000.0,39248
+57,インテル Xeon W-2135 BOX,https://kakaku.com/item/K0001031352/,XeonW-2135 (Skylake-W),インテル,LGA2066,3.7,4.5,6,12,,8250.0,,40425
+58,AMD Ryzen 5 2600X BOX,https://kakaku.com/item/K0001047706/,Ryzen52600X,AMD,SocketAM4,3.6,4.2,6,12,3000.0,16000.0,,17968
+59,インテル Core i7 6700K BOX,https://kakaku.com/item/K0000800540/,Corei76700K (Skylake),インテル,LGA1151,4.0,4.2,4,8,,,8000.0,39687
+60,AMD Athlon 240GE BOX,https://kakaku.com/item/K0001122218/,Athlon240GE,AMD,SocketAM4,3.5,,2,4,1000.0,4000.0,,8228
+61,インテル Core i3 8350K BOX,https://kakaku.com/item/K0001002088/,Corei38350K (CoffeeLake-S),インテル,LGA1151,4.0,,4,4,,,8000.0,18166
+62,インテル Core i7 8700 バルク,https://kakaku.com/item/K0001106864/,Corei78700 (CoffeeLake-S),インテル,LGA1151,3.2,4.6,6,12,,,12000.0,37980
+63,インテル Core i9 9820X BOX,https://kakaku.com/item/K0001096318/,Corei99820X (Skylake-XRefresh),インテル,LGA2066,3.3,4.1,10,20,,,16500.0,70486
+64,インテル Xeon Platinum 8180 BOX,https://kakaku.com/item/K0000982874/,XeonPlatinum8180 (Skylake-SP),インテル,LGA3647,2.5,3.8,28,56,,38500.0,,1219800
+65,インテル Core i7 7700K BOX,https://kakaku.com/item/K0000932815/,Corei77700K (KabyLake-S),インテル,LGA1151,4.2,4.5,4,8,,,8000.0,46460
+66,インテル Core i5 6500 BOX,https://kakaku.com/item/K0000808341/,Corei56500 (Skylake),インテル,LGA1151,3.2,3.6,4,4,,,6000.0,19980
+67,インテル Core i5 9500F BOX,https://kakaku.com/item/K0001216730/,Corei59500F (CoffeeLakeRefresh),インテル,LGA1151,3.0,4.4,6,6,,9000.0,,21969
+68,インテル Pentium Gold G5620 BOX,https://kakaku.com/item/K0001217818/,PentiumGoldG5620 (CoffeeLakeRefresh),インテル,LGA1151,4.0,,2,4,,4000.0,,11870
+69,AMD Ryzen 3 2200G BOX,https://kakaku.com/item/K0001031960/,Ryzen32200G,AMD,SocketAM4,3.5,3.7,4,4,2000.0,4000.0,,12170
+70,インテル Xeon E-2146G BOX,https://kakaku.com/item/K0001130770/,XeonE-2146G (CoffeeLake),インテル,LGA1151,3.5,4.5,6,12,,,12000.0,41359
+71,インテル Pentium Dual-Core G4620 BOX,https://kakaku.com/item/K0000936001/,PentiumDual-CoreG4620 (KabyLake-S),インテル,LGA1151,3.7,,2,4,,3000.0,,12523
+72,インテル Xeon E-2136 BOX,https://kakaku.com/item/K0001130766/,XeonE-2136 (CoffeeLake),インテル,LGA1151,3.3,4.5,6,12,,,12000.0,37729
+73,インテル Xeon E-2176G BOX,https://kakaku.com/item/K0001130767/,XeonE-2176G (CoffeeLake),インテル,LGA1151,3.7,4.7,6,12,,,12000.0,47849
+74,インテル Core i9 9920X BOX,https://kakaku.com/item/K0001096317/,Corei99920X (Skylake-XRefresh),インテル,LGA2066,3.5,4.4,12,24,,,19250.0,81400
+75,インテル Celeron G4930 BOX,https://kakaku.com/item/K0001190638/,CeleronG4930 (CoffeeLake),インテル,LGA1151,3.2,,2,2,,,12000.0,4840
+76,インテル Pentium Gold G5500 BOX,https://kakaku.com/item/K0001045052/,PentiumGoldG5500 (CoffeeLake-S),インテル,LGA1151,3.8,,2,4,,,4000.0,10221
+77,インテル Pentium Dual-Core G4600 BOX,https://kakaku.com/item/K0000933427/,PentiumDual-CoreG4600 (KabyLake-S),インテル,LGA1151,3.6,,2,4,,3000.0,,11165
+78,AMD Ryzen 3 1200 BOX,https://kakaku.com/item/K0000986260/,Ryzen31200,AMD,SocketAM4,3.1,3.4,4,4,2000.0,8000.0,,11606
+79,インテル Core i3 7100 BOX,https://kakaku.com/item/K0000933419/,Corei37100 (KabyLake-S),インテル,LGA1151,3.9,,2,4,,,3000.0,15412
+80,インテル Core i3 8300 BOX,https://kakaku.com/item/K0001045050/,Corei38300 (CoffeeLake-S),インテル,LGA1151,3.7,,4,4,,,8000.0,18565
+81,AMD Ryzen 7 2700X 50th Anniversary Edition BOX with Wraith Prism cooler,https://kakaku.com/item/K0001154374/,Ryzen72700X,AMD,SocketAM4,3.7,4.3,8,16,4000.0,16000.0,,39980
+82,インテル Xeon E3-1275 v6 BOX,https://kakaku.com/item/K0000957609/,XeonE3-1275V6 (KabyLake-S),インテル,LGA1151,3.8,4.2,4,8,,,8000.0,42575
+83,AMD Ryzen Threadripper 2990WX BOX,https://kakaku.com/item/K0001079117/,RyzenThreadripper2990WX,AMD,SocketTR4,3.0,4.2,32,64,16000.0,64000.0,,183130
+84,インテル Celeron Dual-Core G3930 BOX,https://kakaku.com/item/K0000933431/,CeleronDual-CoreG3930 (KabyLake-S),インテル,LGA1151,2.9,,2,2,,2000.0,,4785
+85,インテル Core i7 3770S BOX,https://kakaku.com/item/K0000368071/,Corei73770S (IvyBridge),インテル,LGA1155,3.1,,4,,,,8000.0,19576
+86,インテル Core i7 6700 BOX,https://kakaku.com/item/K0000808337/,Corei76700 (Skylake),インテル,LGA1151,3.4,4.0,4,8,,,8000.0,41093
+87,インテル Xeon Gold 6230 BOX,https://kakaku.com/item/K0001159365/,XeonGold6230 (CascadeLake-SP),インテル,LGA3647,2.1,3.9,20,40,,28000.0,,238500
+88,AMD A12-9800E BOX,https://kakaku.com/item/K0000994450/,A12-9800E,AMD,SocketAM4,3.1,3.8,4,,2000.0,,,12330
+89,インテル Core i3 9350KF BOX,https://kakaku.com/item/K0001152701/,Corei39350KF (CoffeeLake-SRefresh),インテル,LGA1151,4.0,4.6,4,4,,8000.0,,19970
+90,AMD Ryzen 7 1800X BOX,https://kakaku.com/item/K0000946573/,Ryzen71800X,AMD,SocketAM4,3.6,4.0,8,16,4000.0,16000.0,,21250
+91,インテル Core i5 7600T BOX,https://kakaku.com/item/K0000933411/,Corei57600T (KabyLake-S),インテル,LGA1151,2.8,3.7,4,4,,,6000.0,29890
+92,インテル Xeon E3-1230 v6 BOX,https://kakaku.com/item/K0000957610/,XeonE3-1230V6 (KabyLake-S),インテル,LGA1151,3.5,3.9,4,8,,,8000.0,32389
+93,インテル Core i7 4770 バルク,https://kakaku.com/item/K0000516806/,Corei74770 (Haswell),インテル,LGA1150,3.4,3.9,4,8,,,8000.0,34980
+94,インテル Core i7 7820X,https://kakaku.com/item/K0000970156/,Corei77820X (Skylake-X),インテル,LGA2066,3.6,4.3,8,16,,11000.0,,51480
+95,AMD Ryzen Threadripper 2950X BOX,https://kakaku.com/item/K0001079495/,RyzenThreadripper2950X,AMD,SocketTR4,3.5,4.4,16,32,8000.0,32000.0,,75768
+96,インテル Core i9 9940X BOX,https://kakaku.com/item/K0001096313/,Corei99940X (Skylake-XRefresh),インテル,LGA2066,3.3,4.4,14,28,,,19250.0,88800
+97,AMD Ryzen 3 1300X BOX,https://kakaku.com/item/K0000986259/,Ryzen31300X,AMD,SocketAM4,3.5,3.7,4,4,2000.0,8000.0,,11113
+98,AMD A10-9700E BOX,https://kakaku.com/item/K0000994449/,A10-9700E,AMD,SocketAM4,3.0,3.5,4,,2000.0,,,11721
+99,AMD Ryzen 5 1600X BOX,https://kakaku.com/item/K0000958311/,Ryzen51600X,AMD,SocketAM4,3.6,4.0,6,12,3000.0,16000.0,,16520
+100,インテル Xeon E-2124 BOX,https://kakaku.com/item/K0001130764/,XeonE-2124 (CoffeeLake),インテル,LGA1151,3.3,4.3,4,4,,,8000.0,24859
+101,インテル Core i5 7500 BOX,https://kakaku.com/item/K0000933079/,Corei57500 (KabyLake-S),インテル,LGA1151,3.4,3.8,4,4,,,6000.0,27390
+102,インテル Xeon Bronze 3204 BOX,https://kakaku.com/item/K0001159423/,XeonBronze3204 (CascadeLake-SP),インテル,LGA3647,1.9,1.9,6,6,,8250.0,,27918
+103,インテル Xeon E-2224G BOX,https://kakaku.com/item/K0001193017/,XeonE-2224G (CoffeeLake),インテル,LGA1151,3.5,4.7,4,4,,,12000.0,28269
+104,インテル Xeon E5-2609 v4 BOX,https://kakaku.com/item/K0000869927/,XeonE5-2609V4 (Broadwell-EP),インテル,LGA2011-3,1.7,,8,8,,,20000.0,36647
+105,インテル Xeon E3-1245 v6 BOX,https://kakaku.com/item/K0000957605/,XeonE3-1245V6 (KabyLake-S),インテル,LGA1151,3.7,4.1,4,8,,,8000.0,39290
+106,インテル Xeon E3-1270 v6 BOX,https://kakaku.com/item/K0000957611/,XeonE3-1270V6 (KabyLake-S),インテル,LGA1151,3.8,4.2,4,8,,,8000.0,40538
+107,AMD Ryzen Threadripper 1920X BOX,https://kakaku.com/item/K0000987817/,RyzenThreadripper1920X,AMD,SocketTR4,3.5,4.0,12,24,6000.0,32000.0,,44439
+108,インテル Core i7 6950X Extreme Edition BOX,https://kakaku.com/item/K0000881569/,Corei76950XExtremeEdition (Broadwell-E),インテル,LGA2011-3,3.0,3.5,10,20,,25000.0,,139800
+109,AMD EPYC 7601 BOX,https://kakaku.com/item/K0001087343/,EPYC7601,AMD,,2.2,3.2,32,64,,64000.0,,711259
+110,インテル Celeron Dual-Core G1610 バルク,https://kakaku.com/item/K0000459346/,CeleronDual-CoreG1610 (IvyBridge),インテル,LGA1155,2.6,,2,,,,2000.0,4980
+111,インテル Pentium Dual-Core G2120 バルク,https://kakaku.com/item/K0000414371/,PentiumDual-CoreG2120 (IvyBridge),インテル,LGA1155,3.1,,2,,,3000.0,,6280
+112,インテル Celeron Dual-Core G3900 BOX,https://kakaku.com/item/K0000857596/,CeleronDual-CoreG3900 (Skylake),インテル,LGA1151,2.8,,2,2,,,2000.0,6780
+113,インテル Core i3 3240 BOX,https://kakaku.com/item/K0000414362/,Corei33240 (IvyBridge),インテル,LGA1155,3.4,,2,,,,3000.0,9297
+114,インテル Core i3 540 バルク,https://kakaku.com/item/K0000079478/,Corei3540,インテル,LGA1156,3.06,,2,,,4000.0,,9980
+115,インテル Core 2 Duo E7500 バルク,https://kakaku.com/item/K0000015429/,Core2DuoE7500,インテル,LGA775,2.93,,2,,3000.0,,,9999
+116,インテル Core 2 Quad Q6600 バルク,https://kakaku.com/item/05100011185/,Core2QuadQ6600,インテル,LGA775,2.4,,4,,8000.0,,,10979
+117,インテル Core 2 Duo E8400 バルク,https://kakaku.com/item/05100011435/,Core2DuoE8400,インテル,LGA775,3.0,,2,,6000.0,,,12522
+118,AMD Ryzen 5 1500X BOX,https://kakaku.com/item/K0000958312/,Ryzen51500X,AMD,SocketAM4,3.5,3.7,4,8,2000.0,16000.0,,14318
+119,インテル Core i3 7350K BOX,https://kakaku.com/item/K0000933425/,Corei37350K (KabyLake-S),インテル,LGA1151,4.2,,2,4,,,4000.0,16800
+120,インテル Core i3 7300 BOX,https://kakaku.com/item/K0000933417/,Corei37300 (KabyLake-S),インテル,LGA1151,4.0,,2,4,,,3000.0,19649
+121,インテル Core i3 7300T BOX,https://kakaku.com/item/K0000933421/,Corei37300T (KabyLake-S),インテル,LGA1151,3.5,,2,4,,,4000.0,19722
+122,インテル Core i5 7400 BOX,https://kakaku.com/item/K0000933081/,Corei57400 (KabyLake-S),インテル,LGA1151,3.0,3.5,4,4,,,6000.0,21714
+123,インテル Xeon E3-1220 v6 BOX,https://kakaku.com/item/K0000957608/,XeonE3-1220V6 (KabyLake-S),インテル,LGA1151,3.0,3.5,4,4,,,8000.0,25260
+124,インテル Xeon E-2224 BOX,https://kakaku.com/item/K0001210311/,XeonE-2224 (CoffeeLake),インテル,LGA1151,3.4,4.6,4,4,,,8000.0,26250
+125,インテル Xeon Bronze 3104 BOX,https://kakaku.com/item/K0001006707/,XeonBronze3104 (Skylake-SP),インテル,LGA3647,1.7,,6,6,,8250.0,,26839
+126,インテル Core i5 8600K BOX,https://kakaku.com/item/K0001002279/,Corei58600K (CoffeeLake-S),インテル,LGA1151,3.6,4.3,6,6,,,9000.0,31900
+127,インテル Core 2 Duo E8600 バルク,https://kakaku.com/item/05100011581/,Core2DuoE8600,インテル,LGA775,3.33,,2,,6000.0,,,33432
+128,インテル Xeon E-2236 BOX,https://kakaku.com/item/K0001193016/,XeonE-2236 (CoffeeLake),インテル,LGA1151,3.4,4.8,6,12,,,12000.0,36519
+129,インテル Xeon E3-1240 v6 BOX,https://kakaku.com/item/K0000957606/,XeonE3-1240V6 (KabyLake-S),インテル,LGA1151,3.7,4.1,4,8,,,8000.0,37258
+130,インテル Xeon Bronze 3106 BOX,https://kakaku.com/item/K0000982872/,XeonBronze3106 (Skylake-SP),インテル,LGA3647,1.7,,8,8,,11000.0,,37949
+131,インテル Core i7 4770 BOX,https://kakaku.com/item/K0000516805/,Corei74770 (Haswell),インテル,LGA1150,3.4,3.9,4,8,,,8000.0,45000
+132,AMD Ryzen Threadripper 1950X BOX,https://kakaku.com/item/K0000987818/,RyzenThreadripper1950X,AMD,SocketTR4,3.4,4.0,16,32,8000.0,32000.0,,55800
+133,インテル Xeon Silver 4210 BOX,https://kakaku.com/item/K0001159368/,XeonSilver4210 (CascadeLake-SP),インテル,LGA3647,2.2,3.2,10,20,,14000.0,,62480
+134,インテル Xeon Silver 4216 BOX,https://kakaku.com/item/K0001159367/,XeonSilver4216 (CascadeLake-SP),インテル,LGA3647,2.1,3.2,16,32,,22000.0,,126580
+135,インテル Core i9 7980XE Extreme Edition BOX,https://kakaku.com/item/K0001008610/,Corei97980XE (Skylake-X),インテル,LGA2066,2.6,4.2,18,36,,24750.0,,166980
+136,インテル Xeon Gold 6128 BOX,https://kakaku.com/item/K0000984678/,XeonGold6128 (Skylake-SP),インテル,LGA3647,3.4,3.7,6,12,,19250.0,,205990
+137,AMD EPYC 7551 BOX,https://kakaku.com/item/K0001087345/,EPYC7551,AMD,,2.0,3.0,32,64,,64000.0,,532069
+138,インテル Xeon W-3275M バルク,https://kakaku.com/item/K0001211650/,XeonW-3275M (CascadeLake),インテル,LGA3647,2.5,4.6,28,56,,38500.0,,967999
+139,インテル Celeron G4950 BOX,https://kakaku.com/item/K0001218983/,CeleronG4950 (CoffeeLake),インテル,LGA1151,3.3,,2,2,,,12000.0,6780
+140,インテル Core 2 Duo T7500 バルク,https://kakaku.com/item/05100011246/,Core2DuoT7500,インテル,SocketP,2.2,,2,,4000.0,,,6979
+141,インテル Pentium Dual-Core G4400 BOX,https://kakaku.com/item/K0000825688/,PentiumDual-CoreG4400 (Skylake),インテル,LGA1151,3.3,,2,2,,,3000.0,8980
+142,インテル Core 2 Duo E7300 バルク,https://kakaku.com/item/05100011583/,Core2DuoE7300,インテル,LGA775,2.66,,2,,3000.0,,,9880
+143,インテル Core i5 660 バルク,https://kakaku.com/item/K0000079474/,Corei5660,インテル,LGA1156,3.33,,2,,,4000.0,,12980
+144,インテル Celeron M 420 BOX,https://kakaku.com/item/05100011018/,CeleronM420,インテル,,1.6,,1,,1000.0,,,13115
+145,インテル Core i3 2100 バルク,https://kakaku.com/item/K0000215609/,Corei32100,インテル,LGA1155,3.1,,2,,,,3000.0,14280
+146,インテル Core i3 3240 バルク,https://kakaku.com/item/K0000414363/,Corei33240 (IvyBridge),インテル,LGA1155,3.4,,2,,,,3000.0,14980
+147,インテル Core i3 6100T BOX,https://kakaku.com/item/K0000825681/,Corei36100T (Skylake),インテル,LGA1151,3.2,,2,4,,,3000.0,19955
+148,インテル Core 2 Quad Q9400 バルク,https://kakaku.com/item/05100011579/,Core2QuadQ9400,インテル,LGA775,2.66,,4,,6000.0,,,19979
+149,インテル Core i3 7320 BOX,https://kakaku.com/item/K0000933415/,Corei37320 (KabyLake-S),インテル,LGA1151,4.1,,2,4,,,3000.0,20970
+150,インテル Core i5 6400 BOX,https://kakaku.com/item/K0000808343/,Corei56400 (Skylake),インテル,LGA1151,2.7,3.3,4,4,,,6000.0,22622
+151,インテル Core i5 6600K BOX,https://kakaku.com/item/K0000800542/,Corei56600K (Skylake),インテル,LGA1151,3.5,3.9,4,4,,,6000.0,26480
+152,AMD Opteron 2214 HE Socket F BOX,https://kakaku.com/item/05100511100/,Opteron2214HE,AMD,SocketF,2.2,,2,,2000.0,,,27499
+153,インテル Xeon E-2124G BOX,https://kakaku.com/item/K0001130769/,XeonE-2124G (CoffeeLake),インテル,LGA1151,3.4,4.5,4,4,,,8000.0,27719
+154,インテル Core i5 8600 BOX,https://kakaku.com/item/K0001045048/,Corei58600 (CoffeeLake-S),インテル,LGA1151,3.1,4.3,6,6,,,9000.0,28261
+155,インテル Xeon E3-1225 v6 BOX,https://kakaku.com/item/K0000957607/,XeonE3-1225V6 (KabyLake-S),インテル,LGA1151,3.3,3.7,4,4,,,8000.0,29469
+156,インテル Core i5 7600K BOX,https://kakaku.com/item/K0000932817/,Corei57600K (KabyLake-S),インテル,LGA1151,3.8,4.2,4,4,,,6000.0,32835
+157,インテル Xeon E-2134 BOX,https://kakaku.com/item/K0001130765/,XeonE-2134 (CoffeeLake),インテル,LGA1151,3.5,4.5,4,8,,,8000.0,32999
+158,インテル Xeon E5-1620 v4 BOX,https://kakaku.com/item/K0000904452/,XeonE5-1620V4 (Broadwell-EP),インテル,LGA2011-3,3.5,3.8,4,8,,10000.0,,35445
+159,インテル Xeon W-2123 BOX,https://kakaku.com/item/K0001031351/,XeonW-2123 (Skylake-W),インテル,LGA2066,3.6,3.9,4,8,,8250.0,,37690
+160,インテル Core i7 4930K BOX,https://kakaku.com/item/K0000575494/,Corei74930K (IvyBridgeE),インテル,LGA2011,3.4,,6,,,,12000.0,37908
+161,インテル Core i7 3770 バルク,https://kakaku.com/item/K0000368068/,Corei73770,インテル,LGA1155,3.4,3.9,4,8,,,8000.0,37980
+162,インテル Core i7 2600 バルク,https://kakaku.com/item/K0000215572/,Corei72600,インテル,LGA1155,3.4,,4,,,,8000.0,38999
+163,インテル Core i7 7740X,https://kakaku.com/item/K0000970158/,Corei77740X (KabyLake-X),インテル,LGA2066,4.3,4.5,4,8,,8000.0,,39800
+164,インテル Core i7 7700T BOX,https://kakaku.com/item/K0000933077/,Corei77700T (KabyLake-S),インテル,LGA1151,2.9,3.8,4,8,,,8000.0,42240
+165,インテル Xeon E-2174G BOX,https://kakaku.com/item/K0001130768/,XeonE-2174G (CoffeeLake),インテル,LGA1151,3.8,4.7,4,8,,,8000.0,42899
+166,インテル Core i7 7800X,https://kakaku.com/item/K0000970157/,Corei77800X (Skylake-X),インテル,LGA2066,3.5,4.0,6,12,,8250.0,,49798
+167,インテル Xeon E5-2620 v4 BOX,https://kakaku.com/item/K0000869929/,XeonE5-2620V4 (Broadwell-EP),インテル,LGA2011-3,2.1,3.0,8,16,,,20000.0,50723
+168,インテル Xeon Silver 4208 BOX,https://kakaku.com/item/K0001159369/,XeonSilver4208 (CascadeLake-SP),インテル,LGA3647,2.1,3.2,8,16,,11000.0,,53480
+169,インテル Core i7 4771 BOX,https://kakaku.com/item/K0000568222/,Corei74771 (Haswell),インテル,LGA1150,3.5,3.9,4,8,,,8000.0,54000
+170,インテル Xeon Silver 4110 BOX,https://kakaku.com/item/K0000982870/,XeonSilver4110 (Skylake-SP),インテル,LGA3647,2.1,3.0,8,16,,11000.0,,64800
+171,インテル Core i7 5960X Extreme Edition BOX,https://kakaku.com/item/K0000688450/,Corei75960XExtremeEdition (HaswellE),インテル,LGA2011-3,3.0,,8,,,,15000.0,80800
+172,インテル Xeon E5-2630 v4 BOX,https://kakaku.com/item/K0000869933/,XeonE5-2630V4 (Broadwell-EP),インテル,LGA2011-3,2.2,3.1,10,20,,,25000.0,81278
+173,インテル Xeon Silver 4214 BOX,https://kakaku.com/item/K0001159424/,XeonSilver4214 (CascadeLake-SP),インテル,LGA3647,2.2,3.2,12,24,,16500.0,,86440
+174,インテル Xeon W-3223 バルク,https://kakaku.com/item/K0001211658/,XeonW-3223 (CascadeLake),インテル,LGA3647,3.5,4.2,8,16,,16500.0,,102959
+175,インテル Core i9 7940X BOX,https://kakaku.com/item/K0001008608/,Corei97940X (Skylake-X),インテル,LGA2066,3.1,4.3,14,28,,19250.0,,117480
+176,インテル Xeon E5-2650 v2 BOX,https://kakaku.com/item/K0000576832/,XeonE5-2650V2 (IvyBridge),インテル,LGA2011,2.6,,8,,,,20000.0,138457
+177,インテル Xeon E5-1660 v4 バルク,https://kakaku.com/item/K0000931016/,XeonE5-1660V4 (Broadwell-EP),インテル,LGA2011-3,3.2,,8,,,20000.0,,142389
+178,インテル Xeon W-3225 バルク,https://kakaku.com/item/K0001211657/,XeonW-3225 (CascadeLake),インテル,LGA3647,3.7,4.4,8,16,,16500.0,,159490
+179,インテル Xeon Gold 5218 BOX,https://kakaku.com/item/K0001159366/,XeonGold5218 (CascadeLake-SP),インテル,LGA3647,2.3,3.9,16,32,,22000.0,,160880
+180,インテル Xeon W-3235 バルク,https://kakaku.com/item/K0001211656/,XeonW-3235 (CascadeLake),インテル,LGA3647,3.3,4.5,12,24,,19250.0,,186999
+181,AMD EPYC 7351 BOX,https://kakaku.com/item/K0001087351/,EPYC7351,AMD,,2.4,2.9,16,32,,64000.0,,197999
+182,インテル Xeon E5-2680 v2 BOX,https://kakaku.com/item/K0000576830/,XeonE5-2680V2 (IvyBridge),インテル,LGA2011,2.8,,10,,,,25000.0,200154
+183,インテル Xeon E5-2690 v4 BOX,https://kakaku.com/item/K0000869946/,XeonE5-2690V4 (Broadwell-EP),インテル,LGA2011-3,2.6,3.5,14,28,,,35000.0,259599
+184,インテル Xeon W-3245 バルク,https://kakaku.com/item/K0001211655/,XeonW-3245 (CascadeLake),インテル,LGA3647,3.2,4.6,16,32,,22000.0,,263990
+185,インテル Xeon E5-2695 v2 BOX,https://kakaku.com/item/K0000576829/,XeonE5-2695V2 (IvyBridge),インテル,LGA2011,2.4,,12,,,,30000.0,276451
+186,インテル Xeon Gold 6234 BOX,https://kakaku.com/item/K0001193015/,XeonGold6234 (CascadeLake),インテル,LGA3647,3.3,4.0,8,16,,24750.0,,282350
+187,インテル Xeon E5-2695 v4 BOX,https://kakaku.com/item/K0000869947/,XeonE5-2695V4 (Broadwell-EP),インテル,LGA2011-3,2.1,3.3,18,36,,,45000.0,299969
+188,AMD EPYC 7551P BOX,https://kakaku.com/item/K0001087344/,EPYC7551P,AMD,,2.0,3.0,32,64,,64000.0,,311299
+189,インテル Xeon Gold 6242 BOX,https://kakaku.com/item/K0001159361/,XeonGold6242 (CascadeLake-SP),インテル,LGA3647,2.8,3.9,16,32,,22000.0,,313300
+190,AMD EPYC 7401 BOX,https://kakaku.com/item/K0001087349/,EPYC7401,AMD,,2.0,3.0,24,48,,64000.0,,329999
+191,インテル Xeon E5-2697 v4 BOX,https://kakaku.com/item/K0000869949/,XeonE5-2697V4 (Broadwell-EP),インテル,LGA2011-3,2.3,3.6,18,36,,,45000.0,338799
+192,インテル Xeon W-2195 バルク,https://kakaku.com/item/K0001098195/,XeonW-2195 (Skylake-W),インテル,LGA2066,2.3,4.3,18,36,,24750.0,,369359
+193,インテル Xeon Gold 6148 BOX,https://kakaku.com/item/K0000982854/,XeonGold6148 (Skylake-SP),インテル,LGA3647,2.4,3.7,20,40,,27500.0,,378990
+194,インテル Xeon Gold 6252 BOX,https://kakaku.com/item/K0001159425/,XeonGold6252 (CascadeLake-SP),インテル,LGA3647,2.1,3.7,24,48,,36000.0,,457500
+195,インテル Xeon W-3275 バルク,https://kakaku.com/item/K0001211651/,XeonW-3275 (CascadeLake),インテル,LGA3647,2.5,4.6,28,56,,38500.0,,579699
+196,インテル Xeon E5-4650 BOX,https://kakaku.com/item/K0000377263/,XeonE5-4650,インテル,LGA2011,2.7,3.3,8,16,,,20000.0,857002
+197,インテル Xeon Platinum 8256 BOX,https://kakaku.com/item/K0001159360/,XeonPlatinum8256 (CascadeLake-SP),インテル,LGA3647,3.8,3.9,4,8,,17000.0,,862800
+198,インテル Xeon Platinum 8176 BOX,https://kakaku.com/item/K0000982876/,XeonPlatinum8176 (Skylake-SP),インテル,LGA3647,2.1,3.8,28,56,,38500.0,,1064900
+199,インテル Core Duo T2300E BOX,https://kakaku.com/item/05100011010/,CoreDuoT2300E,インテル,,1.66,,2,,2000.0,,,3967
+200,インテル Celeron G4920 BOX,https://kakaku.com/item/K0001045054/,CeleronG4920 (CoffeeLake-S),インテル,LGA1151,3.2,,2,2,,,2000.0,7043
+201,インテル Celeron Dual-Core G3950 BOX,https://kakaku.com/item/K0000936003/,CeleronDual-CoreG3950 (KabyLake-S),インテル,LGA1151,3.0,,2,2,,2000.0,,7150
+202,インテル Pentium Dual-Core G620 バルク,https://kakaku.com/item/K0000254496/,PentiumDual-CoreG620,インテル,LGA1155,2.6,,2,2,,,3000.0,9999
+203,インテル Core 2 Duo E7400 バルク,https://kakaku.com/item/05100011618/,Core2DuoE7400,インテル,LGA775,2.8,,2,,3000.0,,,10343
+204,インテル Pentium Gold G5600 BOX,https://kakaku.com/item/K0001045051/,PentiumGoldG5600 (CoffeeLake-S),インテル,LGA1151,3.9,,2,4,,,4000.0,10945
+205,インテル Pentium Dual-Core G4520 BOX,https://kakaku.com/item/K0000825694/,PentiumDual-CoreG4520 (Skylake),インテル,LGA1151,3.6,,2,2,,,3000.0,12595
+206,インテル Core 2 Duo E8500 バルク,https://kakaku.com/item/05100011433/,Core2DuoE8500,インテル,LGA775,3.16,,2,,6000.0,,,13480
+207,インテル Core i3 2120 バルク,https://kakaku.com/item/K0000215607/,Corei32120,インテル,LGA1155,3.3,,2,,,,3000.0,13799
+208,インテル Core i3 7100T BOX,https://kakaku.com/item/K0000933423/,Corei37100T (KabyLake-S),インテル,LGA1151,3.4,,2,4,,,3000.0,15785
+209,インテル Core i3 3220 バルク,https://kakaku.com/item/K0000414367/,Corei33220 (IvyBridge),インテル,LGA1155,3.3,,2,,,,3000.0,16980
+210,インテル Core i3 6100 BOX,https://kakaku.com/item/K0000832917/,Corei36100 (Skylake),インテル,LGA1151,3.7,,2,4,,,3000.0,19639
+211,インテル Core i3 6300T BOX,https://kakaku.com/item/K0000825685/,Corei36300T (Skylake),インテル,LGA1151,3.3,,2,4,,,6000.0,19855
+212,インテル Core i3 6320 BOX,https://kakaku.com/item/K0000825687/,Corei36320 (Skylake),インテル,LGA1151,3.9,,2,4,,4000.0,,21285
+213,AMD Ryzen 7 1700 BOX,https://kakaku.com/item/K0000946575/,Ryzen71700,AMD,SocketAM4,3.0,3.7,8,16,4000.0,16000.0,,21800
+214,インテル Core i5 8400 バルク,https://kakaku.com/item/K0001106865/,Corei58400 (CoffeeLake-S),インテル,LGA1151,2.8,4.0,6,6,,,9000.0,24300
+215,インテル Core i5 7400T BOX,https://kakaku.com/item/K0000932821/,Corei57400T (KabyLake-S),インテル,LGA1151,2.4,3.0,4,4,,,6000.0,25171
+216,インテル Core i3 6300 BOX,https://kakaku.com/item/K0000825683/,Corei36300 (Skylake),インテル,LGA1151,3.8,,2,4,,,4000.0,25417
+217,インテル Xeon E5-2603 v4 BOX,https://kakaku.com/item/K0000869925/,XeonE5-2603V4 (Broadwell-EP),インテル,LGA2011-3,1.7,,6,6,,,15000.0,26462
+218,インテル Core i5 7500T BOX,https://kakaku.com/item/K0000933413/,Corei57500T (KabyLake-S),インテル,LGA1151,2.7,3.3,4,4,,,6000.0,27390
+219,インテル Xeon E3-1225 v5 バルク,https://kakaku.com/item/K0000829365/,XeonE3-1225V5 (Skylake),インテル,LGA1151,3.3,,4,,,,8000.0,28489
+220,インテル Core i5 7600 BOX,https://kakaku.com/item/K0000932819/,Corei57600 (KabyLake-S),インテル,LGA1151,3.5,4.1,4,4,,,3000.0,30250
+221,AMD Ryzen Threadripper 1900X BOX,https://kakaku.com/item/K0000993227/,RyzenThreadripper1900X,AMD,SocketTR4,3.8,4.0,8,16,4000.0,16000.0,,33690
+222,インテル Xeon E-2234 BOX,https://kakaku.com/item/K0001210313/,XeonE-2234 (CoffeeLake),インテル,LGA1151,3.6,4.8,4,8,,,12000.0,34595
+223,インテル Xeon E-2226G BOX,https://kakaku.com/item/K0001210312/,XeonE-2226G (CoffeeLake),インテル,LGA1151,3.4,4.7,6,6,,,12000.0,35200
+224,インテル Core i5 6600 BOX,https://kakaku.com/item/K0000808339/,Corei56600 (Skylake),インテル,LGA1151,3.3,3.9,4,4,,,6000.0,37835
+225,インテル Xeon E3-1270 バルク,https://kakaku.com/item/K0000243933/,,,,,,,,,,,
+226,インテル Xeon E-2274G BOX,https://kakaku.com/item/K0001210314/,XeonE-2274G (CoffeeLake),インテル,LGA1151,4.0,4.9,4,8,,,8000.0,45155
+227,インテル Xeon W-2123 バルク,https://kakaku.com/item/K0001098188/,XeonW-2123 (Skylake-W),インテル,LGA2066,3.6,3.9,4,8,,8250.0,,47303
+228,インテル Xeon E5-2620 v3 バルク,https://kakaku.com/item/K0000691501/,XeonE5-2620V3 (Haswell-EP),インテル,LGA2011-3,2.4,,6,,,,15000.0,49704
 229,インテル Xeon Silver 4108 BOX,https://kakaku.com/item/K0000982868/,XeonSilver4108 (Skylake-SP),インテル,LGA3647,1.8,3.0,8,16,,11000.0,,52750
-230,インテル Core i7 4771 BOX,https://kakaku.com/item/K0000568222/,Corei74771 (Haswell),インテル,LGA1150,3.5,3.9,4,8,,,8000.0,54000
-231,インテル Xeon E5-1630 v4 バルク,https://kakaku.com/item/K0000931015/,XeonE5-1630V4 (Broadwell-EP),インテル,LGA2011-3,3.7,,4,,,10000.0,,54800
+230,インテル Xeon E5-1630 v4 バルク,https://kakaku.com/item/K0000931015/,XeonE5-1630V4 (Broadwell-EP),インテル,LGA2011-3,3.7,,4,,,10000.0,,54800
+231,インテル Core i7 5930K BOX,https://kakaku.com/item/K0000688452/,Corei75930K (HaswellE),インテル,LGA2011-3,3.5,3.7,6,12,,,15000.0,57800
 232,インテル Xeon Silver 4112 BOX,https://kakaku.com/item/K0000982866/,XeonSilver4112 (Skylake-SP),インテル,LGA3647,2.6,3.0,4,8,,8250.0,,61929
-233,インテル Xeon E5-2623 v4 バルク,https://kakaku.com/item/K0000869930/,XeonE5-2623V4 (Broadwell-EP),インテル,LGA2011-3,2.6,,4,,,,10000.0,64575
+233,インテル Xeon E5-2623 v4 バルク,https://kakaku.com/item/K0000869930/,XeonE5-2623V4 (Broadwell-EP),インテル,LGA2011-3,2.6,,4,,,,20000.0,64575
 234,インテル Xeon W-2125 バルク,https://kakaku.com/item/K0001098189/,XeonW-2125 (Skylake-W),インテル,LGA2066,4.0,4.5,4,8,,8250.0,,64799
 235,インテル Xeon Silver 4110 バルク,https://kakaku.com/item/K0000982871/,XeonSilver4110 (Skylake-SP),インテル,LGA3647,2.1,,8,,,11000.0,,64982
 236,インテル Xeon Silver 4112 バルク,https://kakaku.com/item/K0000982867/,XeonSilver4112 (Skylake-SP),インテル,LGA3647,2.6,3.0,4,8,,8250.0,,74249
 237,インテル Xeon E5-1650 v4 BOX,https://kakaku.com/item/K0000904453/,XeonE5-1650V4 (Broadwell-EP),インテル,LGA2011-3,3.6,4.0,6,12,,15000.0,,77204
-238,インテル Xeon Silver 4214 BOX,https://kakaku.com/item/K0001159424/,XeonSilver4214 (CascadeLake-SP),インテル,LGA3647,2.2,3.2,12,24,,17000.0,,86450
-239,インテル Xeon W-2133 バルク,https://kakaku.com/item/K0001098190/,XeonW-2133 (Skylake-W),インテル,LGA2066,3.6,3.9,6,12,,8250.0,,87371
-240,インテル Xeon E5-2630 v3 BOX,https://kakaku.com/item/K0000691496/,XeonE5-2630V3 (Haswell-EP),インテル,LGA2011-3,2.4,3.2,8,16,,,20000.0,88046
-241,インテル Xeon Silver 4114 BOX,https://kakaku.com/item/K0000982864/,XeonSilver4114 (Skylake-SP),インテル,LGA3647,2.2,3.0,10,20,,13750.0,,89979
-242,AMD EPYC 7251 BOX,https://kakaku.com/item/K0001087354/,EPYC7251,AMD,,2.1,2.9,8,16,,32000.0,,98779
-243,インテル Xeon E5-2640 v2 BOX,https://kakaku.com/item/K0000576833/,XeonE5-2640V2 (IvyBridge),インテル,LGA2011,2.0,,8,,,,20000.0,104082
-244,インテル Xeon W-2135 BOX,https://kakaku.com/item/K0001031352/,XeonW-2135 (Skylake-W),インテル,LGA2066,3.7,4.5,6,12,,8250.0,,104590
-245,AMD EPYC 7351P BOX,https://kakaku.com/item/K0001087350/,EPYC7351P,AMD,,2.4,2.9,16,32,,64000.0,,109999
-246,インテル Core i7 5960X Extreme Edition BOX,https://kakaku.com/item/K0000688450/,Corei75960XExtremeEdition (HaswellE),インテル,LGA2011-3,3.0,,8,,,,20000.0,114378
-247,インテル Core i9 7940X BOX,https://kakaku.com/item/K0001008608/,Corei97940X (Skylake-X),インテル,LGA2066,3.1,4.3,14,28,,19250.0,,117480
-248,インテル Xeon W-2135 バルク,https://kakaku.com/item/K0001098191/,XeonW-2135 (Skylake-W),インテル,LGA2066,3.7,4.5,6,12,,8250.0,,118799
-249,インテル Xeon Silver 4116 バルク,https://kakaku.com/item/K0000982863/,XeonSilver4116 (Skylake-SP),インテル,LGA3647,2.1,3.0,12,24,,16500.0,,126093
-250,インテル Xeon Silver 4116 BOX,https://kakaku.com/item/K0000982862/,XeonSilver4116 (Skylake-SP),インテル,LGA3647,2.1,3.0,12,24,,16500.0,,128699
-251,インテル Xeon E5-1660 v4 バルク,https://kakaku.com/item/K0000931016/,XeonE5-1660V4 (Broadwell-EP),インテル,LGA2011-3,3.2,,8,,,20000.0,,142389
-252,インテル Xeon E5-4603 BOX,https://kakaku.com/item/K0000377277/,XeonE5-4603,インテル,LGA2011,2.0,,4,8,,,10000.0,142698
-253,インテル Core i9 7960X BOX,https://kakaku.com/item/K0001008609/,Corei97960X (Skylake-X),インテル,LGA2066,2.8,4.2,16,32,,22000.0,,142780
-254,インテル Xeon E5-2650 v4 BOX,https://kakaku.com/item/K0000869939/,XeonE5-2650V4 (Broadwell-EP),インテル,LGA2011-3,2.2,2.9,12,24,,,30000.0,148499
-255,インテル Xeon Gold 5122 BOX,https://kakaku.com/item/K0000982844/,XeonGold5122 (Skylake-SP),インテル,LGA3647,3.6,3.7,4,8,,16500.0,,149890
-256,インテル Xeon W-3225 バルク,https://kakaku.com/item/K0001211657/,XeonW-3225 (CascadeLake),インテル,LGA3647,3.7,4.4,8,16,,16500.0,,159490
-257,インテル Xeon W-2145 バルク,https://kakaku.com/item/K0001098192/,XeonW-2145 (Skylake-W),インテル,LGA2066,3.7,4.5,8,16,,11000.0,,159839
-258,インテル Xeon E5-2660 v2 BOX,https://kakaku.com/item/K0000576831/,XeonE5-2660V2 (IvyBridge),インテル,LGA2011,2.2,,10,,,,25000.0,163848
-259,インテル Core i9 7980XE Extreme Edition BOX,https://kakaku.com/item/K0001008610/,Corei97980XE (Skylake-X),インテル,LGA2066,2.6,4.2,18,36,,24750.0,,166980
-260,インテル Xeon E5-2670 v2 バルク,https://kakaku.com/item/K0000575844/,XeonE5-2670V2 (IvyBridge),インテル,LGA2011,2.5,3.3,10,20,,,25000.0,169800
-261,AMD Opteron 8220 Socket F BOX,https://kakaku.com/item/05100511204/,Opteron8220,AMD,SocketF,2.8,,2,,2000.0,,,173996
-262,インテル Xeon E5-2660 v4 BOX,https://kakaku.com/item/K0000869941/,XeonE5-2660V4 (Broadwell-EP),インテル,LGA2011-3,2.0,3.2,14,28,,35000.0,,184799
-263,インテル Xeon Gold 5120 BOX,https://kakaku.com/item/K0000982860/,XeonGold5120 (Skylake-SP),インテル,LGA3647,2.2,3.2,14,28,,19250.0,,185790
-264,インテル Xeon Gold 5220 BOX,https://kakaku.com/item/K0001159362/,XeonGold5220 (CascadeLake-SP),インテル,LGA3647,2.2,3.9,18,36,,25000.0,,193480
-265,AMD EPYC 7351 BOX,https://kakaku.com/item/K0001087351/,EPYC7351,AMD,,2.4,2.9,16,32,,64000.0,,197999
-266,AMD Opteron 6140 BOX,https://kakaku.com/item/K0000469700/,Opteron6140,AMD,,2.6,,8,,512.0,12000.0,,198608
-267,インテル Xeon E5-2680 v2 BOX,https://kakaku.com/item/K0000576830/,XeonE5-2680V2 (IvyBridge),インテル,LGA2011,2.8,,10,,,,25000.0,200226
-268,インテル Xeon Gold 6128 BOX,https://kakaku.com/item/K0000984678/,XeonGold6128 (Skylake-SP),インテル,LGA3647,3.4,3.7,6,12,,19250.0,,205990
-269,インテル Xeon E5-2643 v4 バルク,https://kakaku.com/item/K0000869936/,XeonE5-2643V4 (Broadwell-EP),インテル,LGA2011-3,3.4,,6,,,,20000.0,206556
-270,インテル Xeon E5-2680 v4 BOX,https://kakaku.com/item/K0000869943/,XeonE5-2680V4 (Broadwell-EP),インテル,LGA2011-3,2.4,3.3,14,28,,,35000.0,219999
-271,インテル Xeon E5-1680 v4 バルク,https://kakaku.com/item/K0000931017/,XeonE5-1680V4 (Broadwell-EP),インテル,LGA2011-3,3.4,,8,,,20000.0,,225611
-272,インテル Xeon E5-4607 BOX,https://kakaku.com/item/K0000377275/,XeonE5-4607,インテル,LGA2011,2.2,,6,12,,,15000.0,228195
-273,インテル Xeon Gold 6130 BOX,https://kakaku.com/item/K0000982856/,XeonGold6130 (Skylake-SP),インテル,LGA3647,2.1,3.7,16,32,,22000.0,,229890
-274,インテル Xeon E5-2690 v2 BOX,https://kakaku.com/item/K0000575840/,XeonE5-2690V2 (IvyBridge),インテル,LGA2011,3.0,3.6,10,20,,,25000.0,240099
-275,インテル Xeon E5-2643 BOX,https://kakaku.com/item/K0000348858/,XeonE5-2643,インテル,LGA2011,3.3,3.5,4,8,,,10000.0,242931
-276,インテル Xeon E5-2690 v4 BOX,https://kakaku.com/item/K0000869946/,XeonE5-2690V4 (Broadwell-EP),インテル,LGA2011-3,2.6,3.5,14,28,,,35000.0,259599
-277,インテル Xeon W-3245 バルク,https://kakaku.com/item/K0001211655/,XeonW-3245 (CascadeLake),インテル,LGA3647,3.2,4.6,16,32,,22000.0,,263990
-278,インテル Xeon W-2175 バルク,https://kakaku.com/item/K0001098194/,XeonW-2175 (Skylake-W),インテル,LGA2066,2.5,4.3,14,28,,19000.0,,264815
-279,インテル Xeon E5-2667 v4 バルク,https://kakaku.com/item/K0000869942/,XeonE5-2667V4 (Broadwell-EP),インテル,LGA2011-3,3.2,,8,,,,25000.0,267629
-280,インテル Xeon Gold 6134 BOX,https://kakaku.com/item/K0000982842/,XeonGold6134 (Skylake-SP),インテル,LGA3647,3.2,3.7,8,16,,24750.0,,267790
-281,インテル Xeon E5-2687W v3 BOX,https://kakaku.com/item/K0000691897/,XeonE5-2687WV3 (Haswell-EP),インテル,LGA2011-3,3.1,3.5,10,20,,,25000.0,270424
-282,インテル Xeon E5-4610 BOX,https://kakaku.com/item/K0000377273/,XeonE5-4610,インテル,LGA2011,2.4,2.9,6,12,,,15000.0,271440
-283,インテル Xeon E5-2650L BOX,https://kakaku.com/item/K0000348856/,XeonE5-2650L,インテル,LGA2011,1.8,2.3,8,16,,,20000.0,294704
-284,AMD EPYC 7551P BOX,https://kakaku.com/item/K0001087344/,EPYC7551P,AMD,,2.0,3.0,32,64,,64000.0,,311299
-285,インテル Xeon Gold 6240 BOX,https://kakaku.com/item/K0001159364/,XeonGold6240 (CascadeLake-SP),インテル,LGA3647,2.6,3.9,18,36,,25000.0,,311980
-286,インテル Xeon Gold 6242 BOX,https://kakaku.com/item/K0001159361/,XeonGold6242 (CascadeLake-SP),インテル,LGA3647,2.8,3.9,16,32,,22000.0,,313400
-287,インテル Xeon Gold 6138 BOX,https://kakaku.com/item/K0000982852/,XeonGold6138 (Skylake-SP),インテル,LGA3647,2.0,3.7,20,40,,27500.0,,321990
-288,AMD EPYC 7401 BOX,https://kakaku.com/item/K0001087349/,EPYC7401,AMD,,2.0,3.0,24,48,,64000.0,,329999
-289,インテル Xeon Gold 6142 BOX,https://kakaku.com/item/K0000982848/,XeonGold6142 (Skylake-SP),インテル,LGA3647,2.6,3.7,16,32,,22000.0,,360990
-290,インテル Xeon Gold 6248 BOX,https://kakaku.com/item/K0001159363/,XeonGold6248 (CascadeLake-SP),インテル,LGA3647,2.5,3.9,20,40,,28000.0,,381670
-291,インテル Xeon E5-4620 BOX,https://kakaku.com/item/K0000377269/,XeonE5-4620,インテル,LGA2011,2.2,2.6,8,16,,,16000.0,392697
-292,インテル Xeon E5-4617 BOX,https://kakaku.com/item/K0000377271/,XeonE5-4617,インテル,LGA2011,2.9,3.4,6,6,,,15000.0,392738
-293,AMD EPYC 7451 BOX,https://kakaku.com/item/K0001087347/,EPYC7451,AMD,,2.3,3.2,24,48,,64000.0,,426689
-294,インテル Xeon W-3265 バルク,https://kakaku.com/item/K0001211653/,XeonW-3265 (CascadeLake),インテル,LGA3647,2.7,4.6,24,48,,33000.0,,434380
-295,AMD EPYC 7551 BOX,https://kakaku.com/item/K0001087345/,EPYC7551,AMD,,2.0,3.0,32,64,,64000.0,,532069
-296,AMD EPYC 7501 BOX,https://kakaku.com/item/K0001087346/,EPYC7501,AMD,,2.0,3.0,32,64,,64000.0,,581899
-297,インテル Xeon E5-4640 BOX,https://kakaku.com/item/K0000377267/,XeonE5-4640,インテル,LGA2011,2.4,2.8,8,16,,,20000.0,636390
-298,インテル Xeon W-3245M バルク,https://kakaku.com/item/K0001211654/,XeonW-3245M (CascadeLake),インテル,LGA3647,3.2,4.6,16,32,,22000.0,,648990
-299,インテル Xeon Platinum 8164 BOX,https://kakaku.com/item/K0001006706/,XeonPlatinum8164 (Skylake-SP),インテル,LGA3647,2.0,3.7,26,52,,35750.0,,747990
-300,インテル Xeon E5-4650 BOX,https://kakaku.com/item/K0000377263/,XeonE5-4650,インテル,LGA2011,2.7,3.3,8,16,,,20000.0,856949
-301,インテル Xeon Platinum 8256 BOX,https://kakaku.com/item/K0001159360/,XeonPlatinum8256 (CascadeLake-SP),インテル,LGA3647,3.8,3.9,4,8,,17000.0,,863000
-302,インテル Xeon Platinum 8170 BOX,https://kakaku.com/item/K0000984676/,XeonPlatinum8170 (Skylake-SP),インテル,LGA3647,2.1,3.7,26,52,,35750.0,,903900
-303,インテル Xeon Platinum 8176 BOX,https://kakaku.com/item/K0000982876/,XeonPlatinum8176 (Skylake-SP),インテル,LGA3647,2.1,3.8,28,56,,38500.0,,1064900
+238,インテル Xeon E5-2630 v4 バルク,https://kakaku.com/item/K0001037510/,XeonE5-2630V4 (Broadwell-EP),インテル,LGA2011-3,2.2,,10,,,,25000.0,79969
+239,AMD EPYC 7301 BOX,https://kakaku.com/item/K0001087352/,EPYC7301,AMD,,2.2,2.7,16,32,,64000.0,,81399
+240,インテル Xeon W-2133 バルク,https://kakaku.com/item/K0001098190/,XeonW-2133 (Skylake-W),インテル,LGA2066,3.6,3.9,6,12,,8250.0,,87371
+241,インテル Xeon E5-2630 v3 BOX,https://kakaku.com/item/K0000691496/,XeonE5-2630V3 (Haswell-EP),インテル,LGA2011-3,2.4,3.2,8,16,,,20000.0,88046
+242,インテル Xeon Silver 4114 BOX,https://kakaku.com/item/K0000982864/,XeonSilver4114 (Skylake-SP),インテル,LGA3647,2.2,3.0,10,20,,13750.0,,89979
+243,インテル Xeon E5-2640 v4 BOX,https://kakaku.com/item/K0000869935/,XeonE5-2640V4 (Broadwell-EP),インテル,LGA2011-3,2.4,3.4,10,20,,,25000.0,96580
+244,AMD EPYC 7251 BOX,https://kakaku.com/item/K0001087354/,EPYC7251,AMD,,2.1,2.9,8,16,,32000.0,,98779
+245,インテル Core i9 7920X BOX,https://kakaku.com/item/K0000995578/,Corei97920X (Skylake-X),インテル,LGA2066,2.9,4.3,12,24,,16500.0,,99880
+246,インテル Xeon E5-2640 v2 BOX,https://kakaku.com/item/K0000576833/,XeonE5-2640V2 (IvyBridge),インテル,LGA2011,2.0,,8,,,,20000.0,104129
+247,AMD EPYC 7351P BOX,https://kakaku.com/item/K0001087350/,EPYC7351P,AMD,,2.4,2.9,16,32,,64000.0,,109999
+248,インテル Core i9 7900X,https://kakaku.com/item/K0000970155/,Corei97900X (Skylake-X),インテル,LGA2066,3.3,4.3,10,20,,13750.0,,115499
+249,インテル Xeon W-2135 バルク,https://kakaku.com/item/K0001098191/,XeonW-2135 (Skylake-W),インテル,LGA2066,3.7,4.5,6,12,,8250.0,,118799
+250,インテル Xeon Silver 4116 バルク,https://kakaku.com/item/K0000982863/,XeonSilver4116 (Skylake-SP),インテル,LGA3647,2.1,3.0,12,24,,16500.0,,126093
+251,インテル Xeon Silver 4116 BOX,https://kakaku.com/item/K0000982862/,XeonSilver4116 (Skylake-SP),インテル,LGA3647,2.1,3.0,12,24,,16500.0,,128699
+252,インテル XEON 5080 BOX,https://kakaku.com/item/05100011044/,Xeon5080,インテル,Socket771,3.73,,2,,4000.0,,,132732
+253,インテル Xeon E5-4603 BOX,https://kakaku.com/item/K0000377277/,XeonE5-4603,インテル,LGA2011,2.0,,4,8,,,10000.0,142702
+254,インテル Core i9 7960X BOX,https://kakaku.com/item/K0001008609/,Corei97960X (Skylake-X),インテル,LGA2066,2.8,4.2,16,32,,22000.0,,142780
+255,インテル Xeon E5-2650 v4 BOX,https://kakaku.com/item/K0000869939/,XeonE5-2650V4 (Broadwell-EP),インテル,LGA2011-3,2.2,2.9,12,24,,,30000.0,148499
+256,インテル Xeon Gold 5122 BOX,https://kakaku.com/item/K0000982844/,XeonGold5122 (Skylake-SP),インテル,LGA3647,3.6,3.7,4,8,,16500.0,,149890
+257,インテル Xeon E5-2650 v3 BOX,https://kakaku.com/item/K0000691894/,XeonE5-2650V3 (Haswell-EP),インテル,LGA2011-3,2.3,,10,,,,25000.0,150187
+258,AMD EPYC 7401P BOX,https://kakaku.com/item/K0001087348/,EPYC7401P,AMD,,2.0,3.0,24,48,,64000.0,,156639
+259,インテル Xeon W-2145 バルク,https://kakaku.com/item/K0001098192/,XeonW-2145 (Skylake-W),インテル,LGA2066,3.7,4.5,8,16,,11000.0,,159839
+260,インテル Xeon E5-2660 v2 BOX,https://kakaku.com/item/K0000576831/,XeonE5-2660V2 (IvyBridge),インテル,LGA2011,2.2,,10,,,,25000.0,163924
+261,インテル Xeon E5-2670 v2 バルク,https://kakaku.com/item/K0000575844/,XeonE5-2670V2 (IvyBridge),インテル,LGA2011,2.5,3.3,10,20,,,25000.0,169800
+262,AMD Opteron 8220 Socket F BOX,https://kakaku.com/item/05100511204/,Opteron8220,AMD,SocketF,2.8,,2,,2000.0,,,174002
+263,インテル Xeon E5-2670 v2 BOX,https://kakaku.com/item/K0000575843/,XeonE5-2670V2 (IvyBridge),インテル,LGA2011,2.5,3.3,10,20,,,25000.0,180814
+264,インテル Xeon E5-2660 v4 BOX,https://kakaku.com/item/K0000869941/,XeonE5-2660V4 (Broadwell-EP),インテル,LGA2011-3,2.0,3.2,14,28,,35000.0,,184799
+265,インテル Xeon E5-2660 v3 BOX,https://kakaku.com/item/K0000691893/,XeonE5-2660V3 (Haswell-EP),インテル,LGA2011-3,2.6,,10,,,,25000.0,185018
+266,インテル Xeon Gold 5120 BOX,https://kakaku.com/item/K0000982860/,XeonGold5120 (Skylake-SP),インテル,LGA3647,2.2,3.2,14,28,,19250.0,,185790
+267,インテル Xeon W-2155 バルク,https://kakaku.com/item/K0001098193/,XeonW-2155 (Skylake-W),インテル,LGA2066,3.3,4.5,10,20,,13750.0,,188783
+268,インテル Xeon Gold 5220 BOX,https://kakaku.com/item/K0001159362/,XeonGold5220 (CascadeLake-SP),インテル,LGA3647,2.2,3.9,18,36,,25000.0,,193480
+269,AMD Opteron 6140 BOX,https://kakaku.com/item/K0000469700/,Opteron6140,AMD,,2.6,,8,,512.0,12000.0,,198679
+270,インテル Xeon E5-2643 v4 バルク,https://kakaku.com/item/K0000869936/,XeonE5-2643V4 (Broadwell-EP),インテル,LGA2011-3,3.4,,6,,,,20000.0,206556
+271,インテル Xeon E5-2680 v4 BOX,https://kakaku.com/item/K0000869943/,XeonE5-2680V4 (Broadwell-EP),インテル,LGA2011-3,2.4,3.3,14,28,,,35000.0,219999
+272,インテル Xeon E5-1680 v4 バルク,https://kakaku.com/item/K0000931017/,XeonE5-1680V4 (Broadwell-EP),インテル,LGA2011-3,3.4,,8,,,,25000.0,225611
+273,インテル Xeon E5-4607 BOX,https://kakaku.com/item/K0000377275/,XeonE5-4607,インテル,LGA2011,2.2,,6,12,,,12000.0,228293
+274,インテル Xeon Gold 6130 BOX,https://kakaku.com/item/K0000982856/,XeonGold6130 (Skylake-SP),インテル,LGA3647,2.1,3.7,16,32,,22000.0,,229890
+275,インテル Xeon E5-2683 v4 BOX,https://kakaku.com/item/K0000869944/,XeonE5-2683V4 (Broadwell-EP),インテル,LGA2011-3,2.1,3.0,16,32,,,40000.0,229899
+276,インテル Xeon E5-2680 v3 BOX,https://kakaku.com/item/K0000691891/,XeonE5-2680V3 (Haswell-EP),インテル,LGA2011-3,2.5,,12,,,,30000.0,238192
+277,インテル Xeon E5-2690 v2 BOX,https://kakaku.com/item/K0000575840/,XeonE5-2690V2 (IvyBridge),インテル,LGA2011,3.0,3.6,10,20,,,25000.0,240209
+278,インテル Xeon E5-2643 BOX,https://kakaku.com/item/K0000348858/,XeonE5-2643,インテル,LGA2011,3.3,3.5,4,8,,,10000.0,242931
+279,インテル Xeon E5-2690 v3 BOX,https://kakaku.com/item/K0000691890/,XeonE5-2690V3 (Haswell-EP),インテル,LGA2011-3,2.6,,12,,,,30000.0,264152
+280,インテル Xeon W-2175 バルク,https://kakaku.com/item/K0001098194/,XeonW-2175 (Skylake-W),インテル,LGA2066,2.5,4.3,14,28,,19000.0,,264815
+281,インテル Xeon E5-2687W v4 BOX,https://kakaku.com/item/K0000869945/,XeonE5-2687WV4 (Broadwell-EP),インテル,LGA2011-3,3.0,3.5,12,24,,,30000.0,265979
+282,インテル Xeon E5-2667 v4 バルク,https://kakaku.com/item/K0000869942/,XeonE5-2667V4 (Broadwell-EP),インテル,LGA2011-3,3.2,,8,,,,25000.0,267629
+283,インテル Xeon Gold 6134 BOX,https://kakaku.com/item/K0000982842/,XeonGold6134 (Skylake-SP),インテル,LGA3647,3.2,3.7,8,16,,24750.0,,267790
+284,インテル Xeon E5-2687W v3 BOX,https://kakaku.com/item/K0000691897/,XeonE5-2687WV3 (Haswell-EP),インテル,LGA2011-3,3.1,3.5,10,20,,,25000.0,270633
+285,インテル Xeon E5-4610 BOX,https://kakaku.com/item/K0000377273/,XeonE5-4610,インテル,LGA2011,2.4,2.9,6,12,,,15000.0,271557
+286,インテル Xeon E5-2650L BOX,https://kakaku.com/item/K0000348856/,XeonE5-2650L,インテル,LGA2011,1.8,2.3,8,16,,,20000.0,294796
+287,インテル Xeon Gold 6140 BOX,https://kakaku.com/item/K0000982846/,XeonGold6140 (Skylake-SP),インテル,LGA3647,2.3,3.7,18,36,,24750.0,,299890
+288,インテル Xeon Gold 6240 BOX,https://kakaku.com/item/K0001159364/,XeonGold6240 (CascadeLake-SP),インテル,LGA3647,2.6,3.9,18,36,,25000.0,,311980
+289,インテル Xeon Gold 6138 BOX,https://kakaku.com/item/K0000982852/,XeonGold6138 (Skylake-SP),インテル,LGA3647,2.0,3.7,20,40,,27500.0,,321990
+290,インテル Xeon Gold 6238 BOX,https://kakaku.com/item/K0001203701/,XeonGold6238 (CascadeLake),インテル,LGA3647,2.1,3.7,22,44,,30250.0,,329400
+291,インテル Xeon Gold 6142 BOX,https://kakaku.com/item/K0000982848/,XeonGold6142 (Skylake-SP),インテル,LGA3647,2.6,3.7,16,32,,22000.0,,360990
+292,インテル Xeon Gold 6248 BOX,https://kakaku.com/item/K0001159363/,XeonGold6248 (CascadeLake-SP),インテル,LGA3647,2.5,3.9,20,40,,28000.0,,381670
+293,インテル Xeon E5-4620 BOX,https://kakaku.com/item/K0000377269/,XeonE5-4620,インテル,LGA2011,2.2,2.6,8,16,,,16000.0,392681
+294,インテル Xeon E5-4617 BOX,https://kakaku.com/item/K0000377271/,XeonE5-4617,インテル,LGA2011,2.9,3.4,6,6,,,15000.0,392905
+295,AMD EPYC 7451 BOX,https://kakaku.com/item/K0001087347/,EPYC7451,AMD,,2.3,3.2,24,48,,64000.0,,426689
+296,インテル Xeon W-3265 バルク,https://kakaku.com/item/K0001211653/,XeonW-3265 (CascadeLake),インテル,LGA3647,2.7,4.6,24,48,,33000.0,,434380
+297,インテル Xeon Gold 6152 BOX,https://kakaku.com/item/K0000982850/,XeonGold6152 (Skylake-SP),インテル,LGA3647,2.1,3.7,22,44,,30250.0,,437690
+298,インテル Xeon Platinum 8160 BOX,https://kakaku.com/item/K0000982858/,XeonPlatinum8160 (Skylake-SP),インテル,LGA3647,2.1,3.7,24,48,,33000.0,,572990
+299,AMD EPYC 7501 BOX,https://kakaku.com/item/K0001087346/,EPYC7501,AMD,,2.0,3.0,32,64,,64000.0,,581899
+300,インテル Xeon E5-4640 BOX,https://kakaku.com/item/K0000377267/,XeonE5-4640,インテル,LGA2011,2.4,2.8,8,16,,20000.0,,636661
+301,インテル Xeon W-3245M バルク,https://kakaku.com/item/K0001211654/,XeonW-3245M (CascadeLake),インテル,LGA3647,3.2,4.6,16,32,,22000.0,,648990
+302,インテル Xeon Platinum 8164 BOX,https://kakaku.com/item/K0001006706/,XeonPlatinum8164 (Skylake-SP),インテル,LGA3647,2.0,3.7,26,52,,35750.0,,747990
+303,インテル Xeon W-3265M バルク,https://kakaku.com/item/K0001211652/,XeonW-3265M (CascadeLake),インテル,LGA3647,2.7,4.6,24,48,,,16000.0,813999
+304,インテル Xeon Platinum 8170 BOX,https://kakaku.com/item/K0000984676/,XeonPlatinum8170 (Skylake-SP),インテル,LGA3647,2.1,3.7,26,52,,35750.0,,903900

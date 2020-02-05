@@ -2,7 +2,7 @@
 {% block content %}
 
 <h1>予算内で最適なPCパーツの組み合わせを選びます</h1>
-<p><font color="red">※価格は 2020/1/15 確認分です</font></p>
+<p><font color="red">※価格は 2020/2/5 確認分です</font></p>
 
 <p>予算を入力してください(必須)、その他の条件は任意でお願いします。</p>
 
@@ -31,7 +31,7 @@
     </p>
     <p>ビデオカードのURL(価格.com)
         <input type="text" name="gpu_url">
-        <a href="https://kakaku.com/pc/videocard/itemlist.aspx">価格.com(ビデオカード)</a>
+        <a href="https://kakaku.com/pc/videocard/itemlist.aspx" target="_blank">価格.com(ビデオカード)</a>
         <br>
         ex1. https://kakaku.com/item<b>/Kxxxxxx/</b>(?...) </br>
         ex2. https://s.kakaku.com/item<b>/Kxxxxxx/</b>(?...)
@@ -48,10 +48,10 @@
         <p>組み合わせが見つかりませんでした、別の条件を入力してください。</p>
     {% else %}
         {% if values.budget %}
-            <p>CPU : <a href="{{ values.cpu_url }}">{{ values.cpu }}</a>  / {{ values.cpu_price }} 円</p>
-            <p>Graphic : <a href="{{ values.gpu_url }}">{{ values.gpu }}</a> / {{ values.gpu_price }} 円</p>
-            <p>Memory : <a href="{{ values.ram_url }}">{{ values.ram }}</a> / {{ values.ram_price }} 円</p>
-            <p>{{ values.r_hdd_ssd }} [{{ values.r_capacity }} GB]: <a href="{{ values.disk_url }}">{{ values.disk }}</a> / {{ values.disk_price }} 円</p>
+            <p>CPU : <a href="{{ values.cpu_url }}" target="_blank">{{ values.cpu }}</a>  / {{ values.cpu_price }} 円</p>
+            <p>Graphic : <a href="{{ values.gpu_url }}" target="_blank">{{ values.gpu }}</a> / {{ values.gpu_price }} 円</p>
+            <p>Memory : <a href="{{ values.ram_url }}" target="_blank">{{ values.ram }}</a> / {{ values.ram_price }} 円</p>
+            <p>{{ values.r_hdd_ssd }} [{{ values.r_capacity }} GB]: <a href="{{ values.disk_url }}" target="_blank">{{ values.disk }}</a> / {{ values.disk_price }} 円</p>
             <p>score: {{ values.SCORE }}</p>
             <p>price: {{ values.PRICE }}円</p>
         {% else %}
@@ -66,10 +66,10 @@
 
 <h2><font color="blue">組み立て例とスコア</font></h2>
 {% for example in values.examples %}
-<p>CPU : <a href="{{ example.cpu_url }}">{{ example.cpu }}</a> / {{ example.cpu_price }}円</p>
-<p>Graphic : <a href="{{ example.gpu_url }}">{{ example.gpu }}</a> / {{ example.gpu_price}}円</p>
-<p>Memory : <a href="{{ example.ram_url }}">{{ example.ram }}</a> / {{ example.ram_price }}円</p>
-<p>{{ example.hdd_ssd }} [{{ example.capacity }} GB]: <a href="{{ example.disk_url }}">{{ example.disk }}</a> / {{ example.disk_price }}円</p>
+<p>CPU : <a href="{{ example.cpu_url }}" target="_blank">{{ example.cpu }}</a> / {{ example.cpu_price }}円</p>
+<p>Graphic : <a href="{{ example.gpu_url }}" target="_blank">{{ example.gpu }}</a> / {{ example.gpu_price}}円</p>
+<p>Memory : <a href="{{ example.ram_url }}" target="_blank">{{ example.ram }}</a> / {{ example.ram_price }}円</p>
+<p>{{ example.hdd_ssd }} [{{ example.capacity }} GB]: <a href="{{ example.disk_url }}" target="_blank">{{ example.disk }}</a> / {{ example.disk_price }}円</p>
     <p>score: {{ example.SCORE }}</p>
     <p>price: {{ example.PRICE }}円</p>
 
